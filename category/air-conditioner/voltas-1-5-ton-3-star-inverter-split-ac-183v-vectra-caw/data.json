@@ -1,1 +1,62 @@
 
+{
+  "id": "ac-001",
+  "title": "Voltas 183V Vectra CAW 1.5 Ton 3 Star Inverter Split AC",
+  "slug": "voltas-1-5-ton-3-star-inverter-split-ac-183v-vectra-caw",
+
+  "brand": "Voltas",
+  "category": "air-conditioner",
+
+  "price": {
+    "current": 30990,
+    "original": 62990,
+    "discount": "51%"
+  },
+
+  "rating": {
+    "value": 3.7,
+    "reviews": 2125
+  },
+
+  "affiliate": {
+    "platform": "Amazon",
+    "commission": "3.50%",
+    "link": "https://amzn.to/4vvUkRg"
+  },
+
+  "images": [
+    "/category/air-conditioner/voltas-1-5-ton-3-star-inverter-split-ac-183v-vectra-caw/images/image-1.jpg",
+    "/category/air-conditioner/voltas-1-5-ton-3-star-inverter-split-ac-183v-vectra-caw/images/image-2.jpg",
+    "/category/air-conditioner/voltas-1-5-ton-3-star-inverter-split-ac-183v-vectra-caw/images/image-3.jpg",
+    "/category/air-conditioner/voltas-1-5-ton-3-star-inverter-split-ac-183v-vectra-caw/images/image-4.jpg"
+  ],
+
+  "highlights": [
+    "1.5 Ton - Ideal for 111–150 sq ft rooms",
+    "3 Star Energy Rating",
+    "4-in-1 Adjustable Cooling",
+    "High ambient cooling (52°C)",
+    "Copper condenser"
+  ],
+
+  "pros": [
+    "Fast cooling",
+    "Affordable price",
+    "Energy efficient"
+  ],
+
+  "cons": [
+    "Installation charges extra",
+    "Service varies by location"
+  ],
+
+  "cta": {
+    "buy_now": "https://amzn.to/4vvUkRg",
+    "text": "Check Price on Amazon"
+  },
+
+  "seo": {
+    "meta_title": "Voltas 1.5 Ton 3 Star Inverter AC Review 2026 | Best Budget Split AC",
+    "meta_description": "Buy Voltas 1.5 Ton 3 Star Inverter Split AC at best price. Check features, pros, cons, and latest offers in India."
+  }
+}
