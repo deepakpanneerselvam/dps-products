@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "id": "lg-us-q19ynze3",
+      "slug": "lg-1-5-ton-5-star-dual-inverter-split-ac-us-q19ynze3",
+      "url": "/categories/air-conditioner/lg-1-5-ton-5-star-dual-inverter-split-ac-us-q19ynze3.html",
+
+      "title": "LG 1.5 Ton 5 Star Dual Inverter Split AC (US-Q19YNZE3)",
+      "brand": "LG",
+      "model": "US-Q19YNZE3",
+
+      "category": "air-conditioner",
+      "subcategory": "split-ac",
+
+      "price": {
+        "current": 42990,
+        "original": 78990,
+        "currency": "INR",
+        "discount_percent": 46
+      },
+
+      "rating": {
+        "average": 4.0,
+        "count": 2937
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery 23 - 24 April",
+        "seller": "DAWNTECH ELECTRONICS PRIVATE LIMITED",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "/category/air-conditioner/lg-us-q19ynze3/images/image-1.jpg",
+        "/category/air-conditioner/lg-us-q19ynze3/images/image-2.jpg",
+        "/category/air-conditioner/lg-us-q19ynze3/images/image-3.jpg",
+        "/category/air-conditioner/lg-us-q19ynze3/images/image-4.jpg"
+      ],
+
+      "short_description": "LG 1.5 Ton 5 Star Dual Inverter Split AC is designed for powerful cooling, low noise operation, and high energy efficiency, ideal for medium-sized rooms in Indian climate conditions.",
+
+      "long_description": "The LG US-Q19YNZE3 1.5 Ton 5 Star Dual Inverter Split AC delivers advanced cooling performance with LG’s Dual Inverter Compressor technology. It ensures faster cooling, better energy efficiency, and reduced noise levels compared to conventional ACs.\n\nThis model is built for medium-sized rooms and is capable of operating efficiently even at high ambient temperatures up to 55°C. It features AI Convertible 6-in-1 cooling modes that adjust power consumption based on user needs.\n\nWith a 4-way swing system, it ensures uniform air distribution across the room. The HD filter with anti-virus protection improves indoor air quality by capturing dust and harmful particles.\n\nThe AC also includes features like stabilizer-free operation, smart diagnosis, auto clean, and low gas detection for improved durability and ease of maintenance. Overall, it is a premium, energy-efficient AC suitable for long-term usage.",
+
+      "highlights": [
+        "1.5 Ton capacity for medium rooms",
+        "5 Star energy rating for low power consumption",
+        "Dual Inverter Compressor for fast cooling",
+        "AI Convertible 6-in-1 cooling modes",
+        "4-way swing for uniform cooling",
+        "Works up to 55°C ambient temperature"
+      ],
+
+      "specifications": {
+        "capacity": "1.5 Ton",
+        "energy_rating": "5 Star",
+        "type": "Dual Inverter Split AC",
+        "cooling_power": "5.0 kW",
+        "air_flow": "653/1236 CFM",
+        "condenser_coil": "Copper",
+        "filter": "HD Anti-Virus Filter",
+        "refrigerant": "R32",
+        "voltage_range": "120V - 290V",
+        "special_features": [
+          "Dual Inverter Compressor",
+          "AI Convertible 6-in-1",
+          "4 Way Swing",
+          "Auto Clean",
+          "Smart Diagnosis",
+          "Diet Mode Plus"
+        ]
+      },
+
+      "pros": [
+        "Very energy efficient",
+        "Fast and powerful cooling",
+        "Low noise operation",
+        "Advanced AI cooling modes",
+        "Good air filtration system"
+      ],
+
+      "cons": [
+        "Installation charges extra",
+        "Premium pricing compared to basic ACs"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Fast cooling performance",
+          "Silent operation",
+          "Good energy savings"
+        ],
+        "negative": [
+          "Installation experience varies",
+          "Some users find pricing high"
+        ]
+      },
+
+      "offers": [
+        "No Cost EMI available",
+        "Bank discounts up to ₹2,500",
+        "Cashback via Amazon Pay ICICI card"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "pcb": "5 Years",
+        "compressor": "10 Years"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/3OytQOk",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "LG 1.5 Ton 5 Star Dual Inverter AC Review 2026 | Price & Features",
+        "meta_description": "Buy LG US-Q19YNZE3 1.5 Ton 5 Star Dual Inverter Split AC with latest price, features, pros & cons. Best energy efficient AC for Indian homes.",
+        "keywords": [
+          "lg 1.5 ton ac",
+          "lg dual inverter split ac",
+          "lg 5 star ac price",
+          "best lg ac india",
+          "inverter ac 1.5 ton"
+        ]
+      }
+    }
+  ]
+}
