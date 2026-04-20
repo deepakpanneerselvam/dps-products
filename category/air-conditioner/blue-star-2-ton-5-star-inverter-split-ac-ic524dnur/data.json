@@ -1,0 +1,127 @@
+{
+  "products": [
+    {
+      "id": "blue-star-ic524dnur",
+      "slug": "blue-star-2-ton-5-star-inverter-split-ac-ic524dnur",
+      "url": "/categories/air-conditioner/blue-star-2-ton-5-star-inverter-split-ac-ic524dnur.html",
+
+      "title": "Blue Star 2 Ton 5 Star Inverter Split AC (IC524DNUR)",
+      "brand": "Blue Star",
+      "model": "IC524DNUR",
+
+      "category": "air-conditioner",
+      "subcategory": "split-ac",
+
+      "price": {
+        "current": 53390,
+        "original": 78300,
+        "currency": "INR",
+        "discount_percent": 32
+      },
+
+      "rating": {
+        "average": 3.9,
+        "count": 104
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery 23 - 25 April",
+        "seller": "Dawntech Electronics Private Limited",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "/category/air-conditioner/blue-star-2-ton-5-star-inverter-split-ac-ic524dnur/images/image-1.jpg",
+        "/category/air-conditioner/blue-star-2-ton-5-star-inverter-split-ac-ic524dnur/images/image-2.jpg",
+        "/category/air-conditioner/blue-star-2-ton-5-star-inverter-split-ac-ic524dnur/images/image-3.jpg",
+        "/category/air-conditioner/blue-star-2-ton-5-star-inverter-split-ac-ic524dnur/images/image-4.jpg"
+      ],
+
+      "short_description": "Blue Star 2 Ton 5 Star Inverter Split AC with 5-in-1 convertible cooling, copper condenser, AI Pro cooling, and energy-efficient performance for medium to large rooms.",
+
+      "long_description": "The Blue Star 2 Ton 5 Star Inverter Split AC (IC524DNUR) is designed for powerful and efficient cooling in medium to large rooms (151–200 sq.ft). It features a 5-in-1 convertible cooling mode that adjusts power based on room conditions for better energy savings. Built with 100% copper components and anti-corrosive Blue Fin coating, it ensures long-lasting durability. The AI Pro technology intelligently adjusts temperature and fan speed based on ambient conditions, delivering optimal comfort. With high ambient cooling support up to 54°C, this AC performs reliably even in extreme heat conditions. It also includes self-diagnosis, dust filter, and eco mode for efficient usage.",
+
+      "highlights": [
+        "2 Ton capacity ideal for medium-large rooms",
+        "5 Star energy efficiency",
+        "5-in-1 convertible cooling modes",
+        "Copper condenser with Blue Fin protection",
+        "AI Pro smart cooling system",
+        "High ambient cooling up to 54°C"
+      ],
+
+      "specifications": {
+        "capacity": "2 Ton",
+        "energy_rating": "5 Star",
+        "type": "Inverter Split AC",
+        "cooling_power": "6100 W",
+        "noise_level": "52/48/43/39 dB",
+        "condenser_coil": "Copper",
+        "special_features": [
+          "AI Pro Cooling",
+          "5-in-1 Convertible",
+          "Self Diagnosis",
+          "Eco Mode",
+          "Turbo Cool"
+        ]
+      },
+
+      "pros": [
+        "Strong cooling performance",
+        "Good energy efficiency",
+        "Durable copper build",
+        "Smart AI cooling adjustment"
+      ],
+
+      "cons": [
+        "Installation cost is high",
+        "Smart features may require extra setup charge",
+        "Noise slightly noticeable at high speed"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Fast cooling in large rooms",
+          "Good energy savings in eco mode",
+          "Solid build quality"
+        ],
+        "negative": [
+          "Installation experience varies",
+          "Some noise reported at high fan speed",
+          "Missing parts reported in rare cases"
+        ]
+      },
+
+      "offers": [
+        "Up to ₹2,500 bank discount",
+        "No Cost EMI available",
+        "Cashback up to ₹1,601 on select cards"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "compressor": "10 Years",
+        "pcb": "5 Years"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4tye3hG",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Blue Star 2 Ton 5 Star Inverter AC (IC524DNUR) Price, Review & Features",
+        "meta_description": "Buy Blue Star 2 Ton 5 Star Inverter Split AC with 5-in-1 cooling, copper condenser, and AI Pro technology. Best AC for large rooms in India.",
+        "keywords": [
+          "blue star 2 ton ac",
+          "blue star ic524dnur review",
+          "2 ton 5 star inverter ac india",
+          "best blue star air conditioner",
+          "split ac 2 ton inverter price"
+        ]
+      }
+    }
+  ]
+}
