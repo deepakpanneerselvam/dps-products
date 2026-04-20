@@ -1,62 +1,128 @@
-
 {
-  "id": "ac-001",
-  "title": "Voltas 183V Vectra CAW 1.5 Ton 3 Star Inverter Split AC",
-  "slug": "voltas-1-5-ton-3-star-inverter-split-ac-183v-vectra-caw",
+  "products": [
+    {
+      "id": "voltas-183v-vectra-caw",
+      "slug": "voltas-183v-vectra-caw-1-5-ton-3-star-inverter-split-ac",
+      "url": "/categories/air-conditioner/voltas-183v-vectra-caw-1-5-ton-3-star-inverter-split-ac.html",
 
-  "brand": "Voltas",
-  "category": "air-conditioner",
+      "title": "Voltas 183V Vectra CAW 1.5 Ton 3 Star Inverter Split AC",
+      "brand": "Voltas",
+      "model": "183V Vectra CAW",
 
-  "price": {
-    "current": 30990,
-    "original": 62990,
-    "discount": "51%"
-  },
+      "category": "air-conditioner",
+      "subcategory": "split-ac",
 
-  "rating": {
-    "value": 3.7,
-    "reviews": 2125
-  },
+      "short_description": "Affordable 1.5 Ton inverter split AC with fast cooling, 52°C performance, and copper condenser. Ideal for medium rooms.",
 
-  "affiliate": {
-    "platform": "Amazon",
-    "commission": "3.50%",
-    "link": "https://amzn.to/4vvUkRg"
-  },
+      "long_description": "The Voltas 183V Vectra CAW 1.5 Ton 3 Star Inverter Split AC is designed for efficient and powerful cooling in medium-sized rooms (111–150 sq.ft). Equipped with an advanced inverter compressor, it adjusts power based on heat load, ensuring energy savings and consistent cooling performance.\n\nThis AC performs exceptionally well even in extreme Indian summers, delivering high ambient cooling up to 52°C. The 4-in-1 adjustable cooling mode allows users to control power consumption as per requirement, making it both flexible and cost-efficient.\n\nThe copper condenser ensures better heat transfer, durability, and lower maintenance compared to aluminum coils. It also features an anti-dust filter with antimicrobial protection to improve indoor air quality by trapping dust, allergens, and bacteria.\n\nAdditional features such as Turbo Cooling, Sleep Mode, Self Diagnosis, and wide voltage operation (110V–285V) make it a reliable choice for homes with voltage fluctuations. Overall, it is a value-for-money AC suitable for budget-conscious buyers looking for performance and durability.",
 
-  "images": [
-    "/category/air-conditioner/voltas-1-5-ton-3-star-inverter-split-ac-183v-vectra-caw/images/image-1.jpg",
-    "/category/air-conditioner/voltas-1-5-ton-3-star-inverter-split-ac-183v-vectra-caw/images/image-2.jpg",
-    "/category/air-conditioner/voltas-1-5-ton-3-star-inverter-split-ac-183v-vectra-caw/images/image-3.jpg",
-    "/category/air-conditioner/voltas-1-5-ton-3-star-inverter-split-ac-183v-vectra-caw/images/image-4.jpg"
-  ],
+      "price": {
+        "current": 30990,
+        "original": 62990,
+        "currency": "INR",
+        "discount_percent": 51
+      },
 
-  "highlights": [
-    "1.5 Ton - Ideal for 111–150 sq ft rooms",
-    "3 Star Energy Rating",
-    "4-in-1 Adjustable Cooling",
-    "High ambient cooling (52°C)",
-    "Copper condenser"
-  ],
+      "rating": {
+        "average": 3.7,
+        "count": 2125
+      },
 
-  "pros": [
-    "Fast cooling",
-    "Affordable price",
-    "Energy efficient"
-  ],
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery 23 - 24 April",
+        "seller": "Dawntech Electronics Private Limited",
+        "fulfilled_by": "Amazon"
+      },
 
-  "cons": [
-    "Installation charges extra",
-    "Service varies by location"
-  ],
+      "images": [
+        "/category/air-conditioner/voltas-183v-vectra-caw-1-5-ton-3-star-inverter-split-ac/images/image-1.jpg",
+        "/category/air-conditioner/voltas-183v-vectra-caw-1-5-ton-3-star-inverter-split-ac/images/image-2.jpg",
+        "/category/air-conditioner/voltas-183v-vectra-caw-1-5-ton-3-star-inverter-split-ac/images/image-3.jpg",
+        "/category/air-conditioner/voltas-183v-vectra-caw-1-5-ton-3-star-inverter-split-ac/images/image-4.jpg"
+      ],
 
-  "cta": {
-    "buy_now": "https://amzn.to/4vvUkRg",
-    "text": "Check Price on Amazon"
-  },
+      "highlights": [
+        "1.5 Ton capacity suitable for medium rooms (111–150 sq.ft)",
+        "3 Star energy efficiency with inverter compressor",
+        "High ambient cooling up to 52°C",
+        "4-in-1 adjustable cooling modes",
+        "Copper condenser for durability",
+        "Anti-dust filter with antimicrobial coating"
+      ],
 
-  "seo": {
-    "meta_title": "Voltas 1.5 Ton 3 Star Inverter AC Review 2026 | Best Budget Split AC",
-    "meta_description": "Buy Voltas 1.5 Ton 3 Star Inverter Split AC at best price. Check features, pros, cons, and latest offers in India."
-  }
+      "specifications": {
+        "capacity": "1.5 Ton",
+        "energy_rating": "3 Star",
+        "type": "Inverter Split AC",
+        "cooling_power": "4800 W",
+        "annual_consumption": "975.26 kWh",
+        "iseer": "3.81",
+        "condenser_coil": "Copper",
+        "filter": "Anti-dust + Antimicrobial",
+        "special_features": [
+          "Turbo Cooling",
+          "Sleep Mode",
+          "Self Diagnosis",
+          "Wide Voltage Range (110V - 285V)"
+        ]
+      },
+
+      "pros": [
+        "Fast cooling even in extreme heat",
+        "Affordable price for inverter AC",
+        "Energy efficient",
+        "Durable copper condenser"
+      ],
+
+      "cons": [
+        "Installation charges are high",
+        "Mixed feedback on installation service",
+        "Noise levels vary in some cases"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Quick cooling performance",
+          "Good value for money",
+          "Reliable brand performance"
+        ],
+        "negative": [
+          "Installation service issues",
+          "Additional hidden charges",
+          "Missing accessories reported"
+        ]
+      },
+
+      "offers": [
+        "Up to ₹2,500 bank discount",
+        "No Cost EMI available",
+        "Cashback up to ₹929"
+      ],
+
+      "warranty": {
+        "product": "5 Years Comprehensive Warranty",
+        "pcb": "5 Years",
+        "compressor": "10 Years"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4vvUkRg",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Voltas 1.5 Ton 3 Star Inverter AC Review (183V Vectra CAW) | Price & Features",
+        "meta_description": "Buy Voltas 1.5 Ton 3 Star Inverter Split AC with latest price, features, pros & cons. Best budget AC for Indian summer.",
+        "keywords": [
+          "voltas 1.5 ton inverter ac",
+          "voltas 3 star split ac price",
+          "voltas vectra caw review",
+          "best voltas ac india",
+          "budget inverter ac india"
+        ]
+      }
+    }
+  ]
 }
