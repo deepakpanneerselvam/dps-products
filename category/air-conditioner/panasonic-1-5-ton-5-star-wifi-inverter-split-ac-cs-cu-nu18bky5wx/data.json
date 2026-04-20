@@ -1,0 +1,129 @@
+{
+  "products": [
+    {
+      "id": "panasonic-nu18bky5wx",
+      "slug": "panasonic-1-5-ton-5-star-wifi-inverter-split-ac-cs-cu-nu18bky5wx",
+      "url": "/categories/air-conditioner/panasonic-1-5-ton-5-star-wifi-inverter-split-ac-cs-cu-nu18bky5wx.html",
+
+      "title": "Panasonic 1.5 Ton 5 Star WiFi Inverter Smart Split AC (CS/CU-NU18BKY5WX)",
+      "brand": "Panasonic",
+      "model": "CS/CU-NU18BKY5WX",
+
+      "category": "air-conditioner",
+      "subcategory": "split-ac",
+
+      "short_description": "Premium 1.5 Ton 5 Star WiFi-enabled inverter split AC with AI cooling, 8-in-1 convertible modes, and advanced air purification for efficient smart cooling.",
+      
+      "long_description": "The Panasonic 1.5 Ton 5 Star WiFi Inverter Smart Split AC (CS/CU-NU18BKY5WX) is designed for powerful yet energy-efficient cooling for medium-sized rooms. It features an advanced inverter compressor with 8-in-1 convertible cooling modes that automatically adjusts power based on room temperature and occupancy. Equipped with DustBuster technology, PM0.1 air purification filter, and ShieldBlu+ coating, it ensures cleaner and healthier air quality. The built-in WiFi and MirAIe app support allow remote control, voice commands, and smart scheduling. With 5-star energy efficiency, 4-way swing airflow, and AI-based cooling optimization, it delivers fast cooling even in extreme temperatures up to 55°C while maintaining low noise operation and long-term durability.",
+
+      "price": {
+        "current": 44990,
+        "original": 63500,
+        "currency": "INR",
+        "discount_percent": 29
+      },
+
+      "rating": {
+        "average": 3.8,
+        "count": 143
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery 23 - 24 April",
+        "seller": "DAWNTECH ELECTRONICS PRIVATE LIMITED",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "/category/air-conditioner/panasonic-1-5-ton-5-star-wifi-inverter-split-ac-cs-cu-nu18bky5wx/images/image-1.jpg",
+        "/category/air-conditioner/panasonic-1-5-ton-5-star-wifi-inverter-split-ac-cs-cu-nu18bky5wx/images/image-2.jpg",
+        "/category/air-conditioner/panasonic-1-5-ton-5-star-wifi-inverter-split-ac-cs-cu-nu18bky5wx/images/image-3.jpg",
+        "/category/air-conditioner/panasonic-1-5-ton-5-star-wifi-inverter-split-ac-cs-cu-nu18bky5wx/images/image-4.jpg"
+      ],
+
+      "highlights": [
+        "1.5 Ton capacity ideal for medium rooms (120–170 sq ft)",
+        "5 Star energy rating with inverter compressor",
+        "8-in-1 convertible cooling modes",
+        "WiFi-enabled smart control via MirAIe app",
+        "PM0.1 air purification filter for clean air",
+        "4-way swing airflow for uniform cooling",
+        "DustBuster auto-clean technology",
+        "Works up to 55°C ambient temperature"
+      ],
+
+      "specifications": {
+        "capacity": "1.5 Ton",
+        "energy_rating": "5 Star",
+        "type": "WiFi Inverter Split AC",
+        "cooling_power": "5100 W",
+        "air_flow": "703 CFM",
+        "condenser_coil": "Copper",
+        "filter": "PM0.1",
+        "special_features": [
+          "WiFi Control",
+          "AI Cooling",
+          "8-in-1 Convertible Mode",
+          "4-Way Swing",
+          "DustBuster Auto Clean",
+          "Voice Control Support"
+        ]
+      },
+
+      "pros": [
+        "Excellent energy efficiency (5 Star rating)",
+        "Smart WiFi and app control features",
+        "Strong cooling performance even in extreme heat",
+        "Advanced air purification system"
+      ],
+
+      "cons": [
+        "Installation cost is relatively high",
+        "Remote control feels basic"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Fast and powerful cooling",
+          "Smart app works smoothly",
+          "Good air quality improvement"
+        ],
+        "negative": [
+          "Installation charges are high",
+          "Occasional service issues reported"
+        ]
+      },
+
+      "offers": [
+        "No Cost EMI available",
+        "Bank discounts up to ₹2,500",
+        "Cashback up to ₹1,349 via Amazon Pay"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "pcb": "5 Years",
+        "compressor": "10 Years"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4sOAcaH",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Panasonic 1.5 Ton 5 Star WiFi Inverter AC Review | Price & Features 2026",
+        "meta_description": "Buy Panasonic 1.5 Ton 5 Star WiFi Inverter Split AC with smart AI cooling, 8-in-1 modes, and PM0.1 filter. Best smart AC for Indian homes.",
+        "keywords": [
+          "panasonic 1.5 ton 5 star ac",
+          "panasonic wifi inverter split ac",
+          "cs cu nu18bky5wx review",
+          "best 1.5 ton ac india 2026",
+          "smart inverter air conditioner panasonic"
+        ]
+      }
+    }
+  ]
+}
