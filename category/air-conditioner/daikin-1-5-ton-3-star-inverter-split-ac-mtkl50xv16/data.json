@@ -1,107 +1,109 @@
 {
   "products": [
     {
-      "id": "voltas-183v-vectra-caw",
-      "slug": "voltas-183v-vectra-caw-1-5-ton-3-star-inverter-split-ac",
-      "url": "/categories/air-conditioner/voltas-183v-vectra-caw-1-5-ton-3-star-inverter-split-ac.html",
+      "id": "daikin-mtkl50xv16",
+      "slug": "daikin-1-5-ton-3-star-inverter-split-ac-mtkl50xv16",
+      "url": "/categories/air-conditioner/daikin-1-5-ton-3-star-inverter-split-ac-mtkl50xv16.html",
 
-      "title": "Voltas 183V Vectra CAW 1.5 Ton 3 Star Inverter Split AC",
-      "brand": "Voltas",
-      "model": "183V Vectra CAW",
+      "title": "Daikin 1.5 Ton 3 Star Inverter Split AC (MTKL50XV16)",
+      "brand": "Daikin",
+      "model": "MTKL50XV16",
 
       "category": "air-conditioner",
       "subcategory": "split-ac",
 
-      "short_description": "Affordable 1.5 Ton inverter split AC with fast cooling, 52°C performance, and copper condenser. Ideal for medium rooms.",
-
-      "long_description": "The Voltas 183V Vectra CAW 1.5 Ton 3 Star Inverter Split AC is designed for efficient and powerful cooling in medium-sized rooms (111–150 sq.ft). Equipped with an advanced inverter compressor, it adjusts power based on heat load, ensuring energy savings and consistent cooling performance.\n\nThis AC performs exceptionally well even in extreme Indian summers, delivering high ambient cooling up to 52°C. The 4-in-1 adjustable cooling mode allows users to control power consumption as per requirement, making it both flexible and cost-efficient.\n\nThe copper condenser ensures better heat transfer, durability, and lower maintenance compared to aluminum coils. It also features an anti-dust filter with antimicrobial protection to improve indoor air quality by trapping dust, allergens, and bacteria.\n\nAdditional features such as Turbo Cooling, Sleep Mode, Self Diagnosis, and wide voltage operation (110V–285V) make it a reliable choice for homes with voltage fluctuations. Overall, it is a value-for-money AC suitable for budget-conscious buyers looking for performance and durability.",
-
       "price": {
-        "current": 30990,
-        "original": 62990,
+        "current": 36990,
+        "original": 56100,
         "currency": "INR",
-        "discount_percent": 51
+        "discount_percent": 34
       },
 
       "rating": {
-        "average": 3.7,
-        "count": 2125
+        "average": 4.0,
+        "count": 58
       },
 
       "availability": {
         "status": "in_stock",
         "delivery": "FREE delivery 23 - 24 April",
-        "seller": "Dawntech Electronics Private Limited",
+        "seller": "DAWNTECH ELECTRONICS PRIVATE LIMITED",
         "fulfilled_by": "Amazon"
       },
 
       "images": [
-        "/category/air-conditioner/voltas-183v-vectra-caw-1-5-ton-3-star-inverter-split-ac/images/image-1.jpg",
-        "/category/air-conditioner/voltas-183v-vectra-caw-1-5-ton-3-star-inverter-split-ac/images/image-2.jpg",
-        "/category/air-conditioner/voltas-183v-vectra-caw-1-5-ton-3-star-inverter-split-ac/images/image-3.jpg",
-        "/category/air-conditioner/voltas-183v-vectra-caw-1-5-ton-3-star-inverter-split-ac/images/image-4.jpg"
+        "/category/air-conditioner/daikin-1-5-ton-3-star-inverter-split-ac-mtkl50xv16/images/image-1.jpg",
+        "/category/air-conditioner/daikin-1-5-ton-3-star-inverter-split-ac-mtkl50xv16/images/image-2.jpg",
+        "/category/air-conditioner/daikin-1-5-ton-3-star-inverter-split-ac-mtkl50xv16/images/image-3.jpg",
+        "/category/air-conditioner/daikin-1-5-ton-3-star-inverter-split-ac-mtkl50xv16/images/image-4.jpg"
       ],
 
+      "short_description": "Daikin 1.5 Ton 3 Star Inverter Split AC (MTKL50XV16) is a reliable and energy-efficient air conditioner designed for medium-sized rooms. It offers powerful cooling, PM2.5 air filtration, and durable copper condenser technology, making it ideal for Indian summers.",
+
+      "long_description": "The Daikin MTKL50XV16 1.5 Ton 3 Star Inverter Split AC is engineered to deliver consistent and efficient cooling performance for medium-sized rooms (approximately 111–150 sq. ft.). Powered by advanced inverter technology, it intelligently adjusts compressor speed based on cooling requirements, ensuring lower electricity consumption and stable temperature control.\n\nThis AC features a high-quality copper condenser coil that enhances heat transfer and durability while reducing maintenance costs. The integrated PM2.5 filter improves indoor air quality by trapping fine dust particles, making it suitable for urban homes.\n\nWith features like Power Chill operation, 3D airflow, and quiet operation, the AC provides fast cooling even during extreme summer conditions. It is built to handle voltage fluctuations without the need for a stabilizer, offering additional convenience. Overall, the Daikin MTKL50XV16 is a dependable choice for users seeking a balance between performance, durability, and affordability.",
+
       "highlights": [
-        "1.5 Ton capacity suitable for medium rooms (111–150 sq.ft)",
-        "3 Star energy efficiency with inverter compressor",
-        "High ambient cooling up to 52°C",
-        "4-in-1 adjustable cooling modes",
-        "Copper condenser for durability",
-        "Anti-dust filter with antimicrobial coating"
+        "1.5 Ton capacity suitable for medium rooms",
+        "3 Star energy efficiency (ISEER ~4.0)",
+        "Inverter swing compressor for power saving",
+        "Copper condenser with anti-corrosion coating",
+        "PM2.5 filter for cleaner air",
+        "Power Chill for fast cooling"
       ],
 
       "specifications": {
         "capacity": "1.5 Ton",
         "energy_rating": "3 Star",
         "type": "Inverter Split AC",
-        "cooling_power": "4800 W",
-        "annual_consumption": "975.26 kWh",
-        "iseer": "3.81",
+        "cooling_power": "5.0 kW",
+        "air_flow": "572 CFM",
         "condenser_coil": "Copper",
-        "filter": "Anti-dust + Antimicrobial",
+        "filter": "PM2.5",
+        "refrigerant": "R32",
+        "voltage_range": "130V - 285V",
         "special_features": [
-          "Turbo Cooling",
-          "Sleep Mode",
-          "Self Diagnosis",
-          "Wide Voltage Range (110V - 285V)"
+          "3D Airflow",
+          "Power Chill",
+          "Quiet Operation",
+          "Stabilizer Free Operation",
+          "Dew Clean Technology"
         ]
       },
 
       "pros": [
-        "Fast cooling even in extreme heat",
-        "Affordable price for inverter AC",
-        "Energy efficient",
-        "Durable copper condenser"
+        "Powerful and fast cooling",
+        "Energy efficient inverter technology",
+        "Durable copper condenser",
+        "Good air filtration with PM2.5 filter",
+        "Low noise operation"
       ],
 
       "cons": [
-        "Installation charges are high",
-        "Mixed feedback on installation service",
-        "Noise levels vary in some cases"
+        "3 Star rating (not maximum efficiency)",
+        "No WiFi / smart features",
+        "Installation cost can be high"
       ],
 
       "reviews_summary": {
         "positive": [
-          "Quick cooling performance",
-          "Good value for money",
-          "Reliable brand performance"
+          "Cools room quickly even in high temperatures",
+          "Silent and smooth performance",
+          "Good value for money"
         ],
         "negative": [
-          "Installation service issues",
-          "Additional hidden charges",
-          "Missing accessories reported"
+          "Installation charges are high",
+          "Basic remote and features"
         ]
       },
 
       "offers": [
         "Up to ₹2,500 bank discount",
         "No Cost EMI available",
-        "Cashback up to ₹929"
+        "Cashback offers on select cards"
       ],
 
       "warranty": {
-        "product": "5 Years Comprehensive Warranty",
+        "product": "1 Year",
         "pcb": "5 Years",
         "compressor": "10 Years"
       },
@@ -113,14 +115,14 @@
       },
 
       "seo": {
-        "meta_title": "Voltas 1.5 Ton 3 Star Inverter AC Review (183V Vectra CAW) | Price & Features",
-        "meta_description": "Buy Voltas 1.5 Ton 3 Star Inverter Split AC with latest price, features, pros & cons. Best budget AC for Indian summer.",
+        "meta_title": "Daikin 1.5 Ton 3 Star Inverter AC Review (MTKL50XV16) | Price & Features",
+        "meta_description": "Buy Daikin MTKL50XV16 1.5 Ton 3 Star Inverter Split AC with latest price, features, pros & cons. Best AC for medium rooms in India.",
         "keywords": [
-          "voltas 1.5 ton inverter ac",
-          "voltas 3 star split ac price",
-          "voltas vectra caw review",
-          "best voltas ac india",
-          "budget inverter ac india"
+          "daikin 1.5 ton inverter ac",
+          "daikin mtkl50xv16 review",
+          "daikin 3 star split ac price",
+          "best daikin ac india",
+          "1.5 ton inverter ac india"
         ]
       }
     }
