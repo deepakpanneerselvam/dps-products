@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "id": "dell-g15-i5-13450hx-rtx3050",
+      "slug": "dell-g15-i5-13450hx-rtx3050-16gb-1tb",
+      "url": "/categories/laptops/dell-g15-i5-13450hx-rtx3050-16gb-1tb.html",
+
+      "title": "Dell G15 Gaming Laptop (i5-13450HX, RTX 3050 6GB, 16GB RAM, 1TB SSD)",
+      "brand": "Dell",
+      "model": "G15 (i5-13450HX)",
+
+      "category": "computers",
+      "subcategory": "laptops",
+
+      "price": {
+        "current": 79590,
+        "original": 101709,
+        "currency": "INR",
+        "discount_percent": 22
+      },
+
+      "rating": {
+        "average": 4.1,
+        "count": 1470
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Friday, 24 April",
+        "seller": "Clicktech Business",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/dell-g15-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/dell-g15-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/dell-g15-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/dell-g15-4.jpg"
+      ],
+
+      "short_description": "Dell G15 gaming laptop powered by Intel Core i5-13450HX and NVIDIA RTX 3050 delivers strong gaming performance, smooth visuals, and fast storage for gamers and power users.",
+
+      "long_description": "The Dell G15 gaming laptop is designed for users who need powerful performance for gaming, multitasking, and creative workloads. Powered by the 13th Gen Intel Core i5-13450HX processor, it delivers excellent speed and responsiveness for demanding tasks.\n\nIt features NVIDIA GeForce RTX 3050 with 6GB VRAM, enabling smooth gameplay at 1080p resolution with high settings. The 15.6-inch Full HD display with a 120Hz refresh rate ensures fluid visuals and an immersive gaming experience.\n\nWith 16GB RAM and a 1TB SSD, the laptop provides fast performance, quick boot times, and ample storage for games and files. Dell’s thermal design helps maintain performance during long gaming sessions.\n\nThe laptop also includes a backlit keyboard, multiple connectivity ports, and a durable build. While slightly bulky, it is ideal for gamers, students, and professionals who prioritize performance over portability.",
+
+      "highlights": [
+        "13th Gen Intel Core i5-13450HX processor",
+        "NVIDIA RTX 3050 6GB graphics",
+        "15.6-inch FHD display with 120Hz refresh rate",
+        "16GB RAM and 1TB SSD",
+        "Backlit gaming keyboard",
+        "Advanced thermal cooling system"
+      ],
+
+      "specifications": {
+        "processor": "Intel Core i5-13450HX",
+        "ram": "16 GB DDR5",
+        "storage": "1 TB SSD",
+        "display": "15.6-inch Full HD",
+        "resolution": "1920 x 1080",
+        "battery": "Up to 5-6 hours (normal usage)",
+        "operating_system": "Windows 11 Home",
+        "weight": "2.65 kg",
+        "special_features": [
+          "RTX 3050 6GB GPU",
+          "120Hz refresh rate",
+          "Backlit keyboard",
+          "Wi-Fi 6",
+          "Multiple ports including HDMI 2.1 and USB-C"
+        ]
+      },
+
+      "pros": [
+        "Strong gaming performance for the price",
+        "Powerful RTX 3050 GPU",
+        "Fast SSD and ample storage",
+        "Good thermal management",
+        "Solid build quality"
+      ],
+
+      "cons": [
+        "Battery drains quickly during gaming",
+        "Bulky and heavy",
+        "Display quality is average for price"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Excellent gaming performance and FPS",
+          "Good value for money",
+          "Smooth multitasking and fast speed"
+        ],
+        "negative": [
+          "Battery life is poor under heavy use",
+          "Heating issues reported by some users",
+          "Display reliability concerns in some cases"
+        ]
+      },
+
+      "offers": [
+        "Up to ₹2,500 bank discount",
+        "No Cost EMI available",
+        "Amazon Pay cashback offers"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "pcb": "1 Year",
+        "compressor": "Not Applicable"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/3QxT4Nt",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Dell G15 i5-13450HX RTX 3050 Review 2026 | Price & Specs",
+        "meta_description": "Buy Dell G15 gaming laptop with i5-13450HX and RTX 3050. Check price, specs, pros & cons. Best budget gaming laptop in India.",
+        "keywords": [
+          "dell g15 gaming laptop price india",
+          "rtx 3050 laptop india",
+          "dell g15 review 2026",
+          "best gaming laptop under 80000",
+          "i5 13450hx laptop india"
+        ]
+      }
+    }
+  ]
+}
