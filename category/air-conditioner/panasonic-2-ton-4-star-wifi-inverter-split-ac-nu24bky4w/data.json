@@ -1,0 +1,131 @@
+{
+  "products": [
+    {
+      "id": "panasonic-nu24bky4w-2ton-4star",
+      "slug": "panasonic-2-ton-4-star-wifi-inverter-split-ac-nu24bky4w",
+      "url": "/categories/air-conditioner/panasonic-2-ton-4-star-wifi-inverter-split-ac-nu24bky4w.html",
+
+      "title": "Panasonic 2 Ton 4 Star WiFi Inverter Smart Split AC (CS/CU-NU24BKY4W)",
+      "brand": "Panasonic",
+      "model": "CS/CU-NU24BKY4W",
+
+      "category": "air-conditioner",
+      "subcategory": "split-ac",
+
+      "price": {
+        "current": 58990,
+        "original": 79500,
+        "currency": "INR",
+        "discount_percent": 26
+      },
+
+      "rating": {
+        "average": 4.0,
+        "count": 3
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery 24 - 25 April",
+        "seller": "DAWNTECH ELECTRONICS PRIVATE LIMITED",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://m.media-amazon.com/images/I/61zSrwlyMxL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81Rpr7y2GXL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/712yU6P-aEL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81-tWy1sMZL._SX679_.jpg"
+      ],
+
+      "short_description": "Panasonic 2 Ton 4 Star WiFi Inverter Smart Split AC with AI cooling, DustBuster technology, 8-in-1 convertible modes, and PM0.1 air purification filter.",
+
+      "long_description": "The Panasonic 2 Ton 4 Star WiFi Inverter Smart Split AC (CS/CU-NU24BKY4W) is designed for large rooms (170–210 sq.ft) with powerful and intelligent cooling. It features 8-in-1 convertible cooling modes that adjust capacity from 40% to high power based on room conditions. Equipped with DustBuster technology, it automatically cleans outdoor coils for better efficiency and durability. The AC supports Matter-enabled smart connectivity via the MirAIe app, allowing remote control, AI-based cooling optimization, and voice control. It uses a 100% copper condenser for better heat exchange and long life. The PM0.1 filter helps provide cleaner and healthier air.",
+
+      "highlights": [
+        "2 Ton capacity suitable for large rooms",
+        "4 Star energy efficiency",
+        "8-in-1 convertible cooling modes",
+        "WiFi + AI smart control (MirAIe app)",
+        "DustBuster auto-clean technology",
+        "PM0.1 air purification filter",
+        "Copper condenser for durability"
+      ],
+
+      "specifications": {
+        "capacity": "2 Ton",
+        "energy_rating": "4 Star",
+        "type": "WiFi Inverter Split AC",
+        "cooling_power": "6000 W",
+        "airflow": "720 CFM",
+        "operating_temp": "Up to 55°C",
+        "condenser_coil": "Copper",
+        "special_features": [
+          "8-in-1 Convertible",
+          "AI Smart Cooling",
+          "DustBuster Technology",
+          "Matter Enabled WiFi Control",
+          "PM0.1 Filter",
+          "4-Way Swing"
+        ]
+      },
+
+      "pros": [
+        "Fast cooling performance",
+        "Smart AI-based temperature control",
+        "Strong airflow for large rooms",
+        "Good energy efficiency"
+      ],
+
+      "cons": [
+        "Installation cost can be high",
+        "App setup required for smart features",
+        "Premium pricing compared to basic models"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Powerful cooling in large rooms",
+          "Silent operation in normal mode",
+          "Good smart features and connectivity"
+        ],
+        "negative": [
+          "Installation experience varies",
+          "Some users find setup complex",
+          "Accessories cost during installation is high"
+        ]
+      },
+
+      "offers": [
+        "Up to ₹2,500 bank discount",
+        "No Cost EMI available",
+        "Cashback offers via select credit cards"
+      ],
+
+      "warranty": {
+        "compressor": "10 Years",
+        "pcb": "5 Years",
+        "product": "1 Year"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4mK8kTA",
+        "platform": "Amazon",
+        "commission_rate": "3.5%",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Panasonic 2 Ton 4 Star WiFi Inverter AC Price, Review & Features 2026",
+        "meta_description": "Buy Panasonic 2 Ton 4 Star WiFi Inverter Split AC with AI cooling, 8-in-1 convertible modes, DustBuster tech and PM0.1 filter. Best smart AC for large rooms.",
+        "keywords": [
+          "panasonic 2 ton ac",
+          "panasonic nu24bky4w review",
+          "wifi inverter split ac india",
+          "best 2 ton ac 2026",
+          "panasonic smart ac price"
+        ]
+      }
+    }
+  ]
+}
