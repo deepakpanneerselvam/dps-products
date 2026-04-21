@@ -1,0 +1,125 @@
+{
+  "products": [
+    {
+      "id": "lenovo-ideapad-slim3-83er00mdin",
+      "slug": "lenovo-ideapad-slim-3-i5-12450h-16gb-512gb-83er00mdin",
+      "url": "/categories/laptop/lenovo-ideapad-slim-3-i5-12450h-16gb-512gb-83er00mdin.html",
+
+      "title": "Lenovo IdeaPad Slim 3 i5-12450H (16GB RAM, 512GB SSD, 83ER00MDIN)",
+      "brand": "Lenovo",
+      "model": "83ER00MDIN",
+
+      "category": "laptop",
+      "subcategory": "thin-and-light",
+
+      "price": {
+        "current": 54990,
+        "original": 70990,
+        "currency": "INR",
+        "discount_percent": 23
+      },
+
+      "rating": {
+        "average": 4.0,
+        "count": 153
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery 26 April",
+        "seller": "Clicktech Retail Private Ltd",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptop/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptop/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptop/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptop/image-4.jpg"
+      ],
+
+      "short_description": "Lenovo IdeaPad Slim 3 with 12th Gen Intel Core i5 processor is a lightweight and powerful laptop designed for students, professionals, and everyday productivity with fast performance and modern features.",
+
+      "long_description": "The Lenovo IdeaPad Slim 3 (83ER00MDIN) is a powerful yet affordable thin-and-light laptop built for modern users who need reliable performance for daily tasks. Powered by the 12th Gen Intel Core i5-12450H processor with 8 cores and turbo speeds up to 4.4GHz, it delivers smooth multitasking for work, coding, browsing, and entertainment.\n\nIt features 16GB LPDDR5 RAM and a fast 512GB SSD, ensuring quick boot times and seamless performance across applications. The 15.6-inch Full HD anti-glare display provides comfortable viewing even in bright environments, making it suitable for long work sessions.\n\nDesigned for portability, the laptop weighs just around 1.6 kg and has a slim profile, making it easy to carry for students and professionals. It also includes Windows 11 and Office Home 2024, so you can start working immediately.\n\nWith features like a backlit keyboard, Full HD webcam with privacy shutter, Dolby Audio speakers, Wi-Fi 6 connectivity, and rapid charging support, the IdeaPad Slim 3 is a well-rounded device offering excellent value for money in the mid-range laptop segment.",
+
+      "highlights": [
+        "12th Gen Intel Core i5-12450H processor",
+        "16GB LPDDR5 RAM for smooth multitasking",
+        "512GB SSD for fast storage and boot",
+        "15.6-inch Full HD anti-glare display",
+        "Thin and lightweight design (~1.6 kg)",
+        "Comes with Windows 11 and Office 2024"
+      ],
+
+      "specifications": {
+        "processor": "Intel Core i5-12450H (12th Gen)",
+        "ram": "16GB LPDDR5",
+        "storage": "512GB SSD",
+        "display": "15.6-inch FHD (1920x1080), Anti-glare",
+        "graphics": "Integrated Intel UHD Graphics",
+        "battery": "47Wh",
+        "weight": "1.62 kg",
+        "operating_system": "Windows 11 Home",
+        "special_features": [
+          "Backlit Keyboard",
+          "Full HD Webcam with Privacy Shutter",
+          "Dolby Audio Speakers",
+          "Wi-Fi 6 Connectivity",
+          "Rapid Charge Boost"
+        ]
+      },
+
+      "pros": [
+        "Good performance for daily use and multitasking",
+        "Lightweight and portable design",
+        "Fast SSD and 16GB RAM",
+        "Comes with Office 2024 pre-installed",
+        "Good value for money"
+      ],
+
+      "cons": [],
+
+      "reviews_summary": {
+        "positive": [
+          "Smooth performance for work and daily tasks",
+          "Lightweight and stylish design",
+          "Good value for money"
+        ],
+        "negative": [
+          "Battery backup could be better",
+          "Sound quality is average"
+        ]
+      },
+
+      "offers": [
+        "Up to ₹2,500 bank discount",
+        "No Cost EMI available",
+        "Cashback offers on select cards"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "battery": "1 Year",
+        "adapter": "1 Year"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4cHTgkJ",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Lenovo IdeaPad Slim 3 i5 Review (83ER00MDIN) | Price & Features",
+        "meta_description": "Buy Lenovo IdeaPad Slim 3 i5-12450H laptop with 16GB RAM and 512GB SSD. Check price, features, pros & specs for India.",
+        "keywords": [
+          "lenovo ideapad slim 3 i5 review",
+          "lenovo i5 12450h laptop price india",
+          "best laptop under 60000 india",
+          "lenovo slim 3 specs",
+          "thin and light laptop india"
+        ]
+      }
+    }
+  ]
+}
