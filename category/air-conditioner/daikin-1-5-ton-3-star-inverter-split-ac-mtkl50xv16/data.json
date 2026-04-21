@@ -31,12 +31,12 @@
         "fulfilled_by": "Amazon"
       },
 
-      "images": [
-        "https://m.media-amazon.com/images/I/61aNUgUz6EL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/715bt24xEML._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/711EmXoBGAL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/61LknGn3drL._SY679_.jpg"
-      ],
+     "images": [
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/air-conditioner/image-1.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/air-conditioner/image-2.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/air-conditioner/image-3.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/air-conditioner/image-4.jpg"
+],
 
       "short_description": "Daikin 1.5 Ton 3 Star Inverter Split AC (MTKL50XV16) is a reliable and energy-efficient air conditioner designed for medium-sized rooms. It offers powerful cooling, PM2.5 air filtration, and durable copper condenser technology, making it ideal for Indian summers.",
 
