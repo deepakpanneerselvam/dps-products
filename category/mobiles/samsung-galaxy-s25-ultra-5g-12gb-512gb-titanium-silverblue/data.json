@@ -32,11 +32,11 @@
       },
 
       "images": [
-        "https://m.media-amazon.com/images/I/71tz3adVWaL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/81aLyQ2-WjL._SX679_.jpg,
-        "https://m.media-amazon.com/images/I/71R6mTgFvmL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/71AUJGsLFRL._SL1500_.jpg"
-      ],
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-1.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-2.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-3.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-4.jpg"
+],
 
       "short_description": "Samsung Galaxy S25 Ultra 5G with 200MP camera, Snapdragon 8 Elite processor, S Pen support, and advanced Galaxy AI features.",
 
