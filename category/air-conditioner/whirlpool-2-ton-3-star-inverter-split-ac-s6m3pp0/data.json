@@ -31,12 +31,12 @@
         "fulfilled_by": "Amazon"
       },
 
-      "images": [
-        "https://m.media-amazon.com/images/I/513KSmvPM0L._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/71vAwl8KiBL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/71hmBKm0j2L._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/717HcM9D+uL._SX679_.jpg"
-      ],
+    "images": [
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/air-conditioner/image-1.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/air-conditioner/image-2.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/air-conditioner/image-3.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/air-conditioner/image-4.jpg"
+],
 
       "short_description": "Whirlpool 2 Ton 3 Star Inverter Split AC with 4-in-1 convertible cooling, IntelliSense inverter compressor, and R32 eco-friendly refrigerant.",
 
