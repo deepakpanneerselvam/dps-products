@@ -31,12 +31,12 @@
         "fulfilled_by": "Amazon"
       },
 
-      "images": [
-        "https://m.media-amazon.com/images/I/51K9NnGQwfL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/61anTyDxNZL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/71rCFGfPRXL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/7132pMoRVnL._SX679_.jpg"
-      ],
+     "images": [
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/air-conditioner/image-1.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/air-conditioner/image-2.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/air-conditioner/image-3.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/air-conditioner/image-4.jpg"
+],
 
       "short_description": "Godrej 2 Ton 3 Star Inverter Split AC with 5-in-1 convertible cooling, copper condenser, and I-Sense technology for efficient large-room cooling.",
 
