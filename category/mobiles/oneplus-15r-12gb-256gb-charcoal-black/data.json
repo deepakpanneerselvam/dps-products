@@ -1,0 +1,125 @@
+{
+  "products": [
+    {
+      "id": "oneplus-15r-12gb-256gb",
+      "slug": "oneplus-15r-12gb-256gb-charcoal-black",
+      "url": "/categories/mobiles/oneplus-15r-12gb-256gb-charcoal-black.html",
+
+      "title": "OnePlus 15R 5G (12GB + 256GB, Charcoal Black)",
+      "brand": "OnePlus",
+      "model": "15R",
+
+      "category": "mobile-phone",
+      "subcategory": "smartphone",
+
+      "price": {
+        "current": 50499,
+        "original": 54999,
+        "currency": "INR",
+        "discount_percent": 8
+      },
+
+      "rating": {
+        "average": 4.5,
+        "count": 1036
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Tomorrow (Chennai)",
+        "seller": "Darshita Etel",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://m.media-amazon.com/images/I/61AsNTuJ6mL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71fIC58EC7L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51hK7-DGeqL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71TBMeEl00L._SX679_.jpg"
+      ],
+
+      "short_description": "OnePlus 15R with Snapdragon 8 Gen 5, 7400mAh battery, 165Hz AMOLED display and AI-powered performance for gaming and productivity.",
+
+      "long_description": "The OnePlus 15R is a performance-focused flagship smartphone featuring the Snapdragon 8 Gen 5 processor, 12GB RAM, and 256GB storage. It offers a massive 7400mAh battery with fast charging support, making it ideal for heavy users and gamers. The 165Hz AMOLED display delivers ultra-smooth visuals, while AI-powered optimizations enhance gaming, multitasking, and system efficiency. The device also supports advanced durability with IP68/IP69 ratings and 4K 120fps video recording for creators.",
+
+      "highlights": [
+        "Snapdragon 8 Gen 5 flagship processor",
+        "12GB RAM + 256GB storage",
+        "7400mAh ultra-large battery",
+        "165Hz AMOLED display",
+        "IP68 / IP69 / IP69K protection",
+        "4K 120fps video recording"
+      ],
+
+      "specifications": {
+        "processor": "Snapdragon 8 Gen 5",
+        "ram": "12GB",
+        "storage": "256GB",
+        "battery": "7400mAh",
+        "display": "6.7 inch AMOLED 165Hz",
+        "os": "Android 16 (OxygenOS 16)",
+        "camera": "50MP AI Triple Camera",
+        "charging": "Fast Charging Supported",
+        "water_resistance": "IP68 / IP69 / IP69K"
+      },
+
+      "pros": [
+        "Excellent performance for gaming and multitasking",
+        "Huge battery life (7400mAh)",
+        "Very smooth 165Hz display",
+        "Premium build quality and durability",
+        "Clean OxygenOS experience"
+      ],
+
+      "cons": [
+        "Camera is average compared to ultra-premium flagships",
+        "Slightly bulky due to large battery",
+        "Price is on the higher side for mid-premium segment",
+        "Heating may occur under heavy gaming load"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Outstanding battery backup",
+          "Very smooth performance and gaming experience",
+          "Clean software experience with minimal bloatware"
+        ],
+        "negative": [
+          "Camera not flagship-level in all conditions",
+          "Device feels heavy in hand",
+          "Some users report heating during heavy usage"
+        ]
+      },
+
+      "offers": [
+        "No Cost EMI available",
+        "Bank discount up to ₹1,500",
+        "Cashback up to ₹1,514 on select cards"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "battery": "1 Year",
+        "service": "Service Centre Replacement (10 Days)"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4totvNl",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "OnePlus 15R Price in India 2026 | Specs, Review & Features",
+        "meta_description": "Buy OnePlus 15R with Snapdragon 8 Gen 5, 7400mAh battery, 165Hz display. Check full specs, pros & cons, and latest price in India.",
+        "keywords": [
+          "oneplus 15r price in india",
+          "oneplus 15r review",
+          "snapdragon 8 gen 5 phone",
+          "best gaming phone 2026",
+          "oneplus 15r specifications"
+        ]
+      }
+    }
+  ]
+}
