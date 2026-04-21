@@ -1,0 +1,126 @@
+{
+  "products": [
+    {
+      "id": "vivo-t4x-5g-8gb-128gb",
+      "slug": "vivo-t4x-5g-marine-blue-8gb-128gb",
+      "url": "/categories/mobiles/vivo-t4x-5g-marine-blue-8gb-128gb.html",
+
+      "title": "Vivo T4x 5G (Marine Blue, 8GB RAM, 128GB Storage)",
+      "brand": "Vivo",
+      "model": "T4x 5G",
+
+      "category": "mobile-phone",
+      "subcategory": "smartphone",
+
+      "price": {
+        "current": 18749,
+        "original": 19499,
+        "currency": "INR",
+        "discount_percent": 4
+      },
+
+      "rating": {
+        "average": 4.4,
+        "count": 3109
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Tomorrow (Chennai)",
+        "seller": "OrcusM",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-4.jpg"
+      ],
+
+      "short_description": "Vivo T4x 5G with Dimensity 7300 processor, 6500mAh battery, 50MP camera, and smooth performance for daily use under ₹20,000.",
+
+      "long_description": "The Vivo T4x 5G is a budget-friendly smartphone designed for long-lasting performance and everyday usage. Powered by the MediaTek Dimensity 7300 processor and paired with 8GB RAM, it handles daily tasks smoothly. The large 6.72-inch display provides a good viewing experience, while the massive 6500mAh battery ensures all-day usage without frequent charging. It features a 50MP primary camera for decent photography and runs on Funtouch OS 15. This phone is ideal for users looking for reliability, battery life, and value for money under ₹20,000.",
+
+      "highlights": [
+        "MediaTek Dimensity 7300 5G processor",
+        "6.72-inch large display",
+        "6500mAh massive battery",
+        "50MP dual rear camera",
+        "8GB RAM with smooth performance",
+        "Affordable 5G smartphone under ₹20K"
+      ],
+
+      "specifications": {
+        "processor": "MediaTek Dimensity 7300",
+        "ram": "8GB",
+        "storage": "128GB",
+        "battery": "6500mAh",
+        "display": "6.72 inch LCD",
+        "os": "Funtouch OS 15",
+        "camera": "50MP + 2MP Rear, 8MP Front",
+        "charging": "44W Fast Charging",
+        "water_resistance": "No official rating"
+      },
+
+      "pros": [
+        "Excellent battery life (6500mAh)",
+        "Good performance for daily usage",
+        "Affordable pricing under ₹20K",
+        "Decent display quality",
+        "Smooth multitasking experience"
+      ],
+
+      "cons": [
+        "Camera performance is average",
+        "No expandable storage",
+        "No 3.5mm headphone jack",
+        "Not ideal for heavy gaming",
+        "Sound quality is average"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Great battery backup lasting more than a day",
+          "Smooth performance with no lag in daily use",
+          "Good value for money in this price range"
+        ],
+        "negative": [
+          "Camera quality is inconsistent",
+          "Processor feels slow for heavy tasks",
+          "Display and sound quality could be better"
+        ]
+      },
+
+      "offers": [
+        "No Cost EMI available",
+        "Cashback up to ₹562",
+        "GST invoice available for business users"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "battery": "1 Year",
+        "service": "Service Centre Replacement"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4mEcVGJ",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Vivo T4x 5G Price in India 2026 | Full Specs & Review",
+        "meta_description": "Buy Vivo T4x 5G with 6500mAh battery, Dimensity 7300 processor and 50MP camera. Check price, specs & review under ₹20000.",
+        "keywords": [
+          "vivo t4x price",
+          "vivo t4x review",
+          "best phone under 20000",
+          "vivo 5g mobile",
+          "budget smartphone india"
+        ]
+      }
+    }
+  ]
+}
