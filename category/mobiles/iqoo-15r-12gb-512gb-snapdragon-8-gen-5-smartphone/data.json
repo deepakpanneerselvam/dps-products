@@ -36,12 +36,12 @@
         "category": "Cell Phones and Accessories"
       },
 
-    "images": [
-        "https://m.media-amazon.com/images/I/616mnp2HZ7L._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/71IFfUDi6tL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/61YOm+a+6gL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/61YOm+a+6gL._SX679_.jpg"
-      ],
+   "images": [
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-1.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-2.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-3.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-4.jpg"
+],
 
       "short_description": "Flagship performance smartphone with Snapdragon 8 Gen 5, 7600mAh battery, 144FPS gaming, and AMOLED display built for gamers and power users.",
 
