@@ -32,12 +32,12 @@
         "fulfilled_by": "Amazon"
       },
 
-      "images": [
-        "https://m.media-amazon.com/images/I/61cSbmOuiRL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/81TkNd3TIFL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/71N3v4TUP3L._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/71qRTWY9FzL._SX679_.jpg"
-      ],
+     "images": [
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-1.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-2.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-3.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-4.jpg"
+],
 
       "short_description": "realme GT7 Pro 5G with Snapdragon 8 Elite chipset, 124MP AI camera, 5800mAh battery, and 120W ultra-fast charging for flagship-level performance.",
 
