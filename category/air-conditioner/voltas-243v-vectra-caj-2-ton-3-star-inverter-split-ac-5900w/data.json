@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": "voltas-243v-vectra-caj-2ton-3star-inverter",
+      "slug": "voltas-243v-vectra-caj-2-ton-3-star-inverter-split-ac-5900w",
+      "url": "/categories/air-conditioner/voltas-243v-vectra-caj-2-ton-3-star-inverter-split-ac-5900w.html",
+
+      "title": "Voltas 243V Vectra CAJ 2 Ton 3 Star Inverter Split AC",
+      "brand": "Voltas",
+      "model": "243V Vectra CAJ",
+
+      "category": "air-conditioner",
+      "subcategory": "split-ac",
+
+      "price": {
+        "current": 45990,
+        "original": 73590,
+        "currency": "INR",
+        "discount_percent": 38
+      },
+
+      "rating": {
+        "average": 4.0,
+        "count": 119
+      },
+
+      "availability": {
+        "status": "restricted_shipping",
+        "delivery": "Delivery availability restricted for selected location (Chennai)",
+        "seller": "Dawntech Electronics Private Limited",
+        "fulfilled_by": "Amazon"
+      },
+
+       "images": [
+        "https://m.media-amazon.com/images/I/612yCmn+fKL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61zN6rz9azL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71mTdZBs9ZL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71XQ3nlRirL._SX679_.jpg"
+      ],
+
+      "short_description": "Voltas 2 Ton 3 Star Inverter Split AC with 4-in-1 adjustable cooling, copper condenser, and high ambient cooling up to 52°C.",
+
+      "long_description": "The Voltas 243V Vectra CAJ 2 Ton 3 Star Inverter Split AC is designed for large rooms (around 211–230 sq.ft) and delivers efficient cooling even in extreme temperatures up to 52°C. It features a 4-in-1 adjustable cooling mode, allowing users to control cooling capacity based on requirement. The inverter compressor improves energy efficiency by adjusting speed dynamically. Built with a copper condenser for better heat transfer and durability, it also includes anti-dust and anti-microbial filters for improved air quality. Additional features include sleep mode, hidden display, anti-freeze thermostat, wide voltage operation, and self-diagnosis.",
+
+      "highlights": [
+        "2 Ton capacity suitable for large rooms",
+        "3 Star energy rating",
+        "4-in-1 adjustable cooling modes",
+        "Cools efficiently up to 52°C ambient temperature",
+        "Copper condenser for durability",
+        "Anti-dust and anti-microbial filter",
+        "Inverter compressor for energy savings"
+      ],
+
+      "specifications": {
+        "capacity": "2 Ton",
+        "energy_rating": "3 Star",
+        "type": "Inverter Split AC",
+        "cooling_power": "5900 W",
+        "condenser_coil": "Copper",
+        "refrigerant": "R32",
+        "special_features": [
+          "4-in-1 Adjustable Cooling",
+          "Sleep Mode",
+          "Hidden Display",
+          "Self Diagnosis",
+          "Anti-freeze Thermostat",
+          "Wide Voltage Operation",
+          "Anti Dust Filter",
+          "Antimicrobial Protection"
+        ]
+      },
+
+      "pros": [
+        "Good cooling performance for large rooms",
+        "Energy-efficient inverter technology",
+        "Strong brand reliability (Voltas/Tata)",
+        "Good build quality with copper condenser"
+      ],
+
+      "cons": [
+        "Installation experience varies by service partner",
+        "Mixed feedback on cooling consistency",
+        "3 Star rating less efficient than 5 Star models"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Good cooling for large spaces",
+          "Value for money",
+          "Reliable brand service in most cases"
+        ],
+        "negative": [
+          "Some users report inconsistent installation service",
+          "Noise and performance concerns in few cases",
+          "Customer service delays reported by some users"
+        ]
+      },
+
+      "offers": [
+        "Bank discounts up to ₹2,500",
+        "No Cost EMI available",
+        "Cashback offers on select credit cards"
+      ],
+
+      "warranty": {
+        "product": "1 Year Comprehensive Warranty",
+        "compressor": "10 Years Warranty",
+        "pcb": "5 Years Warranty (select conditions)"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/3Ojq6jT",
+        "platform": "Amazon",
+        "commission_rate": "3.5%",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Voltas 2 Ton 3 Star Inverter Split AC 243V Price, Features & Review",
+        "meta_description": "Buy Voltas 2 Ton 3 Star Inverter Split AC with 4-in-1 cooling, copper condenser, and 52°C cooling capacity. Best AC for large rooms in India.",
+        "keywords": [
+          "voltas 2 ton ac",
+          "voltas inverter split ac 243v",
+          "2 ton ac india",
+          "best ac for large room",
+          "voltas ac 3 star price"
+        ]
+      }
+    }
+  ]
+}
