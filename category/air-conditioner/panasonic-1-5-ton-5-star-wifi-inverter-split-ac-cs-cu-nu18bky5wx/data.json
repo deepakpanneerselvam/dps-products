@@ -35,12 +35,12 @@
         "fulfilled_by": "Amazon"
       },
 
-      "images": [
-        "https://m.media-amazon.com/images/I/61zSrwlyMxL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/71ghink6FNL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/81USUA+7BUL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/71PLlDZO74L._SX679_.jpg"
-      ],
+     "images": [
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/air-conditioner/image-1.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/air-conditioner/image-2.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/air-conditioner/image-3.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/air-conditioner/image-4.jpg"
+],
 
       "highlights": [
         "1.5 Ton capacity ideal for medium rooms (120–170 sq ft)",
