@@ -1,0 +1,127 @@
+{
+  "products": [
+    {
+      "id": "vivo-x100-5g-12gb-256gb",
+      "slug": "vivo-x100-5g-stargaze-blue-12gb-256gb",
+      "url": "/categories/mobiles/vivo-x100-5g-stargaze-blue-12gb-256gb.html",
+
+      "title": "Vivo X100 5G (Stargaze Blue, 12GB RAM, 256GB Storage)",
+      "brand": "Vivo",
+      "model": "X100 5G",
+
+      "category": "mobile-phone",
+      "subcategory": "smartphone",
+
+      "price": {
+        "current": 62500,
+        "original": 68999,
+        "currency": "INR",
+        "discount_percent": 9
+      },
+
+      "rating": {
+        "average": 5.0,
+        "count": 8
+      },
+
+      "availability": {
+        "status": "limited_stock",
+        "delivery": "FREE delivery Sunday (Chennai)",
+        "seller": "Shop!House",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-4.jpg"
+      ],
+
+      "short_description": "Vivo X100 5G flagship with Dimensity 9300, premium AMOLED display, powerful camera system, and 5000mAh battery.",
+
+      "long_description": "The Vivo X100 5G is a premium flagship smartphone designed for high performance and exceptional camera capabilities. Powered by the MediaTek Dimensity 9300 processor and paired with 12GB RAM, it delivers top-tier performance for gaming and multitasking. The device features a stunning AMOLED display with vibrant colors and smooth visuals. Its advanced camera system is optimized for professional-grade photography, making it ideal for camera enthusiasts. With a 5000mAh battery, fast charging support, and a premium design, the Vivo X100 stands out as a powerful flagship option in its segment.",
+
+      "highlights": [
+        "MediaTek Dimensity 9300 flagship processor",
+        "Premium AMOLED display",
+        "Advanced camera system for photography",
+        "5000mAh battery",
+        "12GB RAM with smooth performance",
+        "Flagship design and build quality"
+      ],
+
+      "specifications": {
+        "processor": "MediaTek Dimensity 9300",
+        "ram": "12GB",
+        "storage": "256GB",
+        "battery": "5000mAh",
+        "display": "6.78 inch AMOLED",
+        "os": "Android 14",
+        "camera": "Advanced multi-lens system",
+        "charging": "Fast Charging Supported",
+        "water_resistance": "No official rating"
+      },
+
+      "pros": [
+        "Excellent camera performance (flagship level)",
+        "Top-tier performance with Dimensity 9300",
+        "Premium AMOLED display quality",
+        "Smooth multitasking and gaming",
+        "Stylish and premium design"
+      ],
+
+      "cons": [
+        "Limited stock availability",
+        "Premium pricing",
+        "Not focused purely on gaming performance",
+        "Some users reported minor bugs",
+        "Accessories ecosystem is limited"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Outstanding camera quality comparable to flagship phones",
+          "Smooth and fast performance",
+          "Premium design and display"
+        ],
+        "negative": [
+          "Occasional software bugs reported",
+          "Not fully optimized for heavy gaming",
+          "Limited long-term reviews available"
+        ]
+      },
+
+      "offers": [
+        "No Cost EMI available",
+        "Bank discount up to ₹2,500",
+        "Cashback up to ₹1,875",
+        "GST invoice available for business users"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "battery": "1 Year",
+        "service": "Service Centre Replacement"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4u21E5H",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Vivo X100 5G Price in India 2026 | Full Specs & Review",
+        "meta_description": "Buy Vivo X100 5G with Dimensity 9300, AMOLED display, 5000mAh battery and flagship camera. Check price, specs & review.",
+        "keywords": [
+          "vivo x100 price",
+          "vivo x100 review",
+          "best flagship phone india",
+          "vivo 5g mobile premium",
+          "camera phone under 70000"
+        ]
+      }
+    }
+  ]
+}
