@@ -1,0 +1,129 @@
+{
+  "products": [
+    {
+      "id": "asus-tuf-a15-2025",
+      "slug": "asus-tuf-a15-2025-ryzen7-rtx3050-gaming-laptop",
+      "url": "/categories/laptops/asus-tuf-a15-2025-ryzen7-rtx3050-gaming-laptop.html",
+
+      "title": "ASUS TUF A15 (2025) Ryzen 7 7445HS RTX 3050 Gaming Laptop",
+      "brand": "ASUS",
+      "model": "FA506NCG-HN199W",
+
+      "category": "laptops",
+      "subcategory": "gaming-laptops",
+
+      "price": {
+        "current": 66990,
+        "original": 83990,
+        "currency": "INR",
+        "discount_percent": 20
+      },
+
+      "rating": {
+        "average": 4.3,
+        "count": 790
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Tomorrow",
+        "seller": "Clicktech Retail Private Ltd",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptop/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptop/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptop/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptop/image-4.jpg"
+      ],
+
+      "short_description": "ASUS TUF A15 (2025) is a powerful gaming laptop with Ryzen 7 processor and RTX 3050 GPU, offering smooth performance for gaming, coding, and multitasking at a competitive price.",
+
+      "long_description": "The ASUS TUF A15 (2025) gaming laptop is designed for users who need strong performance without spending a premium. Powered by the AMD Ryzen 7 7445HS processor and NVIDIA RTX 3050 GPU, it delivers excellent performance for gaming, content creation, and multitasking.\n\nIt features a 15.6-inch Full HD display with a 144Hz refresh rate, ensuring smooth visuals during gameplay and everyday use. The laptop comes with 16GB DDR5 RAM, which is upgradeable up to 64GB, along with a fast 512GB SSD for quick boot times and file access.\n\nBuilt with ASUS TUF durability standards, the laptop offers solid build quality and efficient cooling for extended usage. While it focuses heavily on performance, it maintains a balance between price and features, making it a great choice for gamers, students, and professionals looking for a reliable mid-range gaming laptop.",
+
+      "highlights": [
+        "AMD Ryzen 7 7445HS processor",
+        "NVIDIA RTX 3050 4GB GPU",
+        "16GB DDR5 RAM (Upgradeable up to 64GB)",
+        "512GB SSD storage",
+        "15.6-inch FHD 144Hz display",
+        "RGB backlit keyboard"
+      ],
+
+      "specifications": {
+        "processor": "AMD Ryzen 7 7445HS",
+        "graphics": "NVIDIA GeForce RTX 3050 4GB",
+        "ram": "16GB DDR5",
+        "storage": "512GB SSD",
+        "display": "15.6-inch FHD, 144Hz",
+        "operating_system": "Windows 11 Home",
+        "weight": "2.3 kg",
+        "battery": "48WHrs",
+        "special_features": [
+          "144Hz high refresh rate",
+          "RGB Backlit Keyboard",
+          "AI noise canceling",
+          "Dual fan cooling system"
+        ]
+      },
+
+      "pros": [
+        "Excellent performance for gaming and multitasking",
+        "Smooth 144Hz display",
+        "Upgradeable RAM up to 64GB",
+        "Durable TUF build quality",
+        "Great value for money"
+      ],
+
+      "cons": [
+        "Battery life is typical for gaming laptops",
+        "Can get warm during extended gaming sessions",
+        "Display focuses more on refresh rate than color accuracy",
+        "Slightly heavy due to performance hardware"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Handles gaming and heavy tasks smoothly",
+          "Good build quality and durability",
+          "Value for money performance"
+        ],
+        "negative": [
+          "Battery drains faster during heavy usage",
+          "Heating noticed under load"
+        ]
+      },
+
+      "offers": [
+        "Up to ₹2,500 bank discount",
+        "No Cost EMI available",
+        "Cashback on select credit cards"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "battery": "1 Year",
+        "adapter": "1 Year"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4cL7fqa",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "ASUS TUF A15 (2025) Review – Ryzen 7 RTX 3050 Gaming Laptop Price in India",
+        "meta_description": "Buy ASUS TUF A15 Ryzen 7 RTX 3050 gaming laptop at best price in India. Check specs, features, pros & cons before buying.",
+        "keywords": [
+          "asus tuf a15 2025",
+          "ryzen 7 gaming laptop india",
+          "rtx 3050 laptop price",
+          "best gaming laptop under 70000",
+          "asus tuf a15 review"
+        ]
+      }
+    }
+  ]
+}
