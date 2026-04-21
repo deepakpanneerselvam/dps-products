@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": "hp-omnibook5-oled-snapdragon-x-16gb-512gb",
+      "slug": "hp-omnibook-5-oled-snapdragon-x-16gb-512gb-2026",
+      "url": "/categories/laptops/hp-omnibook-5-oled-snapdragon-x-16gb-512gb-2026.html",
+
+      "title": "HP OmniBook 5 OLED (Snapdragon X Processor, 16GB RAM, 512GB SSD)",
+      "brand": "HP",
+      "model": "OmniBook 5 OLED (he0014QU)",
+
+      "category": "computers",
+      "subcategory": "laptops",
+
+      "price": {
+        "current": 78990,
+        "original": 83704,
+        "currency": "INR",
+        "discount_percent": 6
+      },
+
+      "rating": {
+        "average": 4.2,
+        "count": 229
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery by 24 April",
+        "seller": "Clicktech Retail Private Ltd",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/hp-omnibook-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/hp-omnibook-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/hp-omnibook-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/hp-omnibook-4.jpg"
+      ],
+
+      "short_description": "HP OmniBook 5 OLED with Snapdragon X processor delivers ultra-light design, strong AI performance, and a stunning 2K OLED display for productivity and entertainment.",
+
+      "long_description": "The HP OmniBook 5 OLED is a next-generation AI-powered laptop built on the Snapdragon X platform, designed for portability, efficiency, and long battery life.\n\nIt features a 14-inch 2K OLED display with vibrant colors, deep contrast, and excellent clarity, making it ideal for media consumption, office work, and creative tasks. The Snapdragon X processor with integrated NPU delivers strong AI performance for modern workloads.\n\nWith 16GB LPDDR5x RAM and 512GB SSD storage, the laptop ensures smooth multitasking, fast boot times, and efficient app handling. Its ultra-lightweight 1.35 kg design makes it one of the most portable premium laptops in its segment.\n\nA major highlight is its exceptional battery life, offering up to 30+ hours of usage under light workloads. However, Snapdragon-based Windows laptops may have occasional app compatibility limitations, especially for advanced development tools.\n\nOverall, it is a premium lightweight AI laptop suited for students, professionals, and travelers who prioritize battery life and portability.",
+
+      "highlights": [
+        "Snapdragon X AI Processor with NPU",
+        "16GB LPDDR5x RAM",
+        "512GB SSD storage",
+        "14-inch 2K OLED display",
+        "Ultra-lightweight (1.35 kg)",
+        "Up to 34 hours battery life (claimed)"
+      ],
+
+      "specifications": {
+        "processor": "Snapdragon X (8-core)",
+        "ram": "16 GB LPDDR5x",
+        "storage": "512 GB SSD",
+        "display": "14-inch OLED 2K (1920x1200)",
+        "resolution": "1920 x 1200",
+        "battery": "Up to 34 hours (video playback)",
+        "operating_system": "Windows 11 Home",
+        "weight": "1.35 kg",
+        "special_features": [
+          "AI Companion support",
+          "Adreno integrated GPU",
+          "OLED 95% DCI-P3 color gamut",
+          "Fast charging (50% in 30 min)",
+          "Ultra-light design"
+        ]
+      },
+
+      "pros": [
+        "Excellent OLED display quality",
+        "Very long battery life",
+        "Lightweight and premium build",
+        "Strong AI performance with NPU",
+        "Fast SSD and smooth multitasking"
+      ],
+
+      "cons": [
+        "Some app compatibility issues on Snapdragon",
+        "Limited performance for heavy software development tools",
+        "AI features require subscriptions for some apps",
+        "Charger is bulky",
+        "Average gaming capability"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Amazing battery life and portability",
+          "Stunning OLED display quality",
+          "Fast everyday performance"
+        ],
+        "negative": [
+          "Some software compatibility issues",
+          "Limited gaming performance",
+          "AI features tied to subscriptions"
+        ]
+      },
+
+      "offers": [
+        "Up to ₹5,000 bank discount",
+        "No Cost EMI available",
+        "Cashback on select credit cards"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "pcb": "1 Year",
+        "compressor": "Not Applicable"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4mGOqcb",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "HP OmniBook 5 OLED Snapdragon X Review 2026 | Specs & Price India",
+        "meta_description": "HP OmniBook 5 OLED with Snapdragon X, 16GB RAM, 512GB SSD. Ultra-light AI laptop with 2K OLED display and long battery life in India.",
+        "keywords": [
+          "hp omnibook 5 oled review",
+          "snapdragon x laptop india",
+          "best lightweight laptop 2026",
+          "hp ai laptop 16gb ram",
+          "oled laptop under 80000 india"
+        ]
+      }
+    }
+  ]
+}
