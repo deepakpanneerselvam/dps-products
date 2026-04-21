@@ -1,0 +1,131 @@
+{
+  "products": [
+    {
+      "id": "hp-15-i3-1315u-12gb-512ssd-fd0573tu",
+      "slug": "hp-15-13th-gen-i3-1315u-12gb-512ssd-fd0573tu",
+      "url": "/categories/laptops/hp-15-13th-gen-i3-1315u-12gb-512ssd-fd0573tu.html",
+
+      "title": "HP 15 13th Gen Intel Core i3-1315U (12GB RAM, 512GB SSD, FHD, Windows 11, Office 2024)",
+      "brand": "HP",
+      "model": "HP 15 (fd0573TU)",
+
+      "category": "computers",
+      "subcategory": "laptops",
+
+      "price": {
+        "current": 51990,
+        "original": null,
+        "currency": "INR",
+        "discount_percent": 0
+      },
+
+      "rating": {
+        "average": 4.1,
+        "count": 490
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery by Friday",
+        "seller": "Clicktech Business",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/hp15-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/hp15-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/hp15-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/hp15-4.jpg"
+      ],
+
+      "short_description": "HP 15 laptop powered by 13th Gen Intel Core i3 processor with 12GB RAM, 512GB SSD, Full HD anti-glare display, and Windows 11 for everyday productivity.",
+
+      "long_description": "The HP 15 laptop with 13th Gen Intel Core i3-1315U processor is designed for everyday computing, office work, and student use. With 12GB DDR4 RAM and a 512GB SSD, it ensures smooth multitasking, faster boot times, and efficient performance for daily tasks.\n\nThe 15.6-inch Full HD anti-glare display delivers clear visuals with reduced reflections, making it suitable for long working hours. It comes preloaded with Windows 11 and Microsoft Office 2024, making it ready for productivity right out of the box.\n\nIts lightweight design, reliable battery performance, and essential connectivity options like USB-C, HDMI, and Wi-Fi 6 make it a practical choice for students and professionals.\n\nBuilt with sustainability in mind, the laptop includes recycled materials and offers dependable performance at an affordable price.",
+
+      "highlights": [
+        "13th Gen Intel Core i3-1315U processor",
+        "12GB DDR4 RAM with 512GB SSD",
+        "15.6-inch Full HD anti-glare display",
+        "Preloaded Windows 11 & Office 2024",
+        "Lightweight and portable design",
+        "Wi-Fi 6 and multiple connectivity ports"
+      ],
+
+      "specifications": {
+        "processor": "Intel Core i3-1315U (13th Gen)",
+        "ram": "12 GB DDR4",
+        "storage": "512 GB SSD",
+        "display": "15.6-inch FHD Anti-glare",
+        "resolution": "1920 x 1080",
+        "battery": "Up to 4-6 hours",
+        "operating_system": "Windows 11 Home",
+        "weight": "1.59 kg",
+        "special_features": [
+          "Anti-glare display",
+          "Wi-Fi 6 connectivity",
+          "Microsoft Office 2024 included",
+          "FHD camera with privacy shutter",
+          "Eco-friendly build materials"
+        ]
+      },
+
+      "pros": [
+        "Good value for money",
+        "Decent performance for daily tasks",
+        "Full HD anti-glare display",
+        "Preinstalled Office 2024",
+        "Lightweight design"
+      ],
+
+      "cons": [
+        "No backlit keyboard",
+        "Average battery life",
+        "Not suitable for heavy tasks or gaming",
+        "Integrated graphics only"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Good display quality for the price",
+          "Value for money for students and office use",
+          "Smooth performance for basic tasks"
+        ],
+        "negative": [
+          "Battery drains quickly",
+          "No keyboard backlight",
+          "Performance can lag under heavy usage"
+        ]
+      },
+
+      "offers": [
+        "No Cost EMI available",
+        "Bank discount offers available",
+        "Cashback on select credit cards"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "pcb": "1 Year",
+        "compressor": "Not Applicable"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4cC9ICS",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "HP 15 i3 13th Gen Laptop Review 2026 | Price, Specs & Features",
+        "meta_description": "Buy HP 15 laptop with Intel Core i3 13th Gen, 12GB RAM, 512GB SSD. Check latest price, specs, pros & cons for students and office use.",
+        "keywords": [
+          "hp 15 i3 13th gen price india",
+          "hp laptop under 50000",
+          "best budget laptop india 2026",
+          "hp 15 review india",
+          "laptop for students under 60000"
+        ]
+      }
+    }
+  ]
+}
