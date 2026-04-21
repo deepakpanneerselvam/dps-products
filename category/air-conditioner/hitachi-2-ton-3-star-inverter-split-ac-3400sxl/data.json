@@ -1,0 +1,131 @@
+{
+  "products": [
+    {
+      "id": "hitachi-2ton-3star-3400sxl",
+      "slug": "hitachi-2-ton-3-star-inverter-split-ac-3400sxl",
+      "url": "/categories/air-conditioner/hitachi-2-ton-3-star-inverter-split-ac-3400sxl.html",
+
+      "title": "Hitachi 2 Ton 3 Star Xpandable+ Inverter Split AC (3400SXL)",
+      "brand": "Hitachi",
+      "model": "3400SXL RAS.D322PCBIBS",
+
+      "category": "air-conditioner",
+      "subcategory": "split-ac",
+
+      "price": {
+        "current": 44240,
+        "original": 74050,
+        "currency": "INR",
+        "discount_percent": 40
+      },
+
+      "rating": {
+        "average": 4.1,
+        "count": 330
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Tuesday, 5 May",
+        "seller": "DAWNTECH ELECTRONICS PRIVATE LIMITED",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://m.media-amazon.com/images/I/51FzJEggHuL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71dIOajwpYL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71EFru2OP0L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71dC-kzoTDL._SX679_.jpg"
+      ],
+
+      "short_description": "Hitachi 2 Ton 3 Star Inverter Split AC with Xpandable+ technology, 4-way swing, ice clean frost wash, and 100% copper condenser for powerful cooling.",
+
+      "long_description": "The Hitachi 2 Ton 3 Star Xpandable+ Inverter Split AC (3400SXL) is designed for large rooms and delivers powerful and uniform cooling even at high ambient temperatures up to 52°C. It features Xpandable+ inverter technology that adjusts compressor speed based on heat load for optimized energy usage. The 4-way swing ensures even air distribution, while the ice clean frost wash technology helps maintain internal hygiene by removing dust and moisture buildup. Built with a 100% copper condenser and anti-corrosive coating, it ensures durability and long-lasting performance. Additional features include long air throw, silent operation, anti-bacterial filter, and auto convertible cooling modes.",
+
+      "highlights": [
+        "2 Ton capacity for large rooms",
+        "3 Star energy rating",
+        "Xpandable+ inverter technology",
+        "4-way air swing for uniform cooling",
+        "Ice Clean FrostWash technology",
+        "100% copper condenser",
+        "Cools up to 52°C ambient temperature"
+      ],
+
+      "specifications": {
+        "capacity": "2 Ton",
+        "energy_rating": "3 Star",
+        "type": "Inverter Split AC",
+        "cooling_power": "21420 BTU",
+        "condenser_coil": "Copper",
+        "refrigerant": "R32",
+        "special_features": [
+          "Xpandable+ Technology",
+          "4-Way Swing",
+          "Ice Clean FrostWash",
+          "Anti Bacterial Filter",
+          "Silent Operation",
+          "Auto Convertible Mode",
+          "Long Air Throw"
+        ]
+      },
+
+      "pros": [
+        "Strong cooling performance for large rooms",
+        "Reliable Hitachi build quality",
+        "Good energy efficiency",
+        "Advanced frost wash cleaning system"
+      ],
+
+      "cons": [
+        "High price compared to some competitors",
+        "Mixed feedback on durability issues",
+        "Remote quality complaints in some reviews"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Excellent cooling even in extreme heat",
+          "Low noise operation",
+          "Good installation service in many cases"
+        ],
+        "negative": [
+          "Occasional missing accessories (reported cases)",
+          "Durability concerns in few units",
+          "Mixed installation experience"
+        ]
+      },
+
+      "offers": [
+        "Up to ₹2,500 bank discount",
+        "No Cost EMI available",
+        "Cashback on select credit cards"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "compressor": "10 Years",
+        "controller": "5 Years"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/3OfIUAz",
+        "platform": "Amazon",
+        "commission_rate": "3.5%",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Hitachi 2 Ton 3 Star Inverter Split AC 3400SXL Price & Review",
+        "meta_description": "Buy Hitachi 2 Ton 3 Star Inverter Split AC with Xpandable+ technology, ice clean frost wash, copper condenser and 4-way swing. Best AC for large rooms.",
+        "keywords": [
+          "hitachi 2 ton ac",
+          "3400sxl review",
+          "hitachi inverter split ac india",
+          "best 2 ton ac 2026",
+          "hitachi xpandable plus ac"
+        ]
+      }
+    }
+  ]
+}
