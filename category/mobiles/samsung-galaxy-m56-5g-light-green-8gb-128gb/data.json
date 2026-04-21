@@ -1,0 +1,125 @@
+{
+  "products": [
+    {
+      "id": "samsung-galaxy-m56-5g-8gb-128gb",
+      "slug": "samsung-galaxy-m56-5g-light-green-8gb-128gb",
+      "url": "/categories/mobiles/samsung-galaxy-m56-5g-light-green-8gb-128gb.html",
+
+      "title": "Samsung Galaxy M56 5G (8GB + 128GB, Light Green)",
+      "brand": "Samsung",
+      "model": "Galaxy M56 5G",
+
+      "category": "mobile-phone",
+      "subcategory": "smartphone",
+
+      "price": {
+        "current": 23499,
+        "original": 33999,
+        "currency": "INR",
+        "discount_percent": 31
+      },
+
+      "rating": {
+        "average": 4.3,
+        "count": 1220
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Tomorrow (Chennai)",
+        "seller": "Darshita Etel",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://m.media-amazon.com/images/I/71hN1gfzDcL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81QEg5100oL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61puJeU2j5L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81b1dFZFEtL._SX679_.jpg"
+      ],
+
+      "short_description": "Samsung Galaxy M56 5G features a slim design, Exynos 1480 processor, AMOLED display, and 50MP AI camera for a balanced mid-range experience.",
+
+      "long_description": "The Samsung Galaxy M56 5G is a stylish and performance-oriented mid-range smartphone featuring the Exynos 1480 processor, 8GB RAM, and 128GB storage. It comes with a slim 7.2mm design and Gorilla Glass Victus+ protection on both sides for durability. The Super AMOLED+ display offers vibrant visuals with high brightness, while the 50MP AI-powered camera delivers good photography performance. With a 5000mAh battery, vapour cooling system, and long-term software support, it is designed for smooth everyday usage and gaming.",
+
+      "highlights": [
+        "Slim 7.2mm premium design",
+        "Exynos 1480 processor",
+        "50MP AI triple camera",
+        "Super AMOLED+ display",
+        "5000mAh battery",
+        "Gorilla Glass Victus+ protection"
+      ],
+
+      "specifications": {
+        "processor": "Exynos 1480",
+        "ram": "8GB",
+        "storage": "128GB",
+        "battery": "5000mAh",
+        "display": "6.7 inch Super AMOLED+",
+        "os": "Android 15 (One UI)",
+        "camera": "50MP + 8MP + 2MP Triple Camera",
+        "charging": "Fast Charging Supported",
+        "protection": "Gorilla Glass Victus+"
+      },
+
+      "pros": [
+        "Slim and lightweight design",
+        "Bright and vibrant AMOLED display",
+        "Smooth One UI experience",
+        "Good overall performance for daily use",
+        "Strong build quality with Gorilla Glass"
+      ],
+
+      "cons": [
+        "Charger not included in the box",
+        "Single speaker instead of stereo",
+        "Battery performance is average for heavy users",
+        "Camera not consistent in all conditions"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Smooth UI and lag-free performance",
+          "Excellent display quality",
+          "Good value for money in mid-range"
+        ],
+        "negative": [
+          "Single speaker setup",
+          "Battery life could be better",
+          "Camera performance varies"
+        ]
+      },
+
+      "offers": [
+        "No Cost EMI available",
+        "Bank cashback up to ₹704",
+        "GST invoice available for business users"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "battery": "1 Year",
+        "service": "Service Centre Replacement (10 Days)"
+      },
+
+      "affiliate": {
+        "buy_link": https://amzn.to/42ib0hJ",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Samsung Galaxy M56 5G Price in India 2026 | Specs & Review",
+        "meta_description": "Buy Samsung Galaxy M56 5G with AMOLED display, 50MP camera, and Exynos processor. Check price, features, pros & cons.",
+        "keywords": [
+          "samsung m56 price in india",
+          "galaxy m56 review",
+          "best samsung phone under 25000",
+          "samsung m series mobiles",
+          "budget samsung 5g phone"
+        ]
+      }
+    }
+  ]
+}
