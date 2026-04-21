@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "id": "apple-macbook-air-13-m5-2026",
+      "slug": "apple-2026-macbook-air-13-inch-m5",
+      "url": "/categories/laptops/apple-2026-macbook-air-13-inch-m5.html",
+
+      "title": "Apple 2026 MacBook Air 13-inch (M5, 16GB RAM, 512GB SSD)",
+      "brand": "Apple",
+      "model": "MacBook Air (M5, 2026)",
+
+      "category": "computers",
+      "subcategory": "laptops",
+
+      "price": {
+        "current": 116990,
+        "original": 119900,
+        "currency": "INR",
+        "discount_percent": 2
+      },
+
+      "rating": {
+        "average": 4.1,
+        "count": 6
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Tomorrow",
+        "seller": "Clicktech Retail Private Ltd",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/macbook-air-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/macbook-air-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/macbook-air-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/macbook-air-4.jpg"
+      ],
+
+      "short_description": "Apple MacBook Air 13-inch with M5 chip delivers powerful AI performance, stunning Liquid Retina display, long battery life, and ultra-portable premium design.",
+
+      "long_description": "The Apple 2026 MacBook Air 13-inch powered by the M5 chip is designed for users who need high performance, portability, and next-generation AI capabilities. With faster CPU performance, enhanced GPU, and a powerful Neural Engine, it handles multitasking, creative workflows, and AI-driven tasks effortlessly.\n\nThe 13.6-inch Liquid Retina display supports over a billion colours, delivering vibrant visuals and sharp clarity, making it ideal for content consumption, editing, and professional work. With up to 18 hours of battery life, it easily lasts through a full day of usage.\n\nIt features a 12MP Center Stage camera for superior video calls, along with a three-mic array and immersive speakers with Spatial Audio. Connectivity includes Thunderbolt 4 ports, MagSafe charging, Wi-Fi 7, and Bluetooth 6.\n\nWith macOS and Apple Intelligence integration, the MacBook Air ensures privacy, seamless ecosystem integration, and optimized performance for AI tasks, making it a top choice for professionals, students, and creators.",
+
+      "highlights": [
+        "M5 chip with advanced AI performance",
+        "13.6-inch Liquid Retina display",
+        "16GB unified memory for multitasking",
+        "512GB SSD storage",
+        "Up to 18 hours battery life",
+        "12MP Center Stage camera",
+        "MagSafe charging and Thunderbolt 4 ports"
+      ],
+
+      "specifications": {
+        "processor": "Apple M5",
+        "ram": "16 GB Unified Memory",
+        "storage": "512 GB SSD",
+        "display": "13.6-inch Liquid Retina",
+        "resolution": "Approx 2560 x 1664",
+        "battery": "Up to 18 hours",
+        "operating_system": "macOS",
+        "weight": "Approx 1.2 kg",
+        "special_features": [
+          "AI-powered Apple Intelligence",
+          "Center Stage camera",
+          "Spatial Audio",
+          "MagSafe charging",
+          "Wi-Fi 7 support"
+        ]
+      },
+
+      "pros": [
+        "Powerful M5 chip performance",
+        "Excellent battery life",
+        "Premium lightweight design",
+        "High-quality display",
+        "Great for AI and multitasking"
+      ],
+
+      "cons": [
+        "Expensive for some users",
+        "Limited ports compared to competitors",
+        "Not ideal for heavy gaming"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Powerful performance for coding and AI tasks",
+          "Lightweight and premium feel",
+          "Great battery backup"
+        ],
+        "negative": [
+          "Not very user-friendly for new macOS users",
+          "Price is slightly high"
+        ]
+      },
+
+      "offers": [
+        "Up to ₹7,000 bank discount",
+        "No Cost EMI available",
+        "Amazon Pay cashback offers"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "pcb": "1 Year",
+        "compressor": "Not Applicable"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4cmNQg9",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Apple MacBook Air 13-inch M5 (2026) Review | Price & Features India",
+        "meta_description": "Buy Apple MacBook Air M5 13-inch laptop with latest price, specs, pros & cons. Best premium lightweight laptop in India 2026.",
+        "keywords": [
+          "macbook air m5 price india",
+          "apple m5 laptop review",
+          "macbook air 2026 specs",
+          "best apple laptop india",
+          "premium lightweight laptop 2026"
+        ]
+      }
+    }
+  ]
+}
