@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "id": "whirlpool-20t-3star-s6m3pp0",
+      "slug": "whirlpool-2-ton-3-star-inverter-split-ac-s6m3pp0",
+      "url": "/categories/air-conditioner/whirlpool-2-ton-3-star-inverter-split-ac-s6m3pp0.html",
+
+      "title": "Whirlpool 2 Ton 3 Star Inverter Split AC (3D Cool S6M3PP0)",
+      "brand": "Whirlpool",
+      "model": "S6M3PP0",
+
+      "category": "air-conditioner",
+      "subcategory": "split-ac",
+
+      "price": {
+        "current": 41490,
+        "original": 70940,
+        "currency": "INR",
+        "discount_percent": 42
+      },
+
+      "rating": {
+        "average": 2.8,
+        "count": 1125
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery 24 - 28 April",
+        "seller": "DAWNTECH ELECTRONICS PRIVATE LIMITED",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://m.media-amazon.com/images/I/513KSmvPM0L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71vAwl8KiBL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71hmBKm0j2L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/717HcM9D+uL._SX679_.jpg"
+      ],
+
+      "short_description": "Whirlpool 2 Ton 3 Star Inverter Split AC with 4-in-1 convertible cooling, IntelliSense inverter compressor, and R32 eco-friendly refrigerant.",
+
+      "long_description": "The Whirlpool 2 Ton 3 Star Inverter Split AC (3D Cool S6M3PP0) is designed for medium-sized rooms (111–150 sq.ft) and delivers efficient cooling even at high ambient temperatures up to 52°C. It features IntelliSense inverter technology that adjusts compressor speed based on cooling demand for better energy savings. The 4-in-1 convertible mode allows flexible cooling capacity control. Built with copper condenser for durability and R32 refrigerant for environmental safety, it ensures long-term performance. Additional features include self-clean technology, hidden display, turbo cool, stabilizer-free operation, and dust filter.",
+
+      "highlights": [
+        "2 Ton capacity for medium rooms",
+        "3 Star energy efficiency",
+        "4-in-1 convertible cooling modes",
+        "IntelliSense inverter compressor",
+        "Copper condenser for durability",
+        "Cools up to 52°C ambient temperature",
+        "R32 eco-friendly refrigerant"
+      ],
+
+      "specifications": {
+        "capacity": "2 Ton",
+        "energy_rating": "3 Star",
+        "type": "Inverter Split AC",
+        "cooling_power": "6200 W",
+        "condenser_coil": "Copper",
+        "refrigerant": "R32",
+        "special_features": [
+          "4-in-1 Convertible Cooling",
+          "IntelliSense Inverter",
+          "Self Clean",
+          "Turbo Cool",
+          "Hidden Display",
+          "Stabilizer Free Operation",
+          "Gas Leak Indicator"
+        ]
+      },
+
+      "pros": [
+        "Affordable pricing for 2 ton AC",
+        "Good cooling performance",
+        "Durable copper build",
+        "Energy efficient inverter system"
+      ],
+
+      "cons": [
+        "3 Star rating (less efficient than 5 Star models)",
+        "Mixed reviews on cooling speed",
+        "Installation quality varies by service partner"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Good cooling in medium rooms",
+          "Strong build quality",
+          "Reliable Whirlpool brand service"
+        ],
+        "negative": [
+          "Some users report slow cooling",
+          "Noise complaints in few cases",
+          "Installation issues reported"
+        ]
+      },
+
+      "offers": [
+        "Up to ₹2,500 bank discount",
+        "No Cost EMI available",
+        "Cashback up to ₹1,244 on select cards"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "compressor": "5 Years Extended Warranty"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4mRwz2b",
+        "platform": "Amazon",
+        "commission_rate": "3.5%",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Whirlpool 2 Ton 3 Star Inverter AC S6M3PP0 Price, Review & Features",
+        "meta_description": "Buy Whirlpool 2 Ton 3 Star Inverter Split AC with IntelliSense compressor, 4-in-1 cooling, copper condenser and R32 gas. Best AC for medium rooms.",
+        "keywords": [
+          "whirlpool 2 ton ac",
+          "s6m3pp0 review",
+          "whirlpool inverter split ac india",
+          "best 2 ton ac under 45000",
+          "whirlpool air conditioner 2026"
+        ]
+      }
+    }
+  ]
+}
