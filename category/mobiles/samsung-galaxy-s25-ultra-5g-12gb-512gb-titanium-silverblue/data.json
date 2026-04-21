@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": "samsung-galaxy-s25-ultra-5g",
+      "slug": "samsung-galaxy-s25-ultra-5g-12gb-512gb-titanium-silverblue",
+      "url": "/categories/mobiles/samsung-galaxy-s25-ultra-5g-12gb-512gb-titanium-silverblue.html",
+
+      "title": "Samsung Galaxy S25 Ultra 5G (Titanium Silverblue, 12GB RAM, 512GB Storage)",
+      "brand": "Samsung",
+      "model": "Galaxy S25 Ultra 5G",
+
+      "category": "mobiles",
+      "subcategory": "smartphones",
+
+      "price": {
+        "current": 138997,
+        "original": 141999,
+        "currency": "INR",
+        "discount_percent": 2
+      },
+
+      "rating": {
+        "average": 4.4,
+        "count": 1066
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Tomorrow",
+        "seller": "Darshita Etel",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://m.media-amazon.com/images/I/71tz3adVWaL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81aLyQ2-WjL._SX679_.jpg,
+        "https://m.media-amazon.com/images/I/71R6mTgFvmL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71AUJGsLFRL._SL1500_.jpg"
+      ],
+
+      "short_description": "Samsung Galaxy S25 Ultra 5G with 200MP camera, Snapdragon 8 Elite processor, S Pen support, and advanced Galaxy AI features.",
+
+      "long_description": "The Samsung Galaxy S25 Ultra 5G is a premium flagship smartphone built for performance, photography, and productivity. It features a stunning 6.9-inch Dynamic AMOLED display with smooth 120Hz refresh rate and vibrant visuals. Powered by the Snapdragon 8 Elite processor, it delivers top-tier performance for gaming and multitasking. The 200MP quad-camera system captures professional-grade photos with exceptional detail, including ultra-wide and periscope zoom capabilities. Integrated Galaxy AI features enhance productivity with smart suggestions and real-time assistance. The device includes an S Pen for creative and professional use, along with a durable titanium design and long-lasting battery life.",
+
+      "highlights": [
+        "200MP flagship quad-camera system",
+        "Snapdragon 8 Elite processor",
+        "6.9-inch Dynamic AMOLED 120Hz display",
+        "Built-in S Pen for productivity",
+        "Galaxy AI smart features",
+        "Premium titanium build"
+      ],
+
+      "specifications": {
+        "display": "6.9-inch Dynamic AMOLED, 120Hz",
+        "processor": "Snapdragon 8 Elite",
+        "ram": "12 GB",
+        "storage": "512 GB",
+        "battery": "5000mAh",
+        "charging": "45W Fast Charging",
+        "camera": "200MP + 50MP + 10MP + 50MP",
+        "os": "Android 15",
+        "special_features": [
+          "S Pen",
+          "Galaxy AI",
+          "Knox Security",
+          "Samsung Wallet",
+          "8K Video Recording"
+        ]
+      },
+
+      "pros": [
+        "Exceptional camera quality with 200MP sensor",
+        "Top-tier performance and smooth multitasking",
+        "Premium design with titanium build",
+        "S Pen adds productivity features",
+        "Bright and vibrant display",
+        "Advanced AI features improve usability"
+      ],
+
+      "cons": [
+        "Very expensive flagship pricing",
+        "Charging speed slower compared to competitors",
+        "Heavy device",
+        "Battery drains faster under heavy usage"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Excellent camera and zoom capabilities",
+          "Smooth performance and fast app loading",
+          "Premium design and display quality",
+          "Useful AI features and S Pen integration"
+        ],
+        "negative": [
+          "Battery life inconsistent for heavy users",
+          "Expensive compared to alternatives",
+          "Exchange experience issues reported"
+        ]
+      },
+
+      "offers": [
+        "Up to ₹4,169 cashback on select cards",
+        "No Cost EMI available",
+        "GST invoice savings up to 18%"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "accessories": "6 Months"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/42kM8pC",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Samsung Galaxy S25 Ultra 5G Price, Review & Features in India",
+        "meta_description": "Buy Samsung Galaxy S25 Ultra 5G with 200MP camera, Snapdragon 8 Elite, S Pen, and Galaxy AI features. Check price, specs, and full review.",
+        "keywords": [
+          "samsung galaxy s25 ultra review",
+          "s25 ultra price india",
+          "200mp camera phone samsung",
+          "best flagship samsung phone",
+          "galaxy s25 ultra specs"
+        ]
+      }
+    }
+  ]
+}
