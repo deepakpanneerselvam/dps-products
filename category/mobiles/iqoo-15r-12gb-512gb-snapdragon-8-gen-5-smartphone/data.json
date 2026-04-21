@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "id": "iqoo-15r-12gb-512gb-dark-knight",
+      "slug": "iqoo-15r-12gb-512gb-snapdragon-8-gen-5-smartphone",
+      "url": "/categories/smartphones/iqoo-15r-12gb-512gb-dark-knight.html",
+
+      "title": "iQOO 15R (12GB RAM, 512GB Storage, Dark Knight)",
+      "brand": "iQOO",
+      "model": "15R",
+
+      "category": "mobile-phone",
+      "subcategory": "smartphone",
+
+      "price": {
+        "current": 57999,
+        "original": 61999,
+        "currency": "INR",
+        "discount_percent": 6
+      },
+
+      "rating": {
+        "average": 4.3,
+        "count": 432
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Sunday, 26 April",
+        "seller": "Darshita Etel",
+        "fulfilled_by": "Amazon"
+      },
+
+      "commission": {
+        "rate": 1.0,
+        "category": "Cell Phones and Accessories"
+      },
+
+    "images": [
+        "https://m.media-amazon.com/images/I/616mnp2HZ7L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71IFfUDi6tL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61YOm+a+6gL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61YOm+a+6gL._SX679_.jpg"
+      ],
+
+      "short_description": "Flagship performance smartphone with Snapdragon 8 Gen 5, 7600mAh battery, 144FPS gaming, and AMOLED display built for gamers and power users.",
+
+      "long_description": "The iQOO 15R is a high-performance gaming smartphone powered by Snapdragon 8 Gen 5 built on a 3nm process. It features a massive 7600mAh battery with 100W FlashCharge and bypass charging support for uninterrupted gaming. The device supports stable 144FPS gaming with advanced cooling and network optimization. It runs OriginOS 6.0 with 4 years of OS updates and 6 years of security patches. The 50MP Sony LYT-700V OIS camera delivers decent photography performance, while the 1.5K 144Hz AMOLED display ensures ultra-smooth visuals with high brightness support.",
+
+      "highlights": [
+        "Snapdragon 8 Gen 5 flagship processor",
+        "7600mAh battery with 100W fast charging",
+        "144FPS stable gaming performance",
+        "1.5K 144Hz AMOLED display",
+        "IP68 + IP69 water resistance",
+        "50MP Sony LYT-700V OIS camera",
+        "OriginOS 6 with long-term updates"
+      ],
+
+      "specifications": {
+        "processor": "Snapdragon 8 Gen 5",
+        "ram": "12GB",
+        "storage": "512GB",
+        "battery": "7600mAh",
+        "charging": "100W FlashCharge",
+        "display": "1.5K AMOLED, 144Hz",
+        "os": "OriginOS 6.0 (Android 16)",
+        "rear_camera": "50MP Sony LYT-700V OIS",
+        "front_camera": "32MP",
+        "water_resistance": "IP68 + IP69"
+      },
+
+      "pros": [
+        "Excellent gaming performance",
+        "Huge battery life (1.5–2 days)",
+        "Very fast charging",
+        "Smooth AMOLED display",
+        "Strong build quality",
+        "Stable performance under load"
+      ],
+
+      "cons": [
+        "Camera is average for the price",
+        "Phone is slightly heavy",
+        "Heating under extreme gaming",
+        "No ultra-premium camera system"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Outstanding battery backup",
+          "Smooth gaming experience",
+          "Premium design and display",
+          "Fast performance"
+        ],
+        "negative": [
+          "Average camera performance",
+          "Minor heating in long sessions",
+          "Software learning curve for some users"
+        ]
+      },
+
+      "offers": [
+        "No Cost EMI available",
+        "Up to ₹2000 bank discount",
+        "Cashback up to ₹1739 on select cards"
+      ],
+
+      "warranty": {
+        "product": "12 Months",
+        "service": "10 days replacement support"
+      },
+
+      "affiliate": {
+        "platform": "Amazon",
+        "buy_link": "https://amzn.to/4tsbRZg,
+        "cta_text": "Buy on Amazon",
+        "commission_rate": 1.0
+      },
+
+      "seo": {
+        "meta_title": "iQOO 15R Price in India 2026 | Snapdragon 8 Gen 5 Gaming Phone Review",
+        "meta_description": "Buy iQOO 15R with Snapdragon 8 Gen 5, 7600mAh battery, 144Hz AMOLED display and 100W fast charging. Best gaming smartphone in India 2026.",
+        "keywords": [
+          "iqoo 15r price in india",
+          "iqoo 15r review",
+          "gaming phone 144fps",
+          "snapdragon 8 gen 5 phone",
+          "best gaming smartphone 2026",
+          "iqoo 15r battery backup",
+          "iqoo 15r specs"
+        ]
+      }
+    }
+  ]
+}
