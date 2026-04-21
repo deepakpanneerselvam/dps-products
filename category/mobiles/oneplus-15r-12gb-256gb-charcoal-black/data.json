@@ -31,12 +31,12 @@
         "fulfilled_by": "Amazon"
       },
 
-      "images": [
-        "https://m.media-amazon.com/images/I/61AsNTuJ6mL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/71fIC58EC7L._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/51hK7-DGeqL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/71TBMeEl00L._SX679_.jpg"
-      ],
+  "images": [
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-1.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-2.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-3.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-4.jpg"
+],
 
       "short_description": "OnePlus 15R with Snapdragon 8 Gen 5, 7400mAh battery, 165Hz AMOLED display and AI-powered performance for gaming and productivity.",
 
