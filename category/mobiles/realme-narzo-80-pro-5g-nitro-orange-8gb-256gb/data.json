@@ -1,0 +1,125 @@
+{
+  "products": [
+    {
+      "id": "realme-narzo-80-pro-5g-8gb-256gb",
+      "slug": "realme-narzo-80-pro-5g-nitro-orange-8gb-256gb",
+      "url": "/categories/mobiles/realme-narzo-80-pro-5g-nitro-orange-8gb-256gb.html",
+
+      "title": "realme NARZO 80 Pro 5G (Nitro Orange, 8GB + 256GB)",
+      "brand": "realme",
+      "model": "NARZO 80 Pro 5G",
+
+      "category": "mobile-phone",
+      "subcategory": "smartphone",
+
+      "price": {
+        "current": 20999,
+        "original": 25999,
+        "currency": "INR",
+        "discount_percent": 19
+      },
+
+      "rating": {
+        "average": 4.3,
+        "count": 2357
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Tomorrow (Chennai)",
+        "seller": "Darshita Etel",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-4.jpg"
+      ],
+
+      "short_description": "realme Narzo 80 Pro 5G with Dimensity 7400 chipset, 6000mAh battery, 80W fast charging, and 4500 nits AMOLED display.",
+
+      "long_description": "The realme Narzo 80 Pro 5G is a powerful mid-range smartphone designed for gamers and heavy users. It features the MediaTek Dimensity 7400 chipset delivering smooth performance and efficient multitasking. The device packs a massive 6000mAh battery with 80W ultra-fast charging, ensuring long-lasting usage. Its 4500 nits HyperGlow AMOLED display offers excellent brightness and clarity even under sunlight. With IP69 water and dust resistance, this phone is built for durability and everyday reliability.",
+
+      "highlights": [
+        "MediaTek Dimensity 7400 processor",
+        "6000mAh Titan battery",
+        "80W ultra-fast charging",
+        "4500 nits AMOLED display",
+        "IP69 water and dust resistance",
+        "Smooth gaming performance"
+      ],
+
+      "specifications": {
+        "processor": "MediaTek Dimensity 7400",
+        "ram": "8GB",
+        "storage": "256GB",
+        "battery": "6000mAh",
+        "display": "6.72 inch AMOLED",
+        "os": "Android 15",
+        "camera": "50MP AI Camera",
+        "charging": "80W Fast Charging",
+        "water_resistance": "IP69"
+      },
+
+      "pros": [
+        "Excellent battery life with 6000mAh capacity",
+        "Very fast 80W charging",
+        "Bright and vibrant AMOLED display",
+        "Smooth performance for gaming and daily use",
+        "Good value for money under ₹20K"
+      ],
+
+      "cons": [
+        "Camera performance drops in low light",
+        "No expandable storage",
+        "Curved display may be fragile",
+        "Sound quality is average"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Great performance for gaming",
+          "Excellent battery backup",
+          "Bright display and smooth UI"
+        ],
+        "negative": [
+          "Camera not consistent in all conditions",
+          "Display durability concerns",
+          "Average speaker quality"
+        ]
+      },
+
+      "offers": [
+        "No Cost EMI available",
+        "Cashback up to ₹629",
+        "GST invoice available for business users"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "battery": "1 Year",
+        "service": "Service Centre Replacement"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4sHFcO5",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "realme Narzo 80 Pro 5G Price in India 2026 | Full Specs & Review",
+        "meta_description": "Buy realme Narzo 80 Pro 5G with Dimensity 7400, 6000mAh battery, 80W charging. Check price, specs, pros & cons in India.",
+        "keywords": [
+          "realme narzo 80 pro price",
+          "narzo 80 pro review",
+          "best phone under 20000",
+          "realme 5g mobile",
+          "budget gaming phone india"
+        ]
+      }
+    }
+  ]
+}
