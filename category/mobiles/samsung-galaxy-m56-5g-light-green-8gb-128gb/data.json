@@ -31,12 +31,12 @@
         "fulfilled_by": "Amazon"
       },
 
-      "images": [
-        "https://m.media-amazon.com/images/I/71hN1gfzDcL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/81QEg5100oL._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/61puJeU2j5L._SX679_.jpg",
-        "https://m.media-amazon.com/images/I/81b1dFZFEtL._SX679_.jpg"
-      ],
+    "images": [
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-1.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-2.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-3.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/mobile/image-4.jpg"
+],
 
       "short_description": "Samsung Galaxy M56 5G features a slim design, Exynos 1480 processor, AMOLED display, and 50MP AI camera for a balanced mid-range experience.",
 
