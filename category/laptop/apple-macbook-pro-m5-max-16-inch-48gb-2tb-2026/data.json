@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": "apple-macbook-pro-m5max-16inch-48gb-2tb-2026",
+      "slug": "apple-macbook-pro-m5-max-16-inch-48gb-2tb-2026",
+      "url": "/categories/laptops/apple-macbook-pro-m5max-16inch-48gb-2tb-2026.html",
+
+      "title": "Apple MacBook Pro 16-inch (M5 Max, 48GB RAM, 2TB SSD)",
+      "brand": "Apple",
+      "model": "MacBook Pro 16-inch (M5 Max, 2026)",
+
+      "category": "computers",
+      "subcategory": "laptops",
+
+      "price": {
+        "current": 499900,
+        "original": 499900,
+        "currency": "INR",
+        "discount_percent": 0
+      },
+
+      "rating": {
+        "average": 3.3,
+        "count": 7
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery by 24 April",
+        "seller": "Clicktech Retail Private Ltd",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/macbookpro-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/macbookpro-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/macbookpro-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/macbookpro-4.jpg"
+      ],
+
+      "short_description": "Apple MacBook Pro 16-inch with M5 Max chip delivers extreme performance, AI acceleration, and a premium Liquid Retina XDR display for creators and professionals.",
+
+      "long_description": "The Apple MacBook Pro 16-inch with M5 Max chip is a flagship professional laptop designed for extreme workloads such as video editing, 3D rendering, AI development, and software engineering.\n\nIt features the powerful Apple M5 Max chip with an 18-core CPU and up to 40-core GPU, optimized for AI-driven workflows and high-performance computing. With 48GB unified memory and 2TB SSD storage, it delivers unmatched speed for multitasking and large-scale projects.\n\nThe 16.2-inch Liquid Retina XDR display offers industry-leading brightness, contrast, and color accuracy, making it ideal for professional creators. macOS optimization ensures smooth performance across creative and productivity applications.\n\nBattery life remains strong even under heavy workloads, and Apple’s ecosystem integration enhances productivity with iPhone and iPad devices.\n\nHowever, it comes with a very high price tag, and gaming support is limited compared to Windows gaming laptops. It is best suited for professionals who need top-tier performance rather than general users.",
+
+      "highlights": [
+        "Apple M5 Max chip (18-core CPU, 40-core GPU)",
+        "48GB unified memory",
+        "2TB ultra-fast SSD storage",
+        "16.2-inch Liquid Retina XDR display",
+        "Built for AI and creative workloads",
+        "macOS optimized performance"
+      ],
+
+      "specifications": {
+        "processor": "Apple M5 Max (18-core CPU, 40-core GPU)",
+        "ram": "48 GB Unified Memory",
+        "storage": "2 TB SSD",
+        "display": "16.2-inch Liquid Retina XDR",
+        "resolution": "3456 x 2234 (approx)",
+        "battery": "All-day battery life (claimed)",
+        "operating_system": "macOS",
+        "weight": "Approx 2.1 kg",
+        "special_features": [
+          "Apple Intelligence AI support",
+          "Neural Engine acceleration",
+          "XDR brightness up to 1600 nits",
+          "High-end thermal design",
+          "Seamless Apple ecosystem integration"
+        ]
+      },
+
+      "pros": [
+        "Extreme performance for professional workloads",
+        "Best-in-class display quality",
+        "Excellent build quality and premium design",
+        "Strong AI and rendering performance",
+        "Long battery life for a workstation"
+      ],
+
+      "cons": [
+        "Very expensive",
+        "Limited gaming compatibility",
+        "Overkill for basic users",
+        "Repair and upgrade costs are high",
+        "Few software limitations outside Apple ecosystem"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Incredible performance for editing and AI work",
+          "Best display quality in laptop segment",
+          "Very powerful and stable system"
+        ],
+        "negative": [
+          "Extremely expensive",
+          "Not suitable for gaming",
+          "Some users question value for money"
+        ]
+      },
+
+      "offers": [
+        "Up to ₹5,000 bank discount",
+        "No Cost EMI available",
+        "Cashback on select credit cards"
+      ],
+
+      "warranty": {
+        "product": "1 Year Apple Warranty",
+        "pcb": "1 Year",
+        "compressor": "Not Applicable"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4mRNUYP",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Apple MacBook Pro M5 Max Review 2026 | Specs, Price & Features India",
+        "meta_description": "Apple MacBook Pro 16-inch with M5 Max chip, 48GB RAM, 2TB SSD. Ultimate AI and creative workstation laptop for professionals in India.",
+        "keywords": [
+          "macbook pro m5 max review",
+          "apple m5 max laptop india",
+          "best laptop for video editing 2026",
+          "macbook pro 48gb ram price india",
+          "apple ai laptop professional"
+        ]
+      }
+    }
+  ]
+}
