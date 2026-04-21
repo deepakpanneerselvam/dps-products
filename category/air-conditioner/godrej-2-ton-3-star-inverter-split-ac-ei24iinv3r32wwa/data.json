@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "id": "godrej-2ton-3star-ei24iinv3r32wwa",
+      "slug": "godrej-2-ton-3-star-inverter-split-ac-ei24iinv3r32wwa",
+      "url": "/categories/air-conditioner/godrej-2-ton-3-star-inverter-split-ac-ei24iinv3r32wwa.html",
+
+      "title": "Godrej 2 Ton 3 Star Inverter Split AC (5-in-1 Convertible, I-Sense Technology, EI 24IINV3R32-WWA)",
+      "brand": "Godrej",
+      "model": "EI 24IINV3R32-WWA",
+
+      "category": "air-conditioner",
+      "subcategory": "split-ac",
+
+      "price": {
+        "current": 42990,
+        "original": 60990,
+        "currency": "INR",
+        "discount_percent": 30
+      },
+
+      "rating": {
+        "average": 3.8,
+        "count": 217
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery 24 - 29 April",
+        "seller": "Dawntech Electronics Private Limited",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://m.media-amazon.com/images/I/51K9NnGQwfL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61anTyDxNZL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71rCFGfPRXL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/7132pMoRVnL._SX679_.jpg"
+      ],
+
+      "short_description": "Godrej 2 Ton 3 Star Inverter Split AC with 5-in-1 convertible cooling, copper condenser, and I-Sense technology for efficient large-room cooling.",
+
+      "long_description": "The Godrej 2 Ton 3 Star Inverter Split AC (EI 24IINV3R32-WWA) is designed for large rooms between 151–200 sq.ft. It features a 5-in-1 convertible inverter compressor that adjusts cooling capacity between 40% to 110% based on heat load, improving energy efficiency. Built with 100% copper condenser and Blue Fin anti-corrosion coating, it ensures long-term durability. The AC supports high ambient cooling up to 52°C, making it suitable for extreme Indian summers. It also includes I-Sense technology for better temperature sensing and consistent comfort.",
+
+      "highlights": [
+        "2 Ton capacity for large rooms",
+        "3 Star energy rating",
+        "5-in-1 convertible cooling",
+        "Copper condenser with Blue Fin coating",
+        "Cools up to 52°C ambient temperature",
+        "Inverter compressor for energy savings",
+        "I-Sense intelligent temperature control"
+      ],
+
+      "specifications": {
+        "capacity": "2 Ton",
+        "energy_rating": "3 Star",
+        "type": "Inverter Split AC",
+        "cooling_power": "6.05 kW",
+        "condenser_coil": "Copper",
+        "refrigerant": "R32",
+        "special_features": [
+          "5-in-1 Convertible Cooling",
+          "I-Sense Technology",
+          "Anti-Corrosion Blue Fin",
+          "Self Diagnosis",
+          "High Ambient Cooling (52°C)",
+          "Inverter Compressor",
+          "Turbo Cooling Mode"
+        ]
+      },
+
+      "pros": [
+        "Good value for money in 2 ton segment",
+        "Strong cooling performance",
+        "Copper condenser improves durability",
+        "Energy-efficient inverter system"
+      ],
+
+      "cons": [
+        "Mixed reviews on reliability",
+        "Installation experience varies",
+        "Noise slightly higher than premium brands"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Good cooling performance for large rooms",
+          "Affordable pricing",
+          "Decent feature set for the price"
+        ],
+        "negative": [
+          "Some reports of installation issues",
+          "Durability concerns in few units",
+          "After-sales service mixed feedback"
+        ]
+      },
+
+      "offers": [
+        "Up to ₹2,500 bank discount",
+        "No Cost EMI available",
+        "Cashback up to ₹1,289 on Amazon Pay ICICI card"
+      ],
+
+      "warranty": {
+        "product": "5 Years Comprehensive Warranty",
+        "compressor": "10 Years Warranty"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/3Qk5gBv",
+        "platform": "Amazon",
+        "commission_rate": "3.50%",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Godrej 2 Ton 3 Star Inverter AC Price, Features & Review 2026",
+        "meta_description": "Buy Godrej 2 Ton 3 Star Inverter Split AC with 5-in-1 cooling, copper condenser, I-Sense tech and 52°C cooling performance. Best AC for large rooms.",
+        "keywords": [
+          "godrej 2 ton ac",
+          "godrej inverter split ac 2 ton",
+          "ei24iinv3r32wwa review",
+          "best 2 ton ac under 45000",
+          "godrej ac 2026 india"
+        ]
+      }
+    }
+  ]
+}
