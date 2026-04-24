@@ -1,0 +1,133 @@
+{
+  "products": [
+    {
+      "id": "whirlpool-192l-3star-vitamagic-pro-2026",
+      "slug": "whirlpool-192l-vitamagic-pro-single-door-2026",
+      "url": "/categories/kitchen-home-appliances/whirlpool-192l-vitamagic-pro-single-door-2026.html",
+
+      "title": "Whirlpool 192L 3 Star Vitamagic PRO Single Door Refrigerator (2026 Model, Radiant Steel)",
+      "brand": "Whirlpool",
+      "model": "215 VMPRO PRM 3S",
+
+      "category": "kitchen-appliances",
+      "subcategory": "refrigerators",
+
+      "price": {
+        "current": 16840,
+        "original": 20950,
+        "currency": "INR",
+        "discount_percent": 20
+      },
+
+      "rating": {
+        "average": 4.0,
+        "count": 2068
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery by 27 April",
+        "seller": "DAWNTECH ELECTRONICS PRIVATE LIMITED",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerator/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerator/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerator/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerator/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerator/image-5.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerator/image-6.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerator/image-7.jpg"
+      ],
+
+      "short_description": "Whirlpool 192L Vitamagic PRO refrigerator with IntelliFrost auto defrost, 3-star rating, and inverter technology ensures efficient cooling and longer freshness.",
+
+      "long_description": "The Whirlpool 192L Vitamagic PRO Refrigerator is a modern single-door appliance designed for small families seeking efficient cooling and smart features. Powered by IntelliFrost Technology, it offers automatic defrost functionality—rare in single-door refrigerators—ensuring hassle-free maintenance.\n\nWith a 192-liter capacity, it is ideal for 2–3 member households. The advanced Intellisense Inverter technology enhances energy efficiency and provides reliable cooling even during voltage fluctuations.\n\nThis refrigerator features Honeycomb Moisture Lock-in Technology that keeps fruits and vegetables fresh for up to 12 days. Microblock technology prevents bacterial growth, ensuring hygienic storage conditions.\n\nAdditionally, the insulated capillary technology helps retain cooling for hours during power cuts, making it highly suitable for Indian conditions. Its sleek Radiant Steel finish and sturdy build add a premium touch to your kitchen.",
+
+      "highlights": [
+        "192L capacity ideal for small families",
+        "Auto defrost with IntelliFrost Technology",
+        "3 Star energy efficiency",
+        "Intellisense inverter compressor",
+        "Honeycomb moisture lock for freshness",
+        "Microblock anti-bacterial protection"
+      ],
+
+      "specifications": {
+        "capacity": "192 Litres",
+        "energy_rating": "3 Star",
+        "defrost_system": "Auto Defrost (IntelliFrost)",
+        "compressor": "Inverter Compressor",
+        "material": "Steel",
+        "dimensions": "61.8 x 53.6 x 124.7 cm",
+        "color": "Radiant Steel",
+        "special_features": [
+          "Stabilizer free operation",
+          "Auto defrost technology",
+          "Moisture lock vegetable crisper",
+          "Cooling retention during power cuts",
+          "Anti-bacterial gasket"
+        ]
+      },
+
+      "pros": [
+        "Auto defrost in single-door (rare feature)",
+        "Good energy efficiency",
+        "Maintains freshness for longer",
+        "Works well in voltage fluctuations",
+        "Good value for money"
+      ],
+
+      "cons": [
+        "Mixed cooling performance reported",
+        "Noise issues in some units",
+        "Build quality concerns in few cases",
+        "Door and insulation issues reported"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Great value for money",
+          "Good storage capacity",
+          "Energy efficient and stylish design"
+        ],
+        "negative": [
+          "Cooling inconsistency in some units",
+          "Noise complaints",
+          "Durability concerns in few cases"
+        ]
+      },
+
+      "offers": [
+        "Up to ₹1,500 bank discount",
+        "No Cost EMI available",
+        "Cashback on select cards"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "pcb": "Not Applicable",
+        "compressor": "10 Years"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4ctu2rt",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Whirlpool 192L Vitamagic PRO Refrigerator Review 2026 | Best Budget Fridge India",
+        "meta_description": "Buy Whirlpool 192L 3 Star Vitamagic PRO refrigerator with auto defrost and inverter technology. Best fridge for small families in India.",
+        "keywords": [
+          "whirlpool 192l refrigerator review",
+          "best single door fridge india 2026",
+          "whirlpool vitamagic pro price",
+          "budget refrigerator india",
+          "auto defrost single door fridge"
+        ]
+      }
+    }
+  ]
+}
