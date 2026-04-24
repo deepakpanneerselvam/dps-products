@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": "samsung-183l-4star-inverter-fridge-rr20h28249u",
+      "slug": "samsung-183l-4star-inverter-fridge-rr20h28249u-2026",
+      "url": "/categories/large-appliances/samsung-183l-4star-inverter-fridge-rr20h28249u-2026.html",
+
+      "title": "Samsung 183L 4 Star Digital Inverter Single Door Refrigerator (RR20H28249U/NL, Paradise Bloom Blue)",
+      "brand": "Samsung",
+      "model": "RR20H28249U/NL",
+
+      "category": "large-appliances",
+      "subcategory": "refrigerators",
+
+      "price": {
+        "current": 16990,
+        "original": 21999,
+        "currency": "INR",
+        "discount_percent": 23
+      },
+
+      "rating": {
+        "average": 4.3,
+        "count": 4418
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery by 27 April",
+        "seller": "DAWNTECH ELECTRONICS PRIVATE LIMITED",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerator/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerator/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerator/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerator/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerator/image-5.jpg"
+      ],
+
+      "short_description": "Samsung 183L 4 Star refrigerator with digital inverter technology offers energy-efficient cooling, silent operation, and ideal storage for small families.",
+
+      "long_description": "The Samsung 183L 4 Star Digital Inverter Refrigerator is a reliable and energy-efficient solution for modern homes. Designed for small families, this single door refrigerator combines performance with style, featuring a unique Paradise Bloom Blue finish.\n\nPowered by a digital inverter compressor, it automatically adjusts cooling based on usage, ensuring low power consumption, reduced noise, and long-lasting durability. With stabilizer-free operation (100V–300V), it protects the appliance from voltage fluctuations without needing an external stabilizer.\n\nThe 183-liter capacity is ideal for 2–3 members, offering ample storage with toughened glass shelves, a vegetable drawer, and a dedicated freezer compartment. The base stand drawer adds extra space for storing non-perishable items.\n\nAdditional features like an anti-bacterial gasket, smart connect inverter support, and elegant Grande door design enhance usability and hygiene. Overall, it’s a perfect budget-friendly refrigerator with dependable performance.",
+
+      "highlights": [
+        "183L capacity ideal for small families",
+        "4 Star energy rating for efficiency",
+        "Digital inverter compressor",
+        "Stabilizer-free operation",
+        "Base stand with drawer storage",
+        "Low noise performance"
+      ],
+
+      "specifications": {
+        "capacity": "183 Litres",
+        "energy_rating": "4 Star",
+        "compressor": "Digital Inverter Compressor",
+        "cooling_type": "Direct Cool",
+        "defrosting_type": "Manual",
+        "shelves": "Toughened Glass",
+        "dimensions": "66.5 x 55 x 133 cm",
+        "color": "Paradise Bloom Blue",
+        "special_features": [
+          "Smart Connect Inverter",
+          "Anti-bacterial gasket",
+          "Stabilizer-free operation",
+          "Base stand drawer",
+          "Low noise"
+        ]
+      },
+
+      "pros": [
+        "Energy efficient and saves electricity",
+        "Silent operation",
+        "Good for small families",
+        "Stylish design",
+        "Reliable Samsung compressor"
+      ],
+
+      "cons": [
+        "Manual defrost required",
+        "Limited freezer capacity",
+        "Not suitable for large families"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Very good cooling performance",
+          "Silent and energy efficient",
+          "Value for money product"
+        ],
+        "negative": [
+          "Needs frequent defrosting",
+          "Moisture issues reported by some users",
+          "Cooling inconsistency in rare cases"
+        ]
+      },
+
+      "offers": [
+        "₹750 coupon discount",
+        "No Cost EMI available",
+        "Bank offers up to ₹2,500",
+        "Amazon Pay cashback offers"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "pcb": "Not Applicable",
+        "compressor": "10 Years"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4u6W8yG",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Samsung 183L 4 Star Refrigerator Review 2026 | Best Budget Fridge India",
+        "meta_description": "Buy Samsung 183L 4 Star Digital Inverter Refrigerator with low power consumption and silent operation. Best fridge for small families in India.",
+        "keywords": [
+          "samsung 183l refrigerator review",
+          "best refrigerator under 20000 india",
+          "4 star fridge samsung price",
+          "single door refrigerator india 2026",
+          "budget fridge for small family"
+        ]
+      }
+    }
+  ]
+}
