@@ -1,0 +1,138 @@
+{
+  "products": [
+    {
+      "id": "lg-630l-side-by-side-instaview-gl-x257amc3",
+      "slug": "lg-630l-instaview-door-in-door-refrigerator-2026",
+      "url": "/categories/kitchen-home-appliances/lg-630l-instaview-door-in-door-refrigerator-2026.html",
+
+      "title": "LG 630L Side-by-Side Refrigerator (GL-X257AMC3, InstaView Door-in-Door, Wi-Fi, Inverter, Ice & Water Dispenser)",
+      "brand": "LG",
+      "model": "GL-X257AMC3",
+
+      "category": "kitchen-appliances",
+      "subcategory": "refrigerators",
+
+      "price": {
+        "current": 189990,
+        "original": 247199,
+        "currency": "INR",
+        "discount_percent": 23
+      },
+
+      "rating": {
+        "average": 4.1,
+        "count": 513
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery by 27 April",
+        "seller": "Dawntech Electronics Private Limited",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerators/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerators/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerators/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerators/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerators/image-5.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerators/image-6.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerators/image-7.jpg"
+      ],
+
+      "short_description": "LG 630L InstaView side-by-side refrigerator with Door-in-Door design, Wi-Fi connectivity, inverter compressor, and built-in ice & water dispenser.",
+
+      "long_description": "The LG 630L Side-by-Side Refrigerator (GL-X257AMC3) is a premium appliance designed for modern smart homes. Featuring InstaView Door-in-Door technology, it allows you to knock twice on the glass panel to view inside without opening the door, reducing cold air loss and improving efficiency.\n\nWith a massive 630-liter capacity, it is ideal for large families. The refrigerator comes equipped with a Smart Inverter Compressor that ensures energy efficiency, quieter operation, and longer durability.\n\nThe DoorCooling+ and Multi Air Flow systems ensure uniform cooling throughout the compartments, keeping food fresher for longer durations. Additionally, the Hygiene Fresh+ filter helps eliminate bacteria and odors, maintaining hygiene.\n\nThis model also includes a built-in ice and water dispenser, Wi-Fi connectivity via LG ThinQ app, and smart diagnosis features for troubleshooting. Its sleek matte black finish enhances the aesthetics of modern kitchens while offering advanced functionality.",
+
+      "highlights": [
+        "630L large capacity for big families",
+        "InstaView Door-in-Door technology",
+        "Smart Inverter Compressor",
+        "Wi-Fi enabled (LG ThinQ app)",
+        "Ice & water dispenser",
+        "DoorCooling+ for faster cooling",
+        "Hygiene Fresh+ anti-bacterial filter"
+      ],
+
+      "specifications": {
+        "capacity": "630 Litres",
+        "configuration": "Side-by-Side",
+        "energy_rating": "3 Star",
+        "compressor": "Smart Inverter Compressor",
+        "cooling_technology": "DoorCooling+ & Multi Air Flow",
+        "dimensions": "73.5 x 91.3 x 179 cm",
+        "color": "Matte Black",
+        "special_features": [
+          "InstaView Door-in-Door",
+          "Wi-Fi connectivity",
+          "Ice & water dispenser",
+          "Smart diagnosis",
+          "Hygiene Fresh+ filter",
+          "Convertible cooling modes"
+        ]
+      },
+
+      "pros": [
+        "Huge storage capacity",
+        "Premium design with InstaView panel",
+        "Energy-efficient inverter compressor",
+        "Advanced cooling system",
+        "Smart features with app control"
+      ],
+
+      "cons": [
+        "Very expensive",
+        "Requires large kitchen space",
+        "Heavy and difficult to move",
+        "Installation coordination issues reported"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Spacious and perfect for large families",
+          "Stylish premium look",
+          "Energy efficient and quiet",
+          "Good cooling performance"
+        ],
+        "negative": [
+          "Some cooling and performance issues reported",
+          "Scratches and dents in rare cases",
+          "Installation delays from sellers",
+          "Very bulky for small homes"
+        ]
+      },
+
+      "offers": [
+        "No Cost EMI available",
+        "Bank discount up to ₹1,500",
+        "Cashback up to ₹5,699",
+        "Exchange offers available"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "pcb": "Not Applicable",
+        "compressor": "10 Years"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/41O4T4J",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "LG 630L InstaView Refrigerator Review 2026 | Smart Side-by-Side Fridge",
+        "meta_description": "Buy LG 630L InstaView Door-in-Door Refrigerator with Wi-Fi, inverter compressor, and water dispenser. Best premium fridge in India 2026.",
+        "keywords": [
+          "lg 630l refrigerator review",
+          "instaview fridge india",
+          "side by side refrigerator lg price",
+          "best premium refrigerator india 2026",
+          "lg smart fridge with wifi"
+        ]
+      }
+    }
+  ]
+}
