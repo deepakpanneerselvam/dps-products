@@ -1,0 +1,137 @@
+{
+  "products": [
+    {
+      "id": "lg-9kg-ai-frontload-fhp1209z5m",
+      "slug": "lg-9kg-ai-frontload-washing-machine-2026",
+      "url": "/categories/home-appliances/lg-9kg-ai-frontload-washing-machine-2026.html",
+
+      "title": "LG 9 Kg 5 Star AI Direct Drive Front Load Washing Machine (FHP1209Z5M)",
+      "brand": "LG",
+      "model": "FHP1209Z5M",
+
+      "category": "home-appliances",
+      "subcategory": "washing-machines",
+
+      "price": {
+        "current": 40990,
+        "original": 53990,
+        "currency": "INR",
+        "discount_percent": 24
+      },
+
+      "rating": {
+        "average": 4.3,
+        "count": 1822
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery by 27-28 April",
+        "seller": "Dawntech Electronics Private Limited",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/washing-machines/lg-wm-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/washing-machines/lg-wm-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/washing-machines/lg-wm-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/washing-machines/lg-wm-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/washing-machines/lg-wm-5.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/washing-machines/lg-wm-6.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/washing-machines/lg-wm-7.jpg"
+      ],
+
+      "short_description": "LG 9 Kg fully automatic front load washing machine with AI Direct Drive, Steam wash, Wi-Fi connectivity, and 5-star energy rating—perfect for large families.",
+
+      "long_description": "The LG 9 Kg AI Direct Drive Front Load Washing Machine is designed for modern households that demand efficiency, performance, and smart features. Powered by AI DD technology, it intelligently detects fabric type and weight to provide optimized washing care.\n\nWith Steam technology, it removes up to 99.9% allergens, making it ideal for families with kids or sensitive skin. The 6 Motion Direct Drive system ensures deep cleaning while being gentle on clothes.\n\nThis washing machine comes with Wi-Fi connectivity via LG ThinQ, allowing you to control and monitor your laundry remotely. Its 5-star energy rating ensures low electricity consumption, saving on monthly bills.\n\nThe 1200 RPM spin speed helps in faster drying, while 14 wash programs provide flexibility for different fabric types. Built with a stainless steel drum, it ensures durability and hygiene over long-term usage.\n\nOverall, it is a feature-rich, energy-efficient washing machine offering great value for money in the premium mid-range segment.",
+
+      "highlights": [
+        "9 Kg capacity ideal for large families",
+        "AI Direct Drive technology",
+        "Steam wash removes 99.9% allergens",
+        "5 Star energy efficiency",
+        "Wi-Fi enabled with LG ThinQ app",
+        "1200 RPM high spin speed"
+      ],
+
+      "specifications": {
+        "capacity": "9 Kg",
+        "type": "Front Load Fully Automatic",
+        "energy_rating": "5 Star",
+        "spin_speed": "1200 RPM",
+        "wash_programs": "14 Programs",
+        "drum_type": "Stainless Steel Drum",
+        "motor": "Inverter Direct Drive",
+        "dimensions": "47.5D x 60W x 85H cm",
+        "special_features": [
+          "AI DD Fabric Detection",
+          "Steam Technology",
+          "Wi-Fi Smart Control",
+          "Child Lock",
+          "Auto Restart",
+          "Smart Diagnosis"
+        ]
+      },
+
+      "pros": [
+        "Excellent wash quality",
+        "Energy and water efficient",
+        "Silent operation",
+        "Smart Wi-Fi features",
+        "Premium build quality"
+      ],
+
+      "cons": [
+        "Slightly expensive",
+        "Long wash cycles",
+        "App features are limited",
+        "Installation delays reported",
+        "Heavy to move"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Very good wash quality and performance",
+          "Low noise and vibration",
+          "Value for money for features offered"
+        ],
+        "negative": [
+          "Installation issues in some cases",
+          "App control not very useful",
+          "Wash cycles take longer time"
+        ]
+      },
+
+      "offers": [
+        "₹2000 coupon discount",
+        "No Cost EMI available",
+        "Bank offers up to ₹2500",
+        "Amazon Pay cashback available"
+      ],
+
+      "warranty": {
+        "product": "2 Years",
+        "motor": "10 Years",
+        "compressor": "Not Applicable"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/your-affiliate-link",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "LG 9 Kg Front Load Washing Machine Review 2026 | Price & Features",
+        "meta_description": "Buy LG 9 Kg 5 Star AI Direct Drive front load washing machine with steam and Wi-Fi. Best washing machine for large families in India.",
+        "keywords": [
+          "lg 9kg washing machine review",
+          "best front load washing machine india",
+          "lg ai direct drive washing machine",
+          "washing machine under 50000 india",
+          "lg steam washing machine price"
+        ]
+      }
+    }
+  ]
+}
