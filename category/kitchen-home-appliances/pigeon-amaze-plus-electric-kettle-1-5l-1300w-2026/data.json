@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "pigeon-amaze-plus-electric-kettle-1-5l",
+      "slug": "pigeon-amaze-plus-electric-kettle-1-5l-1300w-2026",
+      "url": "/categories/kitchen-appliances/pigeon-amaze-plus-electric-kettle-1-5l-1300w-2026.html",
+      "title": "Pigeon Amaze Plus Electric Kettle 1.5L, 1300W, Stainless Steel Body with Auto Shut-Off (Black Silver)",
+      "brand": "Pigeon",
+      "category": "Kitchen Appliances",
+      "price": {
+        "mrp": 1101,
+        "deal_price": 549,
+        "discount_percent": 50
+      },
+      "rating": {
+        "value": 4.0,
+        "count": 175892
+      },
+      "key_features": [
+        "1.5 litre capacity with fast boiling (5–7 minutes)",
+        "1300W powerful heating element",
+        "Auto shut-off for safety",
+        "Stainless steel body with sleek mirror finish",
+        "Cordless design with 360° swivel base",
+        "Lightweight and easy to handle",
+        "Ideal for tea, coffee, and hot water"
+      ],
+      "highlights": [
+        "Best Seller in Electric Kettles",
+        "10K+ bought in past month",
+        "1 Year Warranty",
+        "Amazon Delivered",
+        "Free Delivery"
+      ],
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-5.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-6.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-7.jpg"
+      ],
+      "affiliate": {
+        "buy_link": "https://amzn.to/4cN8y7Y",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+      "availability": "In Stock",
+      "delivery": "Free delivery available",
+      "seller": "RetailEZ Pvt Ltd",
+      "description": "The Pigeon Amaze Plus Electric Kettle is a reliable and budget-friendly appliance designed for quick boiling. With a 1300W heating element, it boils water efficiently in minutes, making it perfect for tea, coffee, and instant meals. Its stainless steel body, auto shut-off feature, and cordless design ensure both durability and safety for daily use.",
+      "specifications": {
+        "capacity": "1.5 Litres",
+        "wattage": "1300 Watts",
+        "material": "Stainless Steel & Plastic",
+        "voltage": "240V",
+        "dimensions": "7.3 x 7.3 x 8.3 cm",
+        "weight": "Lightweight",
+        "color": "Black Silver"
+      }
+    }
+  ]
+}
