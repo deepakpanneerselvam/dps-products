@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "bajaj-pygmy-go-mini-fan-178mm",
+      "slug": "bajaj-pygmy-go-mini-fan-178mm-rechargeable-2026",
+      "url": "/categories/kitchen-appliances/bajaj-pygmy-go-mini-fan-178mm-rechargeable-2026.html",
+      "title": "Bajaj Pygmy Go 178MM Mini Fan with LED Lighting, Rechargeable, USB Charging, 4-Hour Battery Backup (Blue)",
+      "brand": "Bajaj",
+      "category": "Kitchen Appliances",
+      "price": {
+        "mrp": 2600,
+        "deal_price": 1499,
+        "discount_percent": 42
+      },
+      "rating": {
+        "value": 3.9,
+        "count": 5013
+      },
+      "key_features": [
+        "Rechargeable fan with 4-hour battery backup",
+        "USB charging support for convenience",
+        "3 speed settings for airflow control",
+        "Dual LED light brightness modes",
+        "Portable and lightweight design",
+        "2400 mAh Li-ion battery",
+        "Low power consumption (8W)"
+      ],
+      "highlights": [
+        "#1 Best Seller in Table Fans",
+        "9K+ bought in past month",
+        "Amazon Delivered",
+        "Free Delivery",
+        "Top Brand"
+      ],
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-5.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-6.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-7.jpg"
+      ],
+      "affiliate": {
+        "buy_link": "https://amzn.to/4mROjKX",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+      "availability": "In Stock",
+      "delivery": "Free delivery available",
+      "seller": "RetailEZ Pvt Ltd",
+      "description": "The Bajaj Pygmy Go Mini Fan is a compact and portable cooling solution designed for personal use. With a rechargeable 2400mAh battery, USB charging, and up to 4 hours of backup, it is ideal during power cuts and travel. It also features dual LED lighting, silent operation, and multiple speed settings for convenience.",
+      "specifications": {
+        "fan_size": "178 mm",
+        "battery": "2400 mAh Li-ion",
+        "power_consumption": "8 Watts",
+        "speed": "2100 RPM",
+        "charging": "USB Charging",
+        "dimensions": "24.5 x 9.6 x 29.7 cm",
+        "color": "Cerulean Blue"
+      }
+    }
+  ]
+}
