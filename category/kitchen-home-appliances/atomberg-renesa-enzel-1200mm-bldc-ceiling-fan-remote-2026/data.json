@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "id": "atomberg-renesa-enzel-1200mm-bldc-fan",
+      "slug": "atomberg-renesa-enzel-1200mm-bldc-ceiling-fan-remote-2026",
+      "url": "/categories/kitchen-appliances/atomberg-renesa-enzel-1200mm-bldc-ceiling-fan-remote-2026.html",
+      "title": "Atomberg Renesa Enzel 1200mm BLDC Ceiling Fan with Remote, 5 Star Energy Saving, Low Noise, LED Indicator (Gloss White)",
+      "brand": "Atomberg",
+      "category": "Kitchen Appliances",
+      "price": {
+        "mrp": 5390,
+        "deal_price": 3599,
+        "discount_percent": 33
+      },
+      "rating": {
+        "value": 4.2,
+        "count": 51889
+      },
+      "key_features": [
+        "Energy-efficient BLDC motor with only 35W consumption",
+        "Advanced Air+ technology with 235 CMM high air delivery",
+        "Comes with smart IR remote control",
+        "Low noise operation (<58 dB)",
+        "LED speed indicator for easy control",
+        "Suitable for false ceilings and modern homes",
+        "5-star rated for power savings"
+      ],
+      "highlights": [
+        "#1 Best Seller in Ceiling Fans",
+        "2K+ bought in past month",
+        "Amazon Delivered",
+        "Free Delivery",
+        "3 Year Warranty",
+        "Top Brand"
+      ],
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-5.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-6.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-7.jpg"
+      ],
+      "affiliate": {
+        "buy_link": "https://amzn.to/4wbcKHB",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+      "availability": "In Stock",
+      "delivery": "Free delivery available",
+      "seller": "RetailEZ Pvt Ltd",
+      "description": "The Atomberg Renesa Enzel 1200mm BLDC Ceiling Fan is a premium energy-saving fan designed for modern homes. With advanced BLDC motor technology, it consumes only 35W while delivering powerful airflow. It features remote control operation, low noise performance, LED speed indicators, and sleek aesthetics, making it ideal for bedrooms, living rooms, and offices.",
+      "specifications": {
+        "fan_size": "1200 mm",
+        "power_consumption": "35 Watts",
+        "air_delivery": "235 CMM",
+        "noise_level": "<58 dB",
+        "motor_type": "BLDC",
+        "control": "Remote Control",
+        "dimensions": "58.5 x 22 x 22.5 cm",
+        "color": "Gloss White"
+      },
+      "seo": {
+        "meta_title": "Atomberg Renesa Enzel BLDC Fan Review 2026 | Price, Features & Power Saving",
+        "meta_description": "Buy Atomberg Renesa Enzel 1200mm BLDC ceiling fan with remote. 5-star energy saving fan with low noise, high air delivery and best price in India.",
+        "keywords": [
+          "atomberg renesa enzel review",
+          "best bldc ceiling fan india 2026",
+          "energy saving fan 1200mm india",
+          "atomberg fan price india",
+          "low power consumption ceiling fan"
+        ]
+      }
+    }
+  ]
+}
