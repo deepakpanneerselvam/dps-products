@@ -32,14 +32,14 @@
       },
 
       "images": [
-        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerators/image-1.jpg",
-        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerators/image-2.jpg",
-        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerators/image-3.jpg",
-        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerators/image-4.jpg",
-        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerators/image-5.jpg",
-        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerators/image-6.jpg",
-        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/refrigerators/image-7.jpg"
-      ],
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-1.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-2.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-3.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-4.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-5.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-6.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-7.jpg"
+],
 
       "short_description": "LG 630L InstaView side-by-side refrigerator with Door-in-Door design, Wi-Fi connectivity, inverter compressor, and built-in ice & water dispenser.",
 
