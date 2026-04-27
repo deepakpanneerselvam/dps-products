@@ -1,0 +1,127 @@
+{
+  "id": "kent-grand-ro-water-purifier-8l",
+  "slug": "kent-grand-ro-water-purifier-2026",
+  "url": "/categories/kitchen-home-appliances/kent-grand-ro-water-purifier-2026.html",
+
+  "title": "KENT Grand RO Water Purifier (RO+UF+TDS Control + UV LED, 8L, 20LPH)",
+  "brand": "KENT",
+  "model": "Grand RO Water Purifier",
+
+  "category": "kitchen",
+  "subcategory": "water-purifiers",
+
+  "price": {
+    "current": 12599,
+    "original": 19500,
+    "currency": "INR",
+    "discount_percent": 35
+  },
+
+  "rating": {
+    "average": 4.4,
+    "count": 6697
+  },
+
+  "availability": {
+    "status": "in_stock",
+    "delivery": "FREE delivery by 29 April",
+    "seller": "KENT RO SYSTEMS LTD",
+    "fulfilled_by": "Amazon"
+  },
+
+  "images": [
+    "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-1.jpg",
+    "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-2.jpg",
+    "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-3.jpg",
+    "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-4.jpg",
+    "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-5.jpg",
+    "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-6.jpg",
+    "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-7.jpg"
+  ],
+
+  "short_description": "Reliable 8L RO water purifier from KENT with multi-stage purification and TDS control for safe drinking water.",
+
+  "long_description": "The KENT Grand RO Water Purifier is one of the most popular and trusted water purifiers in India, designed to deliver safe and clean drinking water using advanced multi-stage purification technology. It combines RO, UF, UV LED, and TDS control to remove dissolved impurities, bacteria, viruses, and harmful chemicals.\n\nThe advanced RO membrane effectively eliminates contaminants like arsenic, lead, mercury, and pesticides, making it suitable for borewell, tanker, and municipal water sources. The UV LED in the storage tank ensures water remains pure for longer durations.\n\nThe built-in TDS controller allows retention of essential natural minerals, improving both taste and health benefits. With a purification capacity of 20 litres per hour and an 8L storage tank, it is suitable for medium-sized families.\n\nKENT also provides a wide service network and free installation, making it a reliable choice for long-term usage.",
+
+  "highlights": [
+    "RO + UF + UV LED purification",
+    "TDS controller for mineral retention",
+    "8L storage capacity",
+    "20LPH purification rate",
+    "Suitable for all water sources",
+    "Wide service network across India"
+  ],
+
+  "specifications": {
+    "capacity": "8 Litres",
+    "technology": "RO + UF + UV LED + TDS Control",
+    "purification_rate": "20 Litres/hour",
+    "material": "Plastic",
+    "dimensions": "39 x 53 x 25 cm",
+    "special_features": [
+      "Advanced RO membrane",
+      "UV LED tank purification",
+      "TDS control system",
+      "Multi-stage purification",
+      "Free installation"
+    ]
+  },
+
+  "pros": [
+    "Trusted brand with large service network",
+    "Effective multi-stage purification",
+    "Good water taste and quality",
+    "Affordable pricing",
+    "Easy installation and service"
+  ],
+
+  "cons": [
+    "Mixed reliability feedback",
+    "Reports of leakage issues",
+    "Basic design compared to newer models",
+    "Manual TDS adjustment not user-friendly"
+  ],
+
+  "reviews_summary": {
+    "positive": [
+      "Excellent water quality and taste",
+      "Quick and professional installation",
+      "Value for money product"
+    ],
+    "negative": [
+      "Some leakage complaints",
+      "Reliability issues after installation",
+      "Design could be improved"
+    ]
+  },
+
+  "offers": [
+    "No Cost EMI available",
+    "Bank discount offers",
+    "GST invoice for business buyers"
+  ],
+
+  "warranty": {
+    "product": "1 Year",
+    "pcb": "Included",
+    "compressor": "Not Applicable"
+  },
+
+  "affiliate": {
+    "buy_link": "",
+    "platform": "Amazon",
+    "cta_text": "Buy on Amazon"
+  },
+
+  "seo": {
+    "meta_title": "KENT Grand RO Water Purifier Review 2026 | Price, Features & Specs",
+    "meta_description": "Buy KENT Grand RO Water Purifier with TDS control and UV LED tank. Best budget RO purifier in India for home use.",
+    "keywords": [
+      "kent grand ro review",
+      "best water purifier under 15000 india",
+      "kent ro price india",
+      "ro uv uf purifier india",
+      "kent water purifier 8l"
+    ]
+  }
+}
