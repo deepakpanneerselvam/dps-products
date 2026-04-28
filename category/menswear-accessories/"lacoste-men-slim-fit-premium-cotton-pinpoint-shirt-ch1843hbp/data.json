@@ -1,0 +1,126 @@
+{
+  "products": [
+    {
+      "id": "lacoste-men-shirt-ch1843hbp",
+      "slug": "lacoste-men-slim-fit-premium-cotton-pinpoint-shirt-ch1843hbp",
+      "url": "/categories/clothing-accessories/men/lacoste-men-slim-fit-premium-cotton-pinpoint-shirt-ch1843hbp.html",
+
+      "title": "Lacoste Men Slim Fit Premium Cotton Pinpoint Shirt (CH1843HBP)",
+      "brand": "Lacoste",
+      "model": "CH1843HBP",
+
+      "category": "clothing-accessories",
+      "subcategory": "men-shirts",
+
+      "price": {
+        "current": 11200,
+        "original": 11200,
+        "currency": "INR",
+        "discount_percent": 0
+      },
+
+      "rating": {
+        "average": 4.5,
+        "count": 3
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Sunday, 3 May",
+        "seller": "Cocoblu Retail",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-5.jpg"
+      ],
+
+      "short_description": "Elegant Lacoste Slim Fit shirt crafted from premium cotton pinpoint with a button-down collar and genuine mother-of-pearl buttons.",
+
+      "long_description": "The Lacoste Men's Slim Fit Shirt (CH1843HBP) is an elegant formal tailored piece made from premium cotton pinpoint—a fabric that sits perfectly between a fine poplin and a sturdy Oxford. The texture evokes the iconic Lacoste piqué feel while maintaining a crisp, formal look. It features a sophisticated button-down collar, a slim-fit cut for a modern silhouette, and authentic mother-of-pearl buttons. Finished with the signature small embroidered green crocodile on the chest, it is a versatile best-seller ideal for both business and smart-casual occasions.",
+
+      "highlights": [
+        "Premium pinpoint cotton woven from super-fine thread",
+        "Modern Slim Fit tailored cut",
+        "Classic button-down collar",
+        "Genuine mother-of-pearl buttons",
+        "Signature embroidered green crocodile logo",
+        "Fine textured weave for a unique finish"
+      ],
+
+      "specifications": {
+        "capacity": "N/A",
+        "energy_rating": "N/A",
+        "type": "Casual/Formal Shirt",
+        "material": "100% Cotton",
+        "sleeve_type": "Long Sleeve",
+        "collar_style": "Button Down",
+        "special_features": [
+          "Premium Pinpoint Cotton",
+          "Mother-of-Pearl Buttons",
+          "Slim Fit",
+          "Embroidered Logo"
+        ]
+      },
+
+      "pros": [
+        "Superior fabric feel (Pinpoint Cotton)",
+        "Elegant formal and casual versatility",
+        "High-end mother-of-pearl button details",
+        "Tailored fit provides a sharp look"
+      ],
+
+      "cons": [
+        "Premium price point",
+        "Slim fit may be restrictive for broader frames",
+        "Limited customer reviews available"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Excellent material quality",
+          "Sophisticated texture and look",
+          "Perfect for formal occasions"
+        ],
+        "negative": [
+          "Higher price than standard shirts",
+          "Strict exchange/replacement policy"
+        ]
+      },
+
+      "offers": [
+        "Upto ₹2,500 bank discount on select credit cards",
+        "Upto ₹336 cashback via Amazon Pay ICICI Credit Card",
+        "No Cost EMI available starting at ₹394"
+      ],
+
+      "warranty": {
+        "product": "N/A",
+        "return_policy": "10 days Exchange & Replacement only",
+        "authenticity": "Top Brand - Secure Transaction"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4eLo0Uu",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Lacoste Men's Slim Fit Cotton Pinpoint Shirt (CH1843HBP) - Price & Review",
+        "meta_description": "Buy Lacoste Men's Slim Fit Shirt in Premium Cotton Pinpoint. Features button-down collar, mother-of-pearl buttons, and iconic crocodile logo. Best for formal & casual wear.",
+        "keywords": [
+          "lacoste men shirt india",
+          "lacoste pinpoint cotton shirt",
+          "lacoste slim fit formal shirt",
+          "premium long sleeve men shirt",
+          "lacoste ch1843hbp price"
+        ]
+      }
+    }
+  ]
+}
