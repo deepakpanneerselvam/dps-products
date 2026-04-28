@@ -1,0 +1,128 @@
+{
+  "products": [
+    {
+      "id": "casio-edifice-efr-539l-7cvudf",
+      "slug": "casio-edifice-white-analog-dial-brown-leather-band-men-watch-efr-539l-7cvudf",
+      "url": "/categories/watches/men/casio-edifice-white-analog-dial-brown-leather-band-efr-539l-7cvudf.html",
+
+      "title": "Casio Edifice EFR-539L-7CVUDF White Analog Dial Brown Leather Band Men's Watch",
+      "brand": "Casio",
+      "model": "EFR-539L-7CVUDF",
+
+      "category": "watches",
+      "subcategory": "men-wrist-watches",
+
+      "price": {
+        "current": 10495,
+        "original": 10495,
+        "currency": "INR",
+        "discount_percent": 0
+      },
+
+      "rating": {
+        "average": 4.2,
+        "count": 2718
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Thursday, 30 April",
+        "seller": "VRP Telematics Business",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-5.jpg"
+      ],
+
+      "short_description": "A sophisticated Casio Edifice chronograph featuring a clean white analog dial, premium brown leather band, and 100-meter water resistance.",
+
+      "long_description": "The Casio Edifice EFR-539L-7CVUDF (EX306) blends classic elegance with racing-inspired functionality. It features a stunning layered white dial with three functional sub-dials and high-contrast hour markers for effortless readability. The polished stainless steel case is paired with a genuine brown leather strap, providing a comfortable and professional look suitable for both boardroom and weekend wear. Built with a 1/10-second stopwatch and 100-meter water resistance, this timepiece is as practical as it is stylish.",
+
+      "highlights": [
+        "1/10-second stopwatch with a 59'59.9'' measuring capacity",
+        "Clean White Dial with multidimensional layered face",
+        "Genuine Brown Leather band for a classic aesthetic",
+        "100-meter water resistance for versatility in wet conditions",
+        "Durable stainless steel case construction",
+        "Reliable quartz movement with date display"
+      ],
+
+      "specifications": {
+        "capacity": "N/A",
+        "energy_rating": "N/A",
+        "type": "Analog Chronograph",
+        "movement": "Quartz",
+        "case_material": "Stainless Steel",
+        "band_material": "Genuine Leather",
+        "water_resistance": "100 Meters",
+        "special_features": [
+          "Split Time",
+          "1/10-sec Chronograph",
+          "Date Display",
+          "Tachymeter Bezel"
+        ]
+      },
+
+      "pros": [
+        "Timeless white and brown color combination",
+        "High-quality genuine leather strap for comfort",
+        "Robust water resistance suitable for swimming",
+        "Excellent price-to-performance ratio"
+      ],
+
+      "cons": [
+        "Leather strap requires more care than metal bracelets",
+        "Large case profile may be bulky for some users",
+        "No sapphire glass (Standard mineral crystal)"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Premium appearance that looks more expensive than it is",
+          "Accurate chronograph functions",
+          "Comfortable fit for long-duration wear"
+        ],
+        "negative": [
+          "Mixed reviews on the longevity of the leather strap",
+          "Occasional concerns regarding dial scratch resistance",
+          "Weight might be noticeable for those used to lighter watches"
+        ]
+      },
+
+      "offers": [
+        "Upto ₹2,500 bank discount on select credit cards",
+        "Upto ₹314 cashback via Amazon Pay ICICI Credit Card",
+        "No Cost EMI available starting at ₹369"
+      ],
+
+      "warranty": {
+        "product": "2 Years",
+        "return_policy": "10 days Returnable",
+        "authenticity": "Top Brand - Secure Transaction"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4cZknrQ",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Casio Edifice EFR-539L-7CVUDF White Dial Leather Watch - Best Price & Review",
+        "meta_description": "Purchase the Casio Edifice EFR-539L-7CVUDF. Features a white analog dial, brown leather strap, 100m water resistance, and 1/10-sec chronograph. Shop now.",
+        "keywords": [
+          "casio edifice white dial brown leather",
+          "casio edifice efr-539l-7cvudf price india",
+          "men's chronograph leather watch",
+          "casio 100m water resistant watch",
+          "edifice leather strap chronograph"
+        ]
+      }
+    }
+  ]
+}
