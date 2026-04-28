@@ -1,0 +1,128 @@
+{
+  "id": "atomberg-intellon-ro-uf-uv-water-purifier-8l",
+  "slug": "atomberg-intellon-water-purifier-2026",
+  "url": "/categories/kitchen-home-appliances/atomberg-intellon-water-purifier-2026.html",
+
+  "title": "Atomberg Intellon Adaptive Water Purifier (RO+UF+UV+Alkaliser, 8L, Smart IoT)",
+  "brand": "Atomberg",
+  "model": "Intellon RO+UF+UV Water Purifier",
+
+  "category": "kitchen",
+  "subcategory": "water-purifiers",
+
+  "price": {
+    "current": 17989,
+    "original": 25999,
+    "currency": "INR",
+    "discount_percent": 31
+  },
+
+  "rating": {
+    "average": 4.3,
+    "count": 1339
+  },
+
+  "availability": {
+    "status": "in_stock",
+    "delivery": "FREE delivery by 29 April",
+    "seller": "RetailEZ Pvt Ltd",
+    "fulfilled_by": "Amazon"
+  },
+
+  "images": [
+    "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-1.jpg",
+    "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-2.jpg",
+    "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-3.jpg",
+    "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-4.jpg",
+    "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-5.jpg",
+    "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-6.jpg",
+    "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-7.jpg"
+  ],
+
+  "short_description": "Smart 8L water purifier with adaptive RO+UF+UV filtration, IoT control, and 2-year zero maintenance cost.",
+
+  "long_description": "The Atomberg Intellon Water Purifier is one of India’s first adaptive purification systems designed to intelligently adjust filtration based on water quality. It features RO, UF, and UV purification combined with an alkaliser to retain essential minerals and maintain balanced pH levels.\n\nWith its Intelligent Filtration System (IFS), the purifier automatically detects input TDS levels and switches between purification modes, ensuring optimal performance and longer filter life. It avoids unnecessary RO usage, helping preserve minerals and reduce water wastage.\n\nThe purifier also comes with smart IoT features via the Atomberg Home App, allowing users to monitor filter health, control purification modes, and track usage. Its 7-stage purification ensures safe and clean drinking water for households.\n\nWith a 2-year comprehensive warranty and zero maintenance cost during that period, it stands out as a premium yet value-for-money smart water purifier.",
+
+  "highlights": [
+    "Adaptive RO+UF+UV purification",
+    "Smart IoT app control",
+    "7-stage filtration system",
+    "TDS-based intelligent purification",
+    "8L storage capacity",
+    "2-year zero maintenance cost"
+  ],
+
+  "specifications": {
+    "capacity": "8 Litres",
+    "technology": "RO + UF + UV + Alkaliser",
+    "filtration_stages": "7 Stage",
+    "control_type": "App + Smart Controls",
+    "material": "ABS Plastic",
+    "dimensions": "28 x 35 x 55.8 cm",
+    "special_features": [
+      "Adaptive purification",
+      "IoT enabled monitoring",
+      "Auto-cleanse technology",
+      "TDS control",
+      "Multiple purification modes"
+    ]
+  },
+
+  "pros": [
+    "Smart adaptive purification",
+    "Excellent water taste and quality",
+    "No service cost for 2 years",
+    "App-based monitoring",
+    "Energy efficient and modern design"
+  ],
+
+  "cons": [
+    "Higher initial cost",
+    "Depends on app for full features",
+    "Mixed reliability feedback",
+    "Large size for small kitchens"
+  ],
+
+  "reviews_summary": {
+    "positive": [
+      "Excellent water quality and taste",
+      "Great smart features and app control",
+      "Value for money with zero maintenance"
+    ],
+    "negative": [
+      "Some reliability concerns",
+      "Design could be improved",
+      "Filter indicator accuracy issues"
+    ]
+  },
+
+  "offers": [
+    "No Cost EMI available",
+    "Bank cashback offers",
+    "GST invoice for business buyers"
+  ],
+
+  "warranty": {
+    "product": "2 Years",
+    "pcb": "Included",
+    "compressor": "Not Applicable"
+  },
+
+  "affiliate": {
+    "buy_link": "https://amzn.to/48ZvLCD",
+    "platform": "Amazon",
+    "cta_text": "Buy on Amazon"
+  },
+
+  "seo": {
+    "meta_title": "Atomberg Intellon Water Purifier Review 2026 | Smart RO+UF+UV System",
+    "meta_description": "Buy Atomberg Intellon Water Purifier with adaptive filtration, IoT control, and 2-year warranty. Best smart water purifier in India.",
+    "keywords": [
+      "atomberg water purifier review",
+      "best smart water purifier india",
+      "ro uv uf purifier 2026",
+      "iot water purifier india",
+      "atomberg intellon price"
+    ]
+  }
+}

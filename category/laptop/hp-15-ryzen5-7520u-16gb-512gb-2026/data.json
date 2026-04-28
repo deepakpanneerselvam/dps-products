@@ -1,0 +1,127 @@
+{
+  "products": [
+    {
+      "id": "hp-15-ryzen5-7520u-16gb-512gb",
+      "slug": "hp-15-ryzen5-7520u-16gb-512gb-2026",
+      "url": "/categories/laptops/hp-15-ryzen5-7520u-16gb-512gb-2026.html",
+
+      "title": "HP 15 (AMD Ryzen 5 7520U, 16GB RAM, 512GB SSD)",
+      "brand": "HP",
+      "model": "HP 15 (fc0690au)",
+
+      "category": "computers",
+      "subcategory": "laptops",
+
+      "price": {
+        "current": 53990,
+        "original": 55691,
+        "currency": "INR",
+        "discount_percent": 3
+      },
+
+      "rating": {
+        "average": 4.0,
+        "count": 173
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Friday, 24 April",
+        "seller": "Clicktech Retail Private Ltd",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [],
+
+      "short_description": "HP 15 with AMD Ryzen 5 7520U offers efficient performance, 16GB RAM, and 512GB SSD storage, making it a solid everyday laptop for students and office users.",
+
+      "long_description": "The HP 15 laptop powered by AMD Ryzen 5 7520U is designed for smooth everyday computing, multitasking, and productivity workloads. It comes with 16GB LPDDR5 RAM and a 512GB SSD, ensuring fast boot times and responsive performance for office work, browsing, and light creative tasks.\n\nThe 15.6-inch FHD anti-glare micro-edge display delivers clear visuals and comfortable viewing for long usage sessions. With AMD Radeon integrated graphics, it can handle basic photo editing, presentations, and media consumption smoothly.\n\nThe laptop is lightweight at around 1.59 kg, making it portable for students and professionals. It also includes Windows 11 and Microsoft Office support, making it ready to use out of the box.\n\nWhile it performs well in daily tasks, it is not intended for heavy gaming or high-end video editing due to its entry-level processor and integrated graphics. Overall, it is a value-for-money productivity laptop in the budget segment.",
+
+      "highlights": [
+        "AMD Ryzen 5 7520U processor",
+        "16GB LPDDR5 RAM",
+        "512GB SSD storage",
+        "15.6-inch FHD anti-glare display",
+        "Lightweight design (1.59 kg)",
+        "Windows 11 with Office support"
+      ],
+
+      "specifications": {
+        "processor": "AMD Ryzen 5 7520U",
+        "ram": "16 GB LPDDR5",
+        "storage": "512 GB SSD",
+        "display": "15.6-inch FHD Anti-Glare",
+        "resolution": "1920 x 1080",
+        "battery": "Up to 6-7 hours",
+        "operating_system": "Windows 11 Home",
+        "weight": "1.59 kg",
+        "special_features": [
+          "Micro-edge display",
+          "Fast charging support",
+          "Thin & light design",
+          "Integrated AMD Radeon Graphics",
+          "Backlit keyboard (variant dependent)"
+        ]
+      },
+
+      "pros": [
+        "Good performance for daily tasks",
+        "16GB RAM ensures smooth multitasking",
+        "Lightweight and portable",
+        "Fast SSD storage",
+        "Value for money in budget segment"
+      ],
+
+      "cons": [
+        "Integrated graphics only",
+        "Not suitable for heavy gaming",
+        "Average upgrade flexibility",
+        "Battery life is moderate under load",
+        "Display brightness is average"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Smooth performance for office and study work",
+          "Good build quality for the price",
+          "Fast boot and app loading speed"
+        ],
+        "negative": [
+          "Limited gaming performance",
+          "Battery drains faster under heavy use",
+          "Not ideal for professional editing workloads"
+        ]
+      },
+
+      "offers": [
+        "No Cost EMI available",
+        "Bank discount offers up to ₹1,250",
+        "Cashback via select credit cards"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "pcb": "1 Year",
+        "compressor": "Not Applicable"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/3OGumd8",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "HP 15 Ryzen 5 7520U Review 2026 | Price, Specs & Features",
+        "meta_description": "Buy HP 15 laptop with Ryzen 5 7520U, 16GB RAM, 512GB SSD. Best budget laptop for students and office use in India.",
+        "keywords": [
+          "hp 15 ryzen 5 7520u review",
+          "best laptop under 55000 india",
+          "hp 15 16gb ram laptop price",
+          "ryzen 5 7520u laptop india",
+          "budget hp laptop india"
+        ]
+      }
+    }
+  ]
+}

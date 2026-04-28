@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": "dell-15-i5-1334u-16gb-1tb",
+      "slug": "dell-15-i5-1334u-16gb-1tb-2026",
+      "url": "/categories/laptops/dell-15-i5-1334u-16gb-1tb-2026.html",
+
+      "title": "Dell 15 (Inspiron) 13th Gen Intel Core i5-1334U (16GB RAM, 1TB SSD)",
+      "brand": "Dell",
+      "model": "Dell 15 (Inspiron 3530)",
+
+      "category": "computers",
+      "subcategory": "laptops",
+
+      "price": {
+        "current": 68990,
+        "original": 99478,
+        "currency": "INR",
+        "discount_percent": 31
+      },
+
+      "rating": {
+        "average": 3.7,
+        "count": 488
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery by 24 April",
+        "seller": "Clicktech Retail Private Ltd",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/dell-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/dell-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/dell-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/dell-4.jpg"
+      ],
+
+      "short_description": "Dell 15 Inspiron with 13th Gen Intel Core i5, 16GB RAM, and 1TB SSD offers strong everyday performance, large storage, and a smooth 120Hz display—ideal for students and office users.",
+
+      "long_description": "The Dell 15 (Inspiron 3530) is a reliable mid-range laptop designed for students, professionals, and everyday users. Powered by the 13th Gen Intel Core i5-1334U processor, it delivers solid performance for multitasking, office work, browsing, and productivity tasks.\n\nIt features a 15.6-inch Full HD anti-glare display with a 120Hz refresh rate, providing smoother visuals compared to standard laptops. With 16GB DDR4 RAM and a massive 1TB SSD, the laptop ensures fast performance and ample storage for files, applications, and media.\n\nThe laptop comes pre-installed with Windows 11 and Microsoft Office 2024, making it ready for work immediately. The backlit keyboard and lightweight 1.62 kg design add to usability and portability.\n\nHowever, users have reported mixed feedback regarding battery life, heating issues, and fan noise. While it is not designed for heavy gaming or high-end creative tasks, it remains a strong value-for-money option for everyday computing needs.",
+
+      "highlights": [
+        "13th Gen Intel Core i5-1334U processor",
+        "16GB DDR4 RAM for smooth multitasking",
+        "1TB SSD for large and fast storage",
+        "15.6-inch FHD anti-glare display (120Hz)",
+        "Backlit keyboard",
+        "Windows 11 with MS Office 2024 included"
+      ],
+
+      "specifications": {
+        "processor": "Intel Core i5-1334U",
+        "ram": "16 GB DDR4",
+        "storage": "1 TB SSD",
+        "display": "15.6-inch FHD Anti-Glare",
+        "resolution": "1920 x 1080",
+        "battery": "Up to 4-5 hours",
+        "operating_system": "Windows 11 Home",
+        "weight": "1.62 kg",
+        "special_features": [
+          "120Hz refresh rate display",
+          "Backlit keyboard",
+          "Large 1TB SSD storage",
+          "Pre-installed Office 2024",
+          "Thin and light design"
+        ]
+      },
+
+      "pros": [
+        "Excellent RAM and storage combination",
+        "Good performance for office and student use",
+        "Smooth 120Hz display",
+        "Backlit keyboard is useful",
+        "Slim and portable design"
+      ],
+
+      "cons": [
+        "Battery life is below average",
+        "Heating issues reported",
+        "Fan noise under load",
+        "Not suitable for gaming",
+        "Mixed reliability feedback"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Fast performance for daily tasks",
+          "Good value for money",
+          "Lightweight and easy to carry"
+        ],
+        "negative": [
+          "Battery drains quickly",
+          "Heating and fan noise issues",
+          "Not suitable for heavy workloads"
+        ]
+      },
+
+      "offers": [
+        "Up to ₹2,069 cashback on select cards",
+        "No Cost EMI available",
+        "Bank discounts up to ₹1,250"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "pcb": "1 Year",
+        "compressor": "Not Applicable"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4cWuEpB",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Dell 15 Inspiron i5 13th Gen Review 2026 | Price, Specs & Features",
+        "meta_description": "Buy Dell 15 Inspiron laptop with Intel Core i5, 16GB RAM, 1TB SSD. Best laptop for students and office use in India.",
+        "keywords": [
+          "dell inspiron 15 review",
+          "best laptop under 70000 india",
+          "i5 13th gen laptop india",
+          "16gb ram laptop 1tb ssd",
+          "dell laptop price india"
+        ]
+      }
+    }
+  ]
+}

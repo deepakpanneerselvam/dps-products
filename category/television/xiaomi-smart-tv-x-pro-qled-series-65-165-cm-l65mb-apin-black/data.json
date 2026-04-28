@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": "xiaomi-65-x-pro-qled",
+      "slug": "xiaomi-smart-tv-x-pro-qled-series-65-165-cm-l65mb-apin-black",
+      "url": "/categories/televisions/xiaomi-smart-tv-x-pro-qled-series-65-165-cm-l65mb-apin-black.html",
+      "title": "Xiaomi Smart TV X Pro QLED Series 65 (165 cm) L65MB-APIN(Black)",
+      "brand": "Xiaomi",
+      "model": "L65MB-APIN",
+      "category": "electronics",
+      "subcategory": "televisions",
+      "price": {
+        "current": 54999,
+        "original": 89999,
+        "currency": "INR",
+        "discount_percent": 39
+      },
+      "rating": {
+        "average": 4.0,
+        "count": 585
+      },
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery 30 April",
+        "seller": "Dawntech Electronics",
+        "fulfilled_by": "Amazon"
+      },
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-5.jpg"
+      ],
+      "short_description": "Large 65-inch QLED from Xiaomi with Google TV.",
+      "long_description": "MagiQLED tech and Google TV integration. Features Dolby Vision IQ and 120Hz Game Booster.",
+      "highlights": [
+        "MagiQLED",
+        "Google TV",
+        "Dolby Vision IQ"
+      ],
+      "specifications": {
+        "display": "QLED 4K",
+        "refresh_rate": "120 Hz DLG",
+        "audio": "34W"
+      },
+      "pros": [
+        "Large screen size",
+        "Game mode is smooth"
+      ],
+      "cons": [
+        "Average audio quality",
+        "Bulky build"
+      ],
+      "reviews_summary": {
+        "positive": [
+          "Immersive display"
+        ],
+        "negative": [
+          "Panel backlight bleed"
+        ]
+      },
+      "offers": [
+        "Bank Cashback"
+      ],
+      "warranty": {
+        "product": "1 Year"
+      },
+      "affiliate": {
+        "buy_link": "https://amzn.to/41Yce1C",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+      "seo": {
+        "meta_title": "Xiaomi 65-inch QLED X Pro Review",
+        "meta_description": "Review of the 65-inch Xiaomi QLED.",
+        "keywords": [
+          "xiaomi 65 inch",
+          "qled tv"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "id": "amazon-basics-egg-boiler-350w-7eggs",
+      "slug": "amazon-basics-egg-boiler-350w-7eggs-2026",
+      "url": "/categories/kitchen-appliances/amazon-basics-egg-boiler-350w-7eggs-2026.html",
+
+      "title": "Amazon Basics Electric Egg Boiler | 350W | Boils Up to 7 Eggs | Auto Shut-Off",
+      "brand": "Amazon Basics",
+      "category": "Kitchen Appliances",
+      "subcategory": "Egg Boilers",
+
+      "price": 429,
+      "original_price": 650,
+      "discount": "34%",
+
+      "rating": 4.2,
+      "reviews_count": 11524,
+
+      "short_description": "Compact electric egg boiler with 3 boiling modes, auto shut-off, and capacity to boil up to 7 eggs.",
+
+      "key_features": [
+        "Boils up to 7 eggs at once",
+        "3 boiling modes: soft, medium, hard",
+        "Auto shut-off with LED indicator",
+        "Stainless steel heating plate",
+        "Includes measuring cup with piercing pin",
+        "Compact and easy-to-clean design"
+      ],
+
+      "specifications": {
+        "power": "350W",
+        "capacity": "7 eggs",
+        "material": "Plastic body with stainless steel plate",
+        "dimensions": "15.2 x 15.2 x 15.2 cm",
+        "weight": "310g",
+        "color": "White"
+      },
+
+      "pros": [
+        "Affordable and value for money",
+        "Easy to use and quick operation",
+        "Compact size suitable for small kitchens",
+        "Auto shut-off prevents overcooking"
+      ],
+
+      "cons": [
+        "Durability concerns reported by some users",
+        "Heating plate may develop scaling",
+        "Auto shut-off reliability is inconsistent"
+      ],
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-5.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-6.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-7.jpg"
+      ],
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/3P0jMho",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "availability": "In Stock",
+      "delivery": "Free delivery available",
+
+      "tags": [
+        "egg boiler",
+        "kitchen appliance",
+        "budget appliance",
+        "amazon basics",
+        "quick cooking"
+      ]
+    }
+  ]
+}

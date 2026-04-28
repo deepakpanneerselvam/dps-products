@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": "sony-77-xr-oled-2021",
+      "slug": "sony-bravia-195-cm-77-inches-xr-series-4k-ultra-hd-smart-oled-google-tv-xr-77a80j-2021",
+      "url": "/categories/televisions/sony-bravia-195-cm-77-inches-xr-series-4k-ultra-hd-smart-oled-google-tv-xr-77a80j-2021.html",
+      "title": "Sony Bravia 195 cm (77 inches) XR series 4K Ultra HD Smart OLED Google TV XR-77A80J (Black)",
+      "brand": "Sony",
+      "model": "XR-77A80J",
+      "category": "electronics",
+      "subcategory": "televisions",
+      "price": {
+        "current": 524490,
+        "original": 699900,
+        "currency": "INR",
+        "discount_percent": 25
+      },
+      "rating": {
+        "average": 5.0,
+        "count": 4
+      },
+      "availability": {
+        "status": "only 1 left",
+        "delivery": "FREE delivery 30 April",
+        "seller": "Dawntech Electronics",
+        "fulfilled_by": "Amazon"
+      },
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-5.jpg"
+      ],
+      "short_description": "Premium 77-inch OLED with XR Cognitive Processor.",
+      "long_description": "Perfect blacks and peak brightness powered by XR OLED Contrast. Acoustic Surface Audio+ makes the screen the speaker.",
+      "highlights": [
+        "XR Cognitive Processor",
+        "Perfect Blacks",
+        "Acoustic Surface Audio+"
+      ],
+      "specifications": {
+        "display": "OLED 4K",
+        "refresh_rate": "120 Hz",
+        "audio": "50W"
+      },
+      "pros": [
+        "Infinite contrast",
+        "Unique sound tech"
+      ],
+      "cons": [
+        "OLED burn-in risk",
+        "Expensive"
+      ],
+      "reviews_summary": {
+        "positive": [
+          "Best picture quality ever"
+        ],
+        "negative": [
+          "None yet"
+        ]
+      },
+      "offers": [
+        "Special bank discount"
+      ],
+      "warranty": {
+        "product": "1 Year"
+      },
+      "affiliate": {
+        "buy_link": "https://amzn.to/42w98Sz",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+      "seo": {
+        "meta_title": "Sony 77-inch OLED A80J Review",
+        "meta_description": "The best 77-inch OLED on the market.",
+        "keywords": [
+          "sony oled",
+          "77 inch tv"
+        ]
+      }
+    }
+  ]
+}

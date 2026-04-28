@@ -1,0 +1,83 @@
+{
+  "products": [
+    {
+      "id": "prestige-pic-20-induction-cooktop-combo",
+      "slug": "prestige-pic-20-induction-cooktop-3pc-granite-set-2026",
+      "url": "/categories/kitchen-appliances/prestige-pic-20-induction-cooktop-3pc-granite-set-2026.html",
+
+      "seo": {
+        "meta_title": "Prestige PIC 20 Induction Cooktop Review 2026 | Price, Features & Combo Set",
+        "meta_description": "Buy Prestige PIC 20 induction cooktop with 3-piece granite cookware set. Best budget induction stove in India with 1200W power and preset cooking modes.",
+        "keywords": [
+          "prestige induction cooktop review",
+          "best induction stove under 5000 india",
+          "prestige pic 20 price india",
+          "induction cooktop with cookware set",
+          "1200 watt induction stove india"
+        ]
+      },
+
+      "title": "Prestige Manual Aluminium Induction Cooktop PIC 20.0 with Omega Deluxe Granite BYK 3 Pc Set, 1 Burner, Black",
+      "brand": "Prestige",
+      "category": "Kitchen Appliances",
+
+      "price": {
+        "mrp": 13980,
+        "deal_price": 8900,
+        "discount_percent": 36
+      },
+
+      "rating": {
+        "value": 4.1,
+        "count": 134
+      },
+
+      "key_features": [
+        "1200W induction cooktop with power saving technology",
+        "Preset Indian cooking menu options",
+        "Automatic voltage regulator for durability",
+        "Anti-magnetic wall for safety",
+        "Includes 3-piece granite non-stick cookware set",
+        "Fast and energy-efficient cooking"
+      ],
+
+      "highlights": [
+        "Combo Offer: Cooktop + 3 Pc Cookware Set",
+        "Free Delivery",
+        "GST Invoice Available",
+        "10 Days Replacement",
+        "Budget Kitchen Combo"
+      ],
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-4.jpg"
+      ],
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4tzLZL5",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "availability": "In Stock",
+      "delivery": "Free delivery available",
+      "seller": "ICONIC WORLD SUPPLY",
+
+      "description": "The Prestige PIC 20 induction cooktop combo is an affordable and efficient cooking solution for modern kitchens. With 1200W power, preset Indian menus, and automatic voltage control, it ensures safe and fast cooking. The combo also includes a 3-piece granite non-stick cookware set, making it ideal for beginners and budget-conscious buyers.",
+
+      "specifications": {
+        "power": "1200 Watts",
+        "voltage": "230V",
+        "cooktop_type": "Induction",
+        "menu_options": "Preset Indian Menu",
+        "safety": "Anti-magnetic wall, Auto voltage regulator",
+        "cookware_included": "Fry Pan 240mm, Omni Tawa 280mm, Kadai 240mm with lid",
+        "coating": "Granite Non-Stick",
+        "color": "Black"
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": "powermax-fitness-cs-023-hack-squat",
+      "slug": "powermax-fitness-cs-023-hack-squat-leg-press",
+      "url": "/categories/fitness-gym/powermax-fitness-cs-023-hack-squat-leg-press.html",
+      "title": "PowerMax Fitness CS-023 Hack Squat & Incline Leg Press Machine",
+      "brand": "PowerMax Fitness",
+      "model": "CS-023",
+      "category": "fitness-gym",
+      "subcategory": "strength-training-equipment",
+      "price": {
+        "current": 135929,
+        "original": 197000,
+        "currency": "INR",
+        "discount_percent": 31
+      },
+      "rating": {
+        "average": 5.0,
+        "count": 1
+      },
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery 7 - 9 May",
+        "seller": "Kudos Infinity",
+        "fulfilled_by": "Kudos Infinity"
+      },
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-5.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-6.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-7.jpg"
+      ],
+      "short_description": "Commercial-grade 2-in-1 Hack Squat and Incline Leg Press machine for intense lower body workouts.",
+      "long_description": "The PowerMax Fitness CS-023 is a heavy-duty gym machine designed for both home and commercial use. It combines a Hack Squat and an Incline Leg Press into one sturdy unit, allowing users to effectively target quadriceps, hamstrings, and glutes. Built with alloy steel and weighing 200kg, it provides maximum stability for heavy lifting. The plate-loaded design allows for customizable resistance to suit all fitness levels.",
+      "highlights": [
+        "Dual Function: Hack Squat & Leg Press",
+        "Targets Quadriceps and Hamstrings",
+        "200kg Heavy-duty Alloy Steel build",
+        "Plate-loaded resistance system",
+        "Ideal for Home and Commercial Gyms",
+        "Adjustable settings for personalized workouts"
+      ],
+      "specifications": {
+        "type": "Leg Machine",
+        "material": "Alloy Steel",
+        "finish": "Black",
+        "weight": "200 kg",
+        "dimensions": "22.5D x 12.5W x 12.5H Meters",
+        "mechanism": "Plate Loaded",
+        "use_case": "Commercial / Home Gym"
+      },
+      "pros": [
+        "High weight capacity and stability",
+        "Saves space with 2-in-1 design",
+        "Excellent for heavy lower body training",
+        "Smooth movement tracking"
+      ],
+      "cons": [
+        "Requires significant floor space",
+        "Assembly is complex",
+        "Weights sold separately"
+      ],
+      "reviews_summary": {
+        "positive": [
+          "Great value for money for a dual machine",
+          "Sturdy construction",
+          "Smooth transition between exercises"
+        ],
+        "negative": [
+          "Large footprint"
+        ]
+      },
+      "offers": [
+        "Upto ₹2,500 bank discount",
+        "Upto ₹4,077 cashback on select cards",
+        "No Cost EMI available",
+        "GST Invoice available"
+      ],
+      "warranty": {
+        "product": "1 Year"
+      },
+      "affiliate": {
+        "buy_link": "https://amzn.to/4cyBjpZ",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+      "seo": {
+        "meta_title": "PowerMax Fitness CS-023 Hack Squat & Leg Press Machine Price & Review",
+        "meta_description": "Buy PowerMax Fitness CS-023 Hack Squat and Incline Leg Press Machine. Heavy-duty 200kg alloy steel leg machine for commercial and home gyms.",
+        "keywords": [
+          "powermax hack squat",
+          "leg press machine india",
+          "commercial gym equipment",
+          "lower body workout machine",
+          "plate loaded leg press"
+        ]
+      }
+    }
+  ]
+}

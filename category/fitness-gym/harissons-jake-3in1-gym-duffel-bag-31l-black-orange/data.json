@@ -1,0 +1,129 @@
+{
+  "products": [
+    {
+      "id": "harissons-jake-3in1-gym-duffel",
+      "slug": "harissons-jake-3in1-gym-duffel-bag-31l-black-orange",
+      "url": "/categories/luggage/harissons-jake-3in1-gym-duffel-bag-31l-black-orange.html",
+
+      "title": "Jake 3-in-1 Gym Duffel Bag 31L (Black & Orange)",
+      "brand": "Harissons",
+      "model": "Jake 3-in-1 Duffel",
+
+      "category": "luggage",
+      "subcategory": "gym-duffel-bag",
+
+      "price": {
+        "current": 1359,
+        "original": 1649,
+        "currency": "INR",
+        "discount_percent": 18
+      },
+
+      "rating": {
+        "average": 4.2,
+        "count": 2839
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery 2 - 4 May",
+        "seller": "RetailEZ Pvt Ltd",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-5.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-6.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-7.jpg"
+      ],
+
+      "short_description": "Harissons Jake 3-in-1 Gym Duffel Bag with 31L capacity, convertible design, dedicated shoe compartment, and water-resistant polyester build for gym, travel, and sports use.",
+
+      "long_description": "The Harissons Jake 3-in-1 Gym Duffel Bag is a versatile and functional bag designed for gym enthusiasts, travelers, and daily commuters. With a 31-liter capacity, it can be used as a duffel bag, backpack, or shoulder bag depending on your needs. Made from durable 420D Dobby PU-coated polyester, it offers water resistance and long-lasting performance. The bag features a spacious main compartment, a dedicated shoe section to keep footwear separate, and quick-access pockets for essentials. Ergonomic padded straps ensure comfort during extended use, while the anti-theft pocket enhances security. Backed by Harissons' quality assurance and a 1-year warranty, it is ideal for both men and women.",
+
+      "highlights": [
+        "3-in-1 convertible design (duffel, backpack, shoulder bag)",
+        "31L spacious storage capacity",
+        "Dedicated shoe compartment",
+        "Water-resistant 420D polyester material",
+        "Anti-theft pocket for added security",
+        "Ergonomic padded straps for comfort"
+      ],
+
+      "specifications": {
+        "capacity": "31 Litres",
+        "material": "420D Dobby PU-coated Polyester",
+        "type": "Gym Duffel Bag",
+        "water_resistant": "Yes",
+        "compartments": "Multiple with shoe section",
+        "special_features": [
+          "Convertible Design",
+          "Anti-Theft Pocket",
+          "Quick Access Pocket",
+          "Adjustable Straps",
+          "Lightweight Build"
+        ]
+      },
+
+      "pros": [
+        "Versatile 3-in-1 usage",
+        "Good storage with compartments",
+        "Stylish and premium look",
+        "Comfortable to carry",
+        "Ideal for gym and travel"
+      ],
+
+      "cons": [
+        "Slightly compact for heavy packing",
+        "Zippers may feel tight initially",
+        "Durability varies with heavy usage"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Spacious and well organized",
+          "Good quality material and finish",
+          "Perfect for gym and short travel"
+        ],
+        "negative": [
+          "Size feels small for some users",
+          "Zipper stiffness reported",
+          "Mixed durability feedback"
+        ]
+      },
+
+      "offers": [
+        "Up to ₹40 cashback on select cards",
+        "Bulk purchase discounts available",
+        "GST invoice for business buyers"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "manufacturer": "Harissons"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/48qMuyF",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Harissons Jake 3-in-1 Gym Duffel Bag 31L Price, Review & Features",
+        "meta_description": "Buy Harissons Jake 3-in-1 Gym Duffel Bag with shoe compartment, water-resistant design, and 31L capacity. Best gym and travel bag in India.",
+        "keywords": [
+          "harissons gym bag",
+          "3 in 1 duffel bag india",
+          "gym bag with shoe compartment",
+          "best gym bag under 1500",
+          "sports duffel bag india"
+        ]
+      }
+    }
+  ]
+}

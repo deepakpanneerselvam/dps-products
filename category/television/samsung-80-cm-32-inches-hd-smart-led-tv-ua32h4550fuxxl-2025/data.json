@@ -1,0 +1,85 @@
+{
+  "products": [
+    {
+      "id": "samsung-32-hd-smart-2025",
+      "slug": "samsung-80-cm-32-inches-hd-smart-led-tv-ua32h4550fuxxl-2025",
+      "url": "/categories/televisions/samsung-80-cm-32-inches-hd-smart-led-tv-ua32h4550fuxxl-2025.html",
+      "title": "Samsung 80 cm (32 inches) HD Smart LED TV UA32H4550FUXXL",
+      "brand": "Samsung",
+      "model": "UA32H4550FUXXL",
+      "category": "electronics",
+      "subcategory": "televisions",
+      "price": {
+        "current": 15990,
+        "original": 17900,
+        "currency": "INR",
+        "discount_percent": 11
+      },
+      "rating": {
+        "average": 4.1,
+        "count": 5630
+      },
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery 30 April",
+        "seller": "Dawntech Electronics",
+        "fulfilled_by": "Amazon"
+      },
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-5.jpg"
+      ],
+      "short_description": "Compact 32-inch HD Smart TV with reliable performance.",
+      "long_description": "Perfect for small rooms. Includes PurColor and voice search remote for easy navigation.",
+      "highlights": [
+        "PurColor",
+        "Knox Security",
+        "Voice Remote"
+      ],
+      "specifications": {
+        "display": "LED HD",
+        "refresh_rate": "50 Hz",
+        "audio": "20W"
+      },
+      "pros": [
+        "Compact",
+        "Affordable",
+        "Good colors"
+      ],
+      "cons": [
+        "Only 768p resolution",
+        "Lacks 4K support"
+      ],
+      "reviews_summary": {
+        "positive": [
+          "Good second TV"
+        ],
+        "negative": [
+          "Panel flickering reported"
+        ]
+      },
+      "offers": [
+        "Bank Cashback"
+      ],
+      "warranty": {
+        "product": "1 Year"
+      },
+      "affiliate": {
+        "buy_link": "https://amzn.to/3QwODTf",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+      "seo": {
+        "meta_title": "Samsung 32-inch HD Smart Review",
+        "meta_description": "Review of Samsung's 32-inch TV.",
+        "keywords": [
+          "samsung 32 inch",
+          "smart tv"
+        ]
+      }
+    }
+  ]
+}

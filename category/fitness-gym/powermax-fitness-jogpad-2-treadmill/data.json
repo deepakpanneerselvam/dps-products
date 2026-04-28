@@ -1,0 +1,106 @@
+{
+  "products": [
+    {
+      "id": "powermax-jogpad-2",
+      "slug": "powermax-fitness-jogpad-2-treadmill",
+      "url": "/categories/fitness-gym/powermax-fitness-jogpad-2-treadmill.html",
+      "title": "PowerMax Fitness JogPad-2 4.0HP Motorized Treadmill",
+      "brand": "PowerMax Fitness",
+      "model": "JogPad-2",
+      "category": "fitness-gym",
+      "subcategory": "treadmills",
+      "price": {
+        "current": 18999,
+        "original": 58483,
+        "currency": "INR",
+        "discount_percent": 68
+      },
+      "rating": {
+        "average": 4.1,
+        "count": 1840
+      },
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Thursday, 30 April",
+        "seller": "Powermax Fitness India",
+        "fulfilled_by": "Amazon"
+      },
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-5.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-6.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-7.jpg"
+      ],
+      "short_description": "Compact foldable treadmill with 4.0HP DC motor, touch screen LED display, and remote control.",
+      "long_description": "The JogPad-2 by PowerMax Fitness is a sleek, ultra-compact treadmill designed for modern homes. It features a powerful 4.0HP Peak DC motor and a unique dual-display system. Its compact foldable design allows it to be stored easily under a bed or sofa. Equipped with a remote control and touch screen, it offers a seamless walking and jogging experience for users up to 110kg.",
+      "highlights": [
+        "4.0HP Peak DC Motor",
+        "Dual Display (Touch Screen LED)",
+        "Ultra-Compact & Foldable",
+        "Remote Control included",
+        "Bluetooth for App sync",
+        "10-Year Warranty on frame"
+      ],
+      "specifications": {
+        "motor": "4.0 HP DC Peak",
+        "display": "LED Touch Screen",
+        "storage": "Compact Foldable",
+        "control": "Remote & Touch",
+        "incline": "Manual",
+        "max_user_weight": "110 KG"
+      },
+      "pros": [
+        "Extremely space-saving design",
+        "High motor power for the price",
+        "Easy to move and store",
+        "Quiet motor performance"
+      ],
+      "cons": [
+        "Running surface is narrower than commercial units",
+        "Limited top speed for sprinters",
+        "Manual incline only"
+      ],
+      "reviews_summary": {
+        "positive": [
+          "Perfect for small apartments",
+          "Very easy to set up",
+          "Modern and minimalist look"
+        ],
+        "negative": [
+          "Not ideal for high-speed running",
+          "Small display size"
+        ]
+      },
+      "offers": [
+        "No Cost EMI starts at ₹668",
+        "Upto ₹2,500 bank discount",
+        "Save 18% with GST Invoice",
+        "Amazon Fulfilled delivery"
+      ],
+      "warranty": {
+        "frame": "10 Years",
+        "motor": "3 Years",
+        "parts": "1 Year"
+      },
+      "affiliate": {
+        "buy_link": "https://amzn.to/3OpffFa",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+      "seo": {
+        "meta_title": "PowerMax JogPad-2 Treadmill Review, Price & Features",
+        "meta_description": "Buy PowerMax JogPad-2 foldable treadmill. Features 4HP motor, LED touch screen, and remote control. Ideal home cardio machine.",
+        "keywords": [
+          "foldable treadmill india",
+          "jogpad 2 price",
+          "compact treadmill for home",
+          "powermax treadmill review",
+          "walking pad with remote"
+        ]
+      }
+    }
+  ]
+}

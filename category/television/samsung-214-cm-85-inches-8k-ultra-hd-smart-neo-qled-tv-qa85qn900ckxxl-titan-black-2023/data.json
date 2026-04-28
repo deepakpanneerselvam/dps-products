@@ -1,0 +1,85 @@
+{
+  "products": [
+    {
+      "id": "samsung-85-8k-neo-qled-2023",
+      "slug": "samsung-214-cm-85-inches-8k-ultra-hd-smart-neo-qled-tv-qa85qn900ckxxl-titan-black-2023",
+      "url": "/categories/televisions/samsung-214-cm-85-inches-8k-ultra-hd-smart-neo-qled-tv-qa85qn900ckxxl-titan-black-2023.html",
+      "title": "Samsung 214 cm (85 inches) 8K Ultra HD Smart Neo QLED TV QA85QN900CKXXL (Titan Black)",
+      "brand": "Samsung",
+      "model": "QA85QN900CKXXL",
+      "category": "electronics",
+      "subcategory": "televisions",
+      "price": {
+        "current": 939990,
+        "original": 1549900,
+        "currency": "INR",
+        "discount_percent": 39
+      },
+      "rating": {
+        "average": 3.7,
+        "count": 26
+      },
+      "availability": {
+        "status": "available",
+        "delivery": "FREE delivery 30 April",
+        "seller": "Dawntech Electronics",
+        "fulfilled_by": "Amazon"
+      },
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-5.jpg"
+      ],
+      "short_description": "2023 Neural Quantum Processor 8K model in Titan Black.",
+      "long_description": "Features the Neo Quantum HDR 8K Pro and OTS Pro for sound that follows the action perfectly across the screen.",
+      "highlights": [
+        "Neural Quantum Processor 8K",
+        "90W Audio",
+        "Dolby Atmos"
+      ],
+      "specifications": {
+        "display": "Neo QLED 8K",
+        "refresh_rate": "100 Hz",
+        "audio": "90W"
+      },
+      "pros": [
+        "Powerful AI processing",
+        "Immersive audio"
+      ],
+      "cons": [
+        "Very expensive",
+        "Power hungry"
+      ],
+      "reviews_summary": {
+        "positive": [
+          "Best 8K experience"
+        ],
+        "negative": [
+          "Remote buttons are average"
+        ]
+      },
+      "offers": [
+        "Bank discounts",
+        "Exchange deals"
+      ],
+      "warranty": {
+        "product": "1 Year"
+      },
+      "affiliate": {
+        "buy_link": "https://amzn.to/3OsoJPZ",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+      "seo": {
+        "meta_title": "Samsung 85-inch Neo QLED 8K 2023 Review",
+        "meta_description": "Detailed review of the QN900C 8K TV.",
+        "keywords": [
+          "samsung qn900c",
+          "8k tv review"
+        ]
+      }
+    }
+  ]
+}

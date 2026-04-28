@@ -1,0 +1,85 @@
+{
+  "products": [
+    {
+      "id": "sony-43-bravia-2-2022",
+      "slug": "sony-108-cm-43-inches-bravia-2m2-series-4k-ultra-hd-smart-led-google-tv-k-43s22bm2",
+      "url": "/categories/televisions/sony-108-cm-43-inches-bravia-2m2-series-4k-ultra-hd-smart-led-google-tv-k-43s22bm2.html",
+      "title": "Sony 108 cm (43 inches) BRAVIA 2M2 Series 4K Ultra HD Smart LED Google TV K-43S22BM2",
+      "brand": "Sony",
+      "model": "K-43S22BM2",
+      "category": "electronics",
+      "subcategory": "televisions",
+      "price": {
+        "current": 47990,
+        "original": 59900,
+        "currency": "INR",
+        "discount_percent": 20
+      },
+      "rating": {
+        "average": 4.6,
+        "count": 1274
+      },
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery 30 April",
+        "seller": "Dawntech Electronics",
+        "fulfilled_by": "Amazon"
+      },
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-5.jpg"
+      ],
+      "short_description": "Best-selling 43-inch 4K Google TV from Sony.",
+      "long_description": "X1 4K Processor delivers life-like colors. Google TV OS provides access to all major streaming platforms easily.",
+      "highlights": [
+        "X1 4K Processor",
+        "Google TV",
+        "Dolby Atmos"
+      ],
+      "specifications": {
+        "display": "LED 4K",
+        "refresh_rate": "60 Hz",
+        "audio": "20W"
+      },
+      "pros": [
+        "Accurate colors",
+        "Reliable software"
+      ],
+      "cons": [
+        "No wall mount in box",
+        "Basic remote"
+      ],
+      "reviews_summary": {
+        "positive": [
+          "Reliable brand",
+          "Crisp picture"
+        ],
+        "negative": [
+          "Pricey compared to others"
+        ]
+      },
+      "offers": [
+        "Bank Cashback"
+      ],
+      "warranty": {
+        "product": "1 Year"
+      },
+      "affiliate": {
+        "buy_link": "https://amzn.to/3QC3hZk",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+      "seo": {
+        "meta_title": "Sony 43-inch Bravia 2 Review",
+        "meta_description": "Review of Sony's entry level 4K TV.",
+        "keywords": [
+          "sony 43 inch",
+          "google tv"
+        ]
+      }
+    }
+  ]
+}

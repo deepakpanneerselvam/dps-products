@@ -1,0 +1,86 @@
+{
+  "products": [
+    {
+      "id": "sony-98-bravia-5-4k-mini-led",
+      "slug": "sony-248-cm-98-inches-bravia-5-series-4k-ultra-hd-smart-mini-led-google-tv-k-98xr55a",
+      "url": "/categories/televisions/sony-248-cm-98-inches-bravia-5-series-4k-ultra-hd-smart-mini-led-google-tv-k-98xr55a.html",
+      "title": "Sony 248 cm (98 inches) BRAVIA 5 Series 4K Ultra HD Smart Mini LED Google TV K-98XR55A",
+      "brand": "Sony",
+      "model": "K-98XR55A",
+      "category": "electronics",
+      "subcategory": "televisions",
+      "price": {
+        "current": 539390,
+        "original": 1100000,
+        "currency": "INR",
+        "discount_percent": 51
+      },
+      "rating": {
+        "average": 4.5,
+        "count": 535
+      },
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery 30 April",
+        "seller": "Dawntech Electronics",
+        "fulfilled_by": "Amazon"
+      },
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/television/image-5.jpg"
+      ],
+      "short_description": "Massive 98-inch cinematic display with Sony's XR Mini LED technology.",
+      "long_description": "The Sony BRAVIA 5 delivers professional-grade color and contrast. Mini LED zones are precisely controlled by the XR Processor to produce stunningly realistic images.",
+      "highlights": [
+        "XR Mini LED",
+        "XR Processor",
+        "Google TV",
+        "120Hz Refresh"
+      ],
+      "specifications": {
+        "display": "Mini LED 4K",
+        "refresh_rate": "120 Hz",
+        "audio": "40W"
+      },
+      "pros": [
+        "Giant screen size",
+        "Excellent local dimming"
+      ],
+      "cons": [
+        "Requires large space",
+        "High bandwidth needed for 4K streaming"
+      ],
+      "reviews_summary": {
+        "positive": [
+          "Cinema at home"
+        ],
+        "negative": [
+          "Packaging reports of damage"
+        ]
+      },
+      "offers": [
+        "Bank Cashback",
+        "EMI starting 25k"
+      ],
+      "warranty": {
+        "product": "1 Year"
+      },
+      "affiliate": {
+        "buy_link": "https://amzn.to/3P5tf75",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+      "seo": {
+        "meta_title": "Sony 98-inch BRAVIA 5 Review",
+        "meta_description": "The biggest Sony Mini LED TV review.",
+        "keywords": [
+          "sony 98 inch",
+          "mini led tv"
+        ]
+      }
+    }
+  ]
+}

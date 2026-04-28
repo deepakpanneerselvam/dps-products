@@ -1,0 +1,131 @@
+{
+  "products": [
+    {
+      "id": "bullar-steel-home-gym-s30kg",
+      "slug": "bullar-steel-home-gym-set-30kg-s30kg",
+      "url": "/categories/fitness-gym/bullar-steel-home-gym-set-30kg-s30kg.html",
+
+      "title": "BULLAR Steel Home Gym Set 30KG with Curl Rod & Straight Rod",
+      "brand": "BULLAR",
+      "model": "S30KG (5KGX4,2.5KGX4)",
+
+      "category": "fitness-gym",
+      "subcategory": "home-gym-set",
+
+      "price": {
+        "current": 7450,
+        "original": 15879,
+        "currency": "INR",
+        "discount_percent": 53
+      },
+
+      "rating": {
+        "average": 4.3,
+        "count": 1242
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery 30 April",
+        "seller": "RetailEZ Pvt Ltd",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-5.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-6.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-7.jpg"
+      ],
+
+      "short_description": "BULLAR 30KG steel home gym set with curl rod, straight rod, dumbbells, and accessories—ideal for full-body strength training at home.",
+
+      "long_description": "The BULLAR Steel Home Gym Set (30KG) is a complete strength training solution designed for home workouts. It includes high-quality chrome steel weight plates, a 5ft straight rod, 3ft curl rod, and a pair of dumbbell rods for versatile exercises. The durable steel construction ensures long-lasting performance, while the ergonomic grip design enhances comfort and safety during workouts. This kit also includes useful accessories like hand grippers, skipping rope, and gym gloves, making it perfect for beginners and intermediate fitness enthusiasts. Compact and space-saving, it allows you to perform a wide range of exercises including curls, presses, squats, and deadlifts at home.",
+
+      "highlights": [
+        "30KG adjustable weight set",
+        "Includes curl rod, straight rod & dumbbells",
+        "Durable chrome steel plates",
+        "Ergonomic grip design",
+        "Compact & space-saving",
+        "Suitable for full-body workouts"
+      ],
+
+      "specifications": {
+        "weight": "30 KG",
+        "material": "Stainless Steel",
+        "rod_types": [
+          "5ft Straight Rod",
+          "3ft Curl Rod",
+          "Dumbbell Rods"
+        ],
+        "plate_combination": "5KG x4, 2.5KG x4",
+        "dimensions": "40D x 30W x 30H cm",
+        "included_accessories": [
+          "Hand Gripper",
+          "Skipping Rope",
+          "Gym Gloves",
+          "Spring Locks"
+        ]
+      },
+
+      "pros": [
+        "Excellent value for money",
+        "Strong and durable steel build",
+        "Versatile workout options",
+        "Ideal for beginners",
+        "Compact for home use"
+      ],
+
+      "cons": [
+        "Minor rust issues reported in some units",
+        "Grip can feel hard for some users",
+        "Delivery delays reported occasionally"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Great for home workouts",
+          "Accurate weight plates",
+          "Good build quality and durability"
+        ],
+        "negative": [
+          "Some quality inconsistencies",
+          "Minor finishing issues",
+          "Packaging/delivery delays"
+        ]
+      },
+
+      "offers": [
+        "Up to ₹2,500 bank discount",
+        "No Cost EMI available",
+        "Cashback on select cards"
+      ],
+
+      "warranty": {
+        "product": "6 Months"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4eI7k07",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "BULLAR 30KG Home Gym Set Price, Review & Features",
+        "meta_description": "Buy BULLAR 30KG steel home gym set with rods, dumbbells & accessories. Best budget home workout equipment in India.",
+        "keywords": [
+          "bullar home gym set 30kg",
+          "home gym equipment india",
+          "best gym set for home workout",
+          "steel dumbbell set india",
+          "budget home gym kit"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": "tego-core-yoga-mat-8mm-teal-gold",
+      "slug": "tego-core-yoga-mat-8mm-teal-gold-2026",
+      "url": "/categories/sports-fitness/tego-core-yoga-mat-8mm-teal-gold-2026.html",
+
+      "title": "TEGO Core Yoga Mat (Teal Gold) 8mm Ultra-Cushioned TPE with Posture Lines",
+      "brand": "TEGO",
+      "category": "Sports & Fitness",
+      "sub_category": "Yoga Mats",
+
+      "price": {
+        "mrp": 2699,
+        "deal_price": 2519,
+        "discount": "7% off",
+        "currency": "INR"
+      },
+
+      "rating": {
+        "value": 4.0,
+        "count": 893
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-5.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-6.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-7.jpg"
+      ],
+
+      "affiliate": {
+        "platform": "Amazon",
+        "commission_rate": "4.70%",
+        "cta_text": "Buy on Amazon",
+        "affiliate_url": "https://amzn.to/4vZjV5A"
+      },
+
+      "availability": "In Stock",
+      "delivery": "Free Delivery",
+
+      "features": [
+        "8mm ultra-cushioned support for joint protection",
+        "Non-slip TPE material for strong grip during workouts",
+        "Posture alignment reference lines for better positioning",
+        "Lightweight and portable with carry bag included",
+        "Antimicrobial and eco-friendly material",
+        "Ideal for beginners and advanced yoga practice"
+      ],
+
+      "specifications": {
+        "material": "TPE (Thermoplastic Elastomer)",
+        "thickness": "8mm",
+        "dimensions": "78 x 26 inches",
+        "weight": "Lightweight",
+        "color": "Teal Gold"
+      },
+
+      "pros": [
+        "Excellent cushioning for knees and joints",
+        "Good grip for yoga and workouts",
+        "Alignment lines improve posture",
+        "Comes with carry bag",
+        "Premium look and feel"
+      ],
+
+      "cons": [
+        "Slightly expensive compared to basic mats",
+        "Mixed feedback on durability",
+        "Some users report slippery surface initially",
+        "Carry bag quality could be better"
+      ],
+
+      "description": "The TEGO Core Yoga Mat is a premium 8mm thick exercise mat designed for superior comfort, grip, and posture alignment. Made from eco-friendly TPE material, it offers excellent cushioning to protect joints during workouts. The built-in alignment lines help maintain correct posture, making it ideal for beginners and experienced users alike. Lightweight and portable, it comes with a carry bag for easy transport.",
+
+      "tags": [
+        "yoga mat",
+        "exercise mat",
+        "fitness mat",
+        "home workout",
+        "non-slip yoga mat",
+        "8mm yoga mat"
+      ],
+
+      "seo": {
+        "meta_title": "TEGO Core Yoga Mat 8mm Review 2026 – Best Premium Yoga Mat in India",
+        "meta_description": "Buy TEGO Core Yoga Mat 8mm with posture lines, anti-slip TPE material, and carry bag. Check price, features, pros & cons before buying."
+      }
+    }
+  ]
+}

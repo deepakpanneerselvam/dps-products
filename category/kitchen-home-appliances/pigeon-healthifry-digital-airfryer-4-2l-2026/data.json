@@ -1,0 +1,134 @@
+{
+  "products": [
+    {
+      "id": "pigeon-healthifry-digital-airfryer-4-2l-1200w",
+      "slug": "pigeon-healthifry-digital-airfryer-4-2l-2026",
+      "url": "/categories/kitchen-home-appliances/pigeon-healthifry-digital-airfryer-4-2l-2026.html",
+
+      "title": "Pigeon Healthifry Digital Air Fryer (4.2L, 1200W, 360° Air Circulation)",
+      "brand": "Pigeon",
+      "model": "Healthifry Digital Air Fryer 4.2L",
+
+      "category": "kitchen",
+      "subcategory": "air-fryers",
+
+      "price": {
+        "current": 3099,
+        "original": 5995,
+        "currency": "INR",
+        "discount_percent": 48
+      },
+
+      "rating": {
+        "average": 3.7,
+        "count": 11666
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery by 27 April",
+        "seller": "RetailEZ Pvt Ltd",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-5.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-6.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/kitchen-home-appliances/image-7.jpg"
+      ],
+
+      "short_description": "Affordable 4.2L digital air fryer from Pigeon with 360° air circulation technology, enabling healthy cooking with up to 85% less oil.",
+
+      "long_description": "The Pigeon Healthifry Digital Air Fryer is a budget-friendly kitchen appliance designed for healthier cooking with minimal oil usage. With its 4.2-liter capacity, it is suitable for small to medium families looking to prepare snacks like fries, samosas, paneer, and chicken with ease.\n\nPowered by a 1200W heating element and 360° high-speed air circulation technology, the air fryer ensures even cooking and crispy results without deep frying. The digital controls make it beginner-friendly, allowing users to adjust time and temperature easily.\n\nThe non-stick basket makes cleaning hassle-free, while the compact design ensures it fits easily in most kitchens. It is a great entry-level air fryer for those exploring oil-free cooking.\n\nHowever, some users have reported concerns about durability, plastic quality, and long-term reliability. Overall, it offers excellent value for money for budget-conscious buyers.",
+
+      "highlights": [
+        "4.2L capacity suitable for small families",
+        "360° high-speed air circulation technology",
+        "Uses up to 85% less oil",
+        "1200W powerful heating",
+        "Digital control panel",
+        "Non-stick removable basket"
+      ],
+
+      "specifications": {
+        "power": "1200W",
+        "capacity": "4.2 Litres",
+        "technology": "360° Air Circulation",
+        "control_type": "Digital",
+        "material": "Aluminium, Plastic, Stainless Steel",
+        "dimensions": "30 x 22.9 x 29 cm",
+        "weight": "Approx 4 kg",
+        "special_features": [
+          "Low oil cooking",
+          "Quick heating",
+          "Compact design",
+          "Non-stick basket",
+          "Easy to clean"
+        ]
+      },
+
+      "pros": [
+        "Very affordable pricing",
+        "Easy to use for beginners",
+        "Good for basic air frying needs",
+        "Compact and space-saving",
+        "Low oil cooking option"
+      ],
+
+      "cons": [
+        "Mixed durability feedback",
+        "Plastic quality could be better",
+        "Noise levels reported by some users",
+        "Service issues reported",
+        "Not ideal for heavy usage"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Great value for money",
+          "Easy to use digital controls",
+          "Cooks evenly with less oil"
+        ],
+        "negative": [
+          "Durability concerns after few months",
+          "Service and support issues",
+          "Build quality feels cheap"
+        ]
+      },
+
+      "offers": [
+        "Up to ₹2,500 bank discount",
+        "No Cost EMI available",
+        "Cashback on select credit cards"
+      ],
+
+      "warranty": {
+        "product": "2 Years",
+        "pcb": "Not specified",
+        "compressor": "Not Applicable"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/48mo3lQ",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Pigeon Healthifry Air Fryer Review 2026 | Price, Features & Specs",
+        "meta_description": "Buy Pigeon Healthifry Digital Air Fryer 4.2L at best price in India. Budget-friendly air fryer with low oil cooking and 360° air circulation.",
+        "keywords": [
+          "pigeon air fryer review",
+          "best air fryer under 3000 india",
+          "budget air fryer india",
+          "4.2 litre air fryer price",
+          "pigeon healthifry digital air fryer"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "id": "bionfit-apex-pro",
+      "slug": "bionfit-apex-pro-gym-cycle",
+      "url": "/categories/fitness-gym/bionfit-apex-pro-gym-cycle.html",
+      "title": "BIONFIT ApeX Pro Gym Cycle for Home",
+      "brand": "BIONFIT",
+      "model": "ApeX Pro",
+      "category": "fitness-gym",
+      "subcategory": "exercise-bikes",
+      "price": {
+        "current": 10949,
+        "original": 25449,
+        "currency": "INR",
+        "discount_percent": 57
+      },
+      "rating": {
+        "average": 4.5,
+        "count": 20
+      },
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Fri, 1 May",
+        "seller": "Bionfit Store",
+        "fulfilled_by": "Amazon"
+      },
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-5.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-6.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-7.jpg"
+      ],
+      "short_description": "Magnetic resistance spin bike with 7kg flywheel, silent belt drive, and 2-year warranty.",
+      "long_description": "The BIONFIT ApeX Pro is a high-performance spin bike designed for cardio at home. Featuring a 7kg flywheel and a magnetic resistance system, it offers a smooth and near-silent riding experience. The bike supports up to 120kg and comes with an adjustable seat and handlebars to accommodate different body types. Perfect for weight loss and stamina building.",
+      "highlights": [
+        "7 Kg Precision Flywheel",
+        "Silent Magnetic Resistance",
+        "Max User Weight: 120 Kg",
+        "Belt Drive System",
+        "LCD Performance Monitor",
+        "2-Year Warranty"
+      ],
+      "specifications": {
+        "resistance": "Magnetic",
+        "flywheel": "7 kg",
+        "drive": "Silent Belt Drive",
+        "max_weight": "120 kg",
+        "warranty": "2 Years",
+        "display": "Speed, Time, Distance, Calories"
+      },
+      "pros": [
+        "Quiet enough for apartment use",
+        "Stable frame during high intensity",
+        "Good value magnetic resistance",
+        "Extended 2-year warranty"
+      ],
+      "cons": [
+        "Assembly takes time",
+        "Basic LCD monitor without backlight",
+        "Flywheel is lighter than pro club bikes"
+      ],
+      "reviews_summary": {
+        "positive": [
+          "Very smooth pedaling",
+          "Great build quality for the price",
+          "Silent operation"
+        ],
+        "negative": [
+          "Seat could be more cushioned",
+          "Pedal straps feel a bit thin"
+        ]
+      },
+      "offers": [
+        "Up to ₹2,000 bank discount",
+        "No Cost EMI available",
+        "Partner offers for Prime members"
+      ],
+      "warranty": {
+        "product": "2 Years"
+      },
+      "affiliate": {
+        "buy_link": "https://amzn.to/4cQ7Fva",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+      "seo": {
+        "meta_title": "BIONFIT ApeX Pro Spin Bike Review & Price India",
+        "meta_description": "Get the BIONFIT ApeX Pro Gym Cycle with 7kg flywheel and magnetic resistance. Best silent spin bike for home cardio workouts.",
+        "keywords": [
+          "bionfit apex pro",
+          "magnetic spin bike india",
+          "exercise cycle for home",
+          "silent gym cycle",
+          "indoor cycling machine price"
+        ]
+      }
+    }
+  ]
+}

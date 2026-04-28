@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "id": "cult-davie-7hp-treadmill",
+      "slug": "cult-davie-7hp-motorized-treadmill-home-gym",
+      "url": "/categories/fitness-gym/cult-davie-7hp-motorized-treadmill-home-gym.html",
+
+      "title": "Cult Davie 7HP Peak Motorized Treadmill with Auto Incline",
+      "brand": "CULTSPORT",
+      "model": "Davie 7HP",
+
+      "category": "fitness-gym",
+      "subcategory": "treadmill",
+
+      "price": {
+        "current": 62736,
+        "original": 100999,
+        "currency": "INR",
+        "discount_percent": 38
+      },
+
+      "rating": {
+        "average": 4.2,
+        "count": 412
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery 30 April",
+        "seller": "CultX",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-5.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-6.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-7.jpg"
+      ],
+
+      "short_description": "Cult Davie 7HP motorized treadmill with auto incline, 150kg capacity, and advanced features for professional home workouts.",
+
+      "long_description": "The Cult Davie 7HP Motorized Treadmill is a premium home fitness machine designed for serious workouts. Powered by a 3.5 HP continuous and 7 HP peak motor, it delivers smooth and consistent performance. It features a wide running belt (1450x580 mm) for comfort and safety. With a speed range of 1–20 km/hr and 15 levels of automatic incline, it supports everything from walking to intense running sessions. Built for durability, it supports up to 150 kg user weight and includes advanced features like heart rate monitoring, multiple workout programs, and a shock absorption system to reduce joint impact. Ideal for home gyms, it combines performance, durability, and convenience.",
+
+      "highlights": [
+        "7HP peak powerful motor",
+        "Auto incline with 15 levels",
+        "Speed range up to 20 km/hr",
+        "150 kg max user capacity",
+        "Wide running surface for comfort",
+        "Shock absorption system"
+      ],
+
+      "specifications": {
+        "motor_power": "3.5 HP Continuous / 7 HP Peak",
+        "speed_range": "1–20 km/hr",
+        "incline": "15 Levels Auto Incline",
+        "max_user_weight": "150 kg",
+        "recommended_weight": "130 kg",
+        "running_surface": "1450 x 580 mm",
+        "dimensions": "204D x 93W x 144H cm",
+        "features": [
+          "Heart Rate Monitor",
+          "Multiple Workout Programs",
+          "Shock Absorption",
+          "Foldable Design",
+          "Safety Key"
+        ]
+      },
+
+      "pros": [
+        "Powerful motor performance",
+        "Smooth and quiet operation",
+        "Strong build quality",
+        "Feature-rich treadmill",
+        "Good for home workouts"
+      ],
+
+      "cons": [
+        "Heavy and bulky",
+        "Service experience varies",
+        "Requires stabilizer for safety"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Sturdy and premium build",
+          "Smooth and silent running",
+          "Great for regular fitness routine"
+        ],
+        "negative": [
+          "Customer service issues reported",
+          "Large size needs space",
+          "Plastic parts in some areas"
+        ]
+      },
+
+      "offers": [
+        "Up to ₹2,500 bank discount",
+        "No Cost EMI available",
+        "Cashback up to ₹1,882"
+      ],
+
+      "warranty": {
+        "product": "1 Year"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/42vWsex",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Cult Davie 7HP Treadmill Price, Review & Features",
+        "meta_description": "Buy Cult Davie 7HP motorized treadmill with auto incline, 150kg capacity, and advanced features. Best treadmill for home gym in India.",
+        "keywords": [
+          "cult davie treadmill 7hp",
+          "best treadmill for home india",
+          "motorized treadmill price india",
+          "home gym treadmill 150kg",
+          "cultsport treadmill review"
+        ]
+      }
+    }
+  ]
+}

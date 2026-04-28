@@ -1,0 +1,133 @@
+{
+  "products": [
+    {
+      "id": "lenovo-loq-ryzen5-7235hs-rtx4050-16gb-512gb",
+      "slug": "lenovo-loq-ryzen5-7235hs-rtx4050-16gb-512gb-2026",
+      "url": "/categories/laptops/lenovo-loq-ryzen5-7235hs-rtx4050-16gb-512gb-2026.html",
+
+      "title": "Lenovo LOQ Ryzen 5 7235HS RTX 4050 Gaming Laptop (16GB RAM, 512GB SSD)",
+      "brand": "Lenovo",
+      "model": "LOQ 83JC00NYIN",
+
+      "category": "computers",
+      "subcategory": "laptops",
+
+      "price": {
+        "current": 86990,
+        "original": 98190,
+        "currency": "INR",
+        "discount_percent": 11
+      },
+
+      "rating": {
+        "average": 4.0,
+        "count": 13
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Sunday, 26 April",
+        "seller": "Clicktech Retail Private Ltd",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/lenovo-loq-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/lenovo-loq-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/lenovo-loq-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/lenovo-loq-4.jpg"
+      ],
+
+      "short_description": "Lenovo LOQ gaming laptop powered by Ryzen 5 7235HS and RTX 4050 delivers strong gaming performance, 144Hz display, and smooth multitasking with 16GB RAM.",
+
+      "long_description": "The Lenovo LOQ is a mid-range gaming laptop designed for gamers, creators, and power users who want strong GPU performance at a competitive price.\n\nIt is powered by the AMD Ryzen 5 7235HS processor paired with NVIDIA RTX 4050 6GB GPU, delivering smooth performance in modern AAA games, video editing, and heavy multitasking.\n\nThe 15.6-inch Full HD IPS display with 144Hz refresh rate ensures fluid visuals and responsive gameplay. With 16GB DDR5 RAM and 512GB SSD storage, the system is fast, stable, and capable of handling demanding workloads.\n\nLenovo’s advanced cooling system with dual fans and AI Engine+ helps maintain performance during long gaming sessions while reducing overheating.\n\nHowever, battery life is limited when unplugged, and the device is relatively heavy for portability. Overall, it is a strong value-for-money gaming laptop in the mid-range segment.",
+
+      "highlights": [
+        "AMD Ryzen 5 7235HS processor",
+        "NVIDIA RTX 4050 6GB GPU",
+        "16GB DDR5 RAM (expandable up to 32GB)",
+        "512GB PCIe Gen4 SSD",
+        "15.6-inch FHD IPS display, 144Hz refresh rate",
+        "Advanced dual-fan cooling system with AI Engine+"
+      ],
+
+      "specifications": {
+        "processor": "AMD Ryzen 5 7235HS",
+        "ram": "16 GB DDR5 (2x8GB)",
+        "storage": "512 GB SSD PCIe Gen4",
+        "display": "15.6-inch FHD IPS",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "144 Hz",
+        "gpu": "NVIDIA RTX 4050 6GB GDDR6",
+        "battery": "2–3 hours (gaming usage lower)",
+        "operating_system": "Windows 11 Home",
+        "weight": "2.4 kg",
+        "special_features": [
+          "Backlit keyboard",
+          "MUX Switch with Advanced Optimus",
+          "AI Engine+ performance optimization",
+          "Dual fan cooling system",
+          "High refresh rate gaming display"
+        ]
+      },
+
+      "pros": [
+        "Excellent gaming performance (RTX 4050)",
+        "Smooth 144Hz display",
+        "Strong build quality",
+        "Good thermal management",
+        "Great value in mid-range gaming segment"
+      ],
+
+      "cons": [
+        "Battery life is poor on unplugged use",
+        "Heavier than normal laptops",
+        "Can heat under heavy gaming load",
+        "No integrated GPU (RTX runs always)"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Great performance for gaming and editing",
+          "Strong build and smooth display",
+          "Good value for money"
+        ],
+        "negative": [
+          "Battery drains quickly",
+          "Slight heating during gaming",
+          "Some units reported minor hardware issues"
+        ]
+      },
+
+      "offers": [
+        "Up to ₹2,500 bank discount",
+        "No Cost EMI available",
+        "Cashback on select credit cards"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "accidental_damage_protection": "Optional",
+        "support": "Lenovo service center support"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/3QmZXkP",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Lenovo LOQ RTX 4050 Review 2026 | Price, Specs & Gaming Performance",
+        "meta_description": "Buy Lenovo LOQ Ryzen 5 7235HS RTX 4050 gaming laptop with 16GB RAM and 512GB SSD. Best budget gaming laptop in India 2026.",
+        "keywords": [
+          "lenovo loq rtx 4050 review",
+          "gaming laptop under 90000 india",
+          "ryzen 5 7235hs laptop",
+          "best rtx 4050 laptop india",
+          "lenovo gaming laptop 16gb ram"
+        ]
+      }
+    }
+  ]
+}

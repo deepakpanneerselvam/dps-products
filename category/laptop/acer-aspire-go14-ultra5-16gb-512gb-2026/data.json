@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": "acer-aspire-go14-ultra5-16gb-512gb",
+      "slug": "acer-aspire-go14-ultra5-16gb-512gb-2026",
+      "url": "/categories/laptops/acer-aspire-go14-ultra5-16gb-512gb-2026.html",
+
+      "title": "Acer Aspire Go 14 (Intel Core Ultra 5, 16GB RAM, 512GB SSD)",
+      "brand": "Acer",
+      "model": "Aspire Go 14 (AG14-71M)",
+
+      "category": "computers",
+      "subcategory": "laptops",
+
+      "price": {
+        "current": 56990,
+        "original": 72999,
+        "currency": "INR",
+        "discount_percent": 22
+      },
+
+      "rating": {
+        "average": 3.7,
+        "count": 210
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery by 29 April",
+        "seller": "Clicktech Retail Private Ltd",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/acer-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/acer-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/acer-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/acer-4.jpg"
+      ],
+
+      "short_description": "Acer Aspire Go 14 with Intel Core Ultra 5 processor offers strong performance, AI capabilities, 16GB RAM, and a lightweight design—ideal for students and everyday productivity.",
+
+      "long_description": "The Acer Aspire Go 14 is a budget-friendly AI-powered laptop designed for students and professionals who need performance without spending a premium. Powered by the Intel Core Ultra 5 125H processor, it delivers smooth multitasking, coding, browsing, and light gaming performance.\n\nIt features a 14-inch WUXGA IPS display with a 16:10 aspect ratio, offering sharp visuals and better productivity space. With 16GB DDR5 RAM and 512GB SSD storage, the laptop ensures fast performance and enough space for everyday tasks.\n\nThe device runs on Windows 11 Home and comes with pre-installed Microsoft Office, making it ready for work out of the box. Its lightweight 1.5 kg design makes it highly portable for students and office users.\n\nWhile the laptop provides excellent value for money, some compromises include average speakers, mixed display feedback, and a basic 720p camera. Overall, it is a strong mid-range option for users looking for performance and affordability.",
+
+      "highlights": [
+        "Intel Core Ultra 5 125H processor",
+        "16GB DDR5 RAM (expandable to 32GB)",
+        "512GB SSD (expandable up to 1TB)",
+        "14-inch WUXGA IPS display (1920x1200)",
+        "Lightweight design (1.5 kg)",
+        "Windows 11 with MS Office included"
+      ],
+
+      "specifications": {
+        "processor": "Intel Core Ultra 5 125H",
+        "ram": "16 GB DDR5",
+        "storage": "512 GB SSD",
+        "display": "14-inch WUXGA IPS",
+        "resolution": "1920 x 1200",
+        "battery": "Up to 5-6 hours",
+        "operating_system": "Windows 11 Home",
+        "weight": "1.5 kg",
+        "special_features": [
+          "AI processor support",
+          "Backlit keyboard",
+          "Expandable RAM and storage",
+          "USB-C charging",
+          "Pre-installed Office 2024"
+        ]
+      },
+
+      "pros": [
+        "Excellent performance for the price",
+        "16GB RAM is great for multitasking",
+        "Lightweight and portable",
+        "Good battery backup",
+        "Value for money for students"
+      ],
+
+      "cons": [
+        "Average display quality",
+        "Low speaker volume",
+        "720p camera is basic",
+        "Mixed reliability feedback",
+        "No dedicated GPU"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Great performance and smooth multitasking",
+          "Good value for money",
+          "Lightweight and portable design"
+        ],
+        "negative": [
+          "Display quality is inconsistent",
+          "Sound quality is poor",
+          "Some users reported hardware issues"
+        ]
+      },
+
+      "offers": [
+        "Up to ₹2,500 bank discount",
+        "No Cost EMI available",
+        "Cashback on select credit cards"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "pcb": "1 Year",
+        "compressor": "Not Applicable"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/3OSFWSE",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Acer Aspire Go 14 Ultra 5 Review 2026 | Price, Specs & Features",
+        "meta_description": "Buy Acer Aspire Go 14 with Intel Core Ultra 5, 16GB RAM, 512GB SSD. Best budget AI laptop for students in India.",
+        "keywords": [
+          "acer aspire go 14 review",
+          "best laptop under 60000 india",
+          "intel core ultra 5 laptop india",
+          "acer laptop 16gb ram price",
+          "budget ai laptop india"
+        ]
+      }
+    }
+  ]
+}

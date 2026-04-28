@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": "cult-smart-body-fat-scale",
+      "slug": "cult-smart-body-fat-scale-bmi-bluetooth",
+      "url": "/categories/personal-care-appliances/cult-smart-body-fat-scale.html",
+
+      "title": "Cult Smart Body Fat Scale with BMI & Bluetooth",
+      "brand": "CULT",
+      "model": "Smart Scale",
+
+      "category": "personal-care-appliances",
+      "subcategory": "weighing-scale",
+
+      "price": {
+        "current": 1299,
+        "original": 3999,
+        "currency": "INR",
+        "discount_percent": 68
+      },
+
+      "rating": {
+        "average": 4.4,
+        "count": 1388
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery 30 April",
+        "seller": "Electronics Bazaar Store",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-5.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-6.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-7.jpg"
+      ],
+
+      "short_description": "CULT smart body fat weighing scale with BMI, Bluetooth app sync, and 20+ body metrics—ideal for home fitness tracking.",
+
+      "long_description": "The CULT Smart Body Fat Scale is an advanced digital weighing machine designed to help you track your overall health and fitness. It measures over 20 body parameters including weight, BMI, muscle mass, body fat percentage, visceral fat, and BMR. Equipped with high-precision sensors, it delivers accurate readings and syncs seamlessly with the Cult Connect app via Bluetooth. The scale supports up to 10 users, making it perfect for families. Its ultra-slim design, LED display, and durable build make it both stylish and practical for everyday home use.",
+
+      "highlights": [
+        "Tracks 20+ body metrics",
+        "Bluetooth app connectivity",
+        "Supports up to 10 users",
+        "High precision sensors",
+        "LED display with sleek design",
+        "FDA approved quality"
+      ],
+
+      "specifications": {
+        "type": "Digital Body Fat Scale",
+        "connectivity": "Bluetooth",
+        "display": "LED",
+        "metrics": "20+ body parameters",
+        "max_users": "10 Users",
+        "power": "3 AAA batteries",
+        "dimensions": "30.5 x 29.8 x 0.4 cm",
+        "weight": "1.2 kg"
+      },
+
+      "pros": [
+        "Accurate and detailed body metrics",
+        "Easy app connectivity",
+        "Supports multiple users",
+        "Premium design",
+        "Good value for money"
+      ],
+
+      "cons": [
+        "Battery life could be better",
+        "App connectivity issues for some users",
+        "Accuracy varies slightly sometimes"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Good for tracking fitness progress",
+          "Easy to use and connect",
+          "Stylish and lightweight design"
+        ],
+        "negative": [
+          "Occasional accuracy issues",
+          "Battery concerns",
+          "Limited customer support feedback"
+        ]
+      },
+
+      "offers": [
+        "Up to ₹1000 bank discount",
+        "5% cashback on select cards",
+        "No Cost EMI available"
+      ],
+
+      "warranty": {
+        "product": "1 Year"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/example-link",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Cult Smart Body Fat Scale Price, Review & Features",
+        "meta_description": "Buy Cult Smart Body Fat Scale with BMI, Bluetooth and 20+ body metrics. Best digital weighing scale for home fitness tracking.",
+        "keywords": [
+          "cult smart scale",
+          "body fat weighing scale india",
+          "bluetooth weighing machine",
+          "best bmi scale india",
+          "digital weight machine with app"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "id": "powermax-bu-3000c",
+      "slug": "powermax-fitness-bu-3000c-commercial-upright-bike",
+      "url": "/categories/fitness-gym/powermax-fitness-bu-3000c-commercial-upright-bike.html",
+      "title": "Powermax Fitness BU-3000C Commercial Upright Bike",
+      "brand": "PowerMax Fitness",
+      "model": "BU-3000C",
+      "category": "fitness-gym",
+      "subcategory": "exercise-bikes",
+      "price": {
+        "current": 114999,
+        "original": 199500,
+        "currency": "INR",
+        "discount_percent": 42
+      },
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery 7 - 9 May",
+        "seller": "Kudos Infinity",
+        "fulfilled_by": "Kudos Infinity"
+      },
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-5.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-6.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-7.jpg"
+      ],
+      "short_description": "Commercial-grade upright stationary bike with adjustable seating and self-powered mechanism.",
+      "long_description": "The Powermax Fitness BU-3000C is a high-end commercial upright bike designed for intensive cardio sessions. It features an ergonomic adjustable seat and a heavy-duty frame suited for high-traffic gym environments. This bike operates without a direct power source (No Electric), making it efficient for any layout. Ideal for improving cardiovascular health and lower body strength.",
+      "highlights": [
+        "Commercial-grade durability",
+        "Adjustable seat for ergonomics",
+        "Self-powered (No electricity required)",
+        "Premium metallic black finish",
+        "High user weight capacity",
+        "Ideal for professional gym settings"
+      ],
+      "specifications": {
+        "type": "Upright Exercise Bike",
+        "power_source": "Non-Electric",
+        "color": "Black, Metallic",
+        "seat": "Adjustable",
+        "intended_use": "Commercial/Indoor",
+        "resistance": "Multi-level adjustable"
+      },
+      "pros": [
+        "Maintenance-free power source",
+        "Very sturdy and durable",
+        "Professional gym feel",
+        "Large discount currently available"
+      ],
+      "cons": [
+        "Expensive for home use",
+        "Heavy and difficult to move",
+        "Lacks advanced smart screen connectivity"
+      ],
+      "reviews_summary": {
+        "positive": [
+          "Solid build quality",
+          "Quiet operation",
+          "Comfortable for long sessions"
+        ],
+        "negative": [
+          "Premium price point"
+        ]
+      },
+      "offers": [
+        "Upto ₹2,500 bank discount",
+        "Upto ₹3,449 cashback on Amazon Pay ICICI",
+        "Brand Installation available",
+        "No Cost EMI"
+      ],
+      "warranty": {
+        "product": "1 Year"
+      },
+      "affiliate": {
+        "buy_link": "https://amzn.to/4ecuuLX",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+      "seo": {
+        "meta_title": "Powermax BU-3000C Commercial Upright Bike Price & Specs",
+        "meta_description": "Check out the Powermax Fitness BU-3000C Commercial Upright Bike. Best for commercial gyms, features adjustable seat and non-electric power.",
+        "keywords": [
+          "commercial upright bike",
+          "powermax fitness bike",
+          "gym cycling machine",
+          "self powered exercise bike",
+          "indoor cycling india"
+        ]
+      }
+    }
+  ]
+}

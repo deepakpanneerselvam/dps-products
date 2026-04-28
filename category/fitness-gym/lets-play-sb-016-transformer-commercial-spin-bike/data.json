@@ -1,0 +1,107 @@
+{
+  "products": [
+    {
+      "id": "lets-play-sb-016-transformer",
+      "slug": "lets-play-sb-016-transformer-commercial-spin-bike",
+      "url": "/categories/fitness-gym/lets-play-sb-016-transformer-commercial-spin-bike.html",
+      "title": "LET’S PLAY SB-016 Commercial Spin Bike - Transformer Black",
+      "brand": "LET'S PLAY",
+      "model": "SB-016 Transformer",
+      "category": "fitness-gym",
+      "subcategory": "exercise-bikes",
+      "price": {
+        "current": 24999,
+        "original": 62999,
+        "currency": "INR",
+        "discount_percent": 60
+      },
+      "rating": {
+        "average": 4.0,
+        "count": 34
+      },
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Thursday, 21 May",
+        "seller": "EOX",
+        "fulfilled_by": "EOX"
+      },
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-5.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-6.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/fitness-gym/image-7.jpg"
+      ],
+      "short_description": "Commercial-grade spin bike with a 25KG heavy flywheel, 50-level adjustable resistance, and silent belt drive for home and gym.",
+      "long_description": "The LET’S PLAY SB-016 Transformer Spin Bike is a powerhouse for cardiovascular training. Featuring a massive 25kg solid chrome flywheel and a heavy-duty triangular steel frame, it supports up to 150kg user weight. Its silent belt drive system ensures a smooth pedaling experience without noise interference. With 50 resistance levels and fully adjustable seating and handlebars, it provides a customized, high-intensity workout comparable to outdoor cycling.",
+      "highlights": [
+        "25 KG Heavy-Duty Flywheel",
+        "150 KG Max User Weight Support",
+        "50 Levels of Adjustable Resistance",
+        "Silent Belt Drive System",
+        "Heart Rate Sensor included",
+        "Heavy-duty Triangular Body Frame"
+      ],
+      "specifications": {
+        "type": "Commercial Spin Bike",
+        "flywheel": "25 KG",
+        "resistance": "50 Levels Manual Knob",
+        "drive_system": "Silent Belt Drive",
+        "max_user_weight": "150 KG",
+        "material": "Alloy Steel",
+        "special_features": "Pulse Monitor, Adjustable Seat & Handlebars"
+      },
+      "pros": [
+        "Extremely stable triangular frame",
+        "High flywheel weight for smooth momentum",
+        "Suitable for heavy individuals (up to 150kg)",
+        "Includes transport wheels for mobility",
+        "Free video call installation support"
+      ],
+      "cons": [
+        "Heavy unit (requires effort to move)",
+        "Manual resistance adjustment",
+        "Requires periodic maintenance of the brake pads"
+      ],
+      "reviews_summary": {
+        "positive": [
+          "Value for money commercial quality",
+          "Very sturdy and no wobbling",
+          "Quiet enough for early morning workouts"
+        ],
+        "negative": [
+          "Monitor display is basic",
+          "Occasional shipping delays reported",
+          "Seat may feel firm for some users"
+        ]
+      },
+      "offers": [
+        "Up to ₹2,500 bank discount",
+        "No Cost EMI available from ₹879/month",
+        "GST Invoice to save 18%",
+        "Limited time deal pricing"
+      ],
+      "warranty": {
+        "product": "1 Year"
+      },
+      "affiliate": {
+        "buy_link": "https://amzn.to/4sZryWL",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+      "seo": {
+        "meta_title": "LET'S PLAY SB-016 Transformer Commercial Spin Bike Price & Review",
+        "meta_description": "Buy LET'S PLAY SB-016 commercial spin bike with 25kg flywheel. Features 150kg user support and 50 resistance levels. Best for home and commercial gym.",
+        "keywords": [
+          "lets play spin bike",
+          "sb-016 transformer",
+          "commercial exercise cycle",
+          "25kg flywheel spin bike",
+          "heavy duty gym cycle india"
+        ]
+      }
+    }
+  ]
+}

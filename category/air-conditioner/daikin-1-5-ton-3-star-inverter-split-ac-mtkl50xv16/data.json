@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "id": "daikin-mtkl50xv16",
+      "slug": "daikin-1-5-ton-3-star-inverter-split-ac-mtkl50xv16",
+      "url": "/categories/air-conditioner/daikin-1-5-ton-3-star-inverter-split-ac-mtkl50xv16.html",
+
+      "title": "Daikin 1.5 Ton 3 Star Inverter Split AC (MTKL50XV16)",
+      "brand": "Daikin",
+      "model": "MTKL50XV16",
+
+      "category": "air-conditioner",
+      "subcategory": "split-ac",
+
+      "price": {
+        "current": 36990,
+        "original": 56100,
+        "currency": "INR",
+        "discount_percent": 34
+      },
+
+      "rating": {
+        "average": 4.0,
+        "count": 58
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery 23 - 24 April",
+        "seller": "DAWNTECH ELECTRONICS PRIVATE LIMITED",
+        "fulfilled_by": "Amazon"
+      },
+
+     "images": [
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/air-conditioner/image-1.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/air-conditioner/image-2.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/air-conditioner/image-3.jpg",
+  "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/air-conditioner/image-4.jpg"
+],
+
+      "short_description": "Daikin 1.5 Ton 3 Star Inverter Split AC (MTKL50XV16) is a reliable and energy-efficient air conditioner designed for medium-sized rooms. It offers powerful cooling, PM2.5 air filtration, and durable copper condenser technology, making it ideal for Indian summers.",
+
+      "long_description": "The Daikin MTKL50XV16 1.5 Ton 3 Star Inverter Split AC is engineered to deliver consistent and efficient cooling performance for medium-sized rooms (approximately 111–150 sq. ft.). Powered by advanced inverter technology, it intelligently adjusts compressor speed based on cooling requirements, ensuring lower electricity consumption and stable temperature control.\n\nThis AC features a high-quality copper condenser coil that enhances heat transfer and durability while reducing maintenance costs. The integrated PM2.5 filter improves indoor air quality by trapping fine dust particles, making it suitable for urban homes.\n\nWith features like Power Chill operation, 3D airflow, and quiet operation, the AC provides fast cooling even during extreme summer conditions. It is built to handle voltage fluctuations without the need for a stabilizer, offering additional convenience. Overall, the Daikin MTKL50XV16 is a dependable choice for users seeking a balance between performance, durability, and affordability.",
+
+      "highlights": [
+        "1.5 Ton capacity suitable for medium rooms",
+        "3 Star energy efficiency (ISEER ~4.0)",
+        "Inverter swing compressor for power saving",
+        "Copper condenser with anti-corrosion coating",
+        "PM2.5 filter for cleaner air",
+        "Power Chill for fast cooling"
+      ],
+
+      "specifications": {
+        "capacity": "1.5 Ton",
+        "energy_rating": "3 Star",
+        "type": "Inverter Split AC",
+        "cooling_power": "5.0 kW",
+        "air_flow": "572 CFM",
+        "condenser_coil": "Copper",
+        "filter": "PM2.5",
+        "refrigerant": "R32",
+        "voltage_range": "130V - 285V",
+        "special_features": [
+          "3D Airflow",
+          "Power Chill",
+          "Quiet Operation",
+          "Stabilizer Free Operation",
+          "Dew Clean Technology"
+        ]
+      },
+
+      "pros": [
+        "Powerful and fast cooling",
+        "Energy efficient inverter technology",
+        "Durable copper condenser",
+        "Good air filtration with PM2.5 filter",
+        "Low noise operation"
+      ],
+
+      "cons": [
+        "3 Star rating (not maximum efficiency)",
+        "No WiFi / smart features",
+        "Installation cost can be high"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Cools room quickly even in high temperatures",
+          "Silent and smooth performance",
+          "Good value for money"
+        ],
+        "negative": [
+          "Installation charges are high",
+          "Basic remote and features"
+        ]
+      },
+
+      "offers": [
+        "Up to ₹2,500 bank discount",
+        "No Cost EMI available",
+        "Cashback offers on select cards"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "pcb": "5 Years",
+        "compressor": "10 Years"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/3QjiuOW",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Daikin 1.5 Ton 3 Star Inverter AC Review (MTKL50XV16) | Price & Features",
+        "meta_description": "Buy Daikin MTKL50XV16 1.5 Ton 3 Star Inverter Split AC with latest price, features, pros & cons. Best AC for medium rooms in India.",
+        "keywords": [
+          "daikin 1.5 ton inverter ac",
+          "daikin mtkl50xv16 review",
+          "daikin 3 star split ac price",
+          "best daikin ac india",
+          "1.5 ton inverter ac india"
+        ]
+      }
+    }
+  ]
+}

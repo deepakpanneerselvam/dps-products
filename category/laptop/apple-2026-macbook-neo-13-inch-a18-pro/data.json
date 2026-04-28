@@ -1,0 +1,129 @@
+{
+  "products": [
+    {
+      "id": "apple-macbook-neo-13-a18pro",
+      "slug": "apple-2026-macbook-neo-13-inch-a18-pro",
+      "url": "/categories/laptops/apple-2026-macbook-neo-13-inch-a18-pro.html",
+
+      "title": "Apple 2026 MacBook Neo 13-inch (A18 Pro, 8GB RAM, 256GB SSD)",
+      "brand": "Apple",
+      "model": "MacBook Neo (A18 Pro)",
+
+      "category": "computers",
+      "subcategory": "laptops",
+
+      "price": {
+        "current": 67900,
+        "original": 69900,
+        "currency": "INR",
+        "discount_percent": 3
+      },
+
+      "rating": {
+        "average": 4.6,
+        "count": 11
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Tomorrow",
+        "seller": "Clicktech Retail Private Ltd",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/macbook-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/macbook-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/macbook-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/laptops/macbook-4.jpg"
+      ],
+
+      "short_description": "Apple MacBook Neo 13-inch with A18 Pro chip delivers powerful performance, AI capabilities, stunning Liquid Retina display, and long battery life in a sleek and lightweight design.",
+
+      "long_description": "The Apple 2026 MacBook Neo 13-inch is designed for modern users who need performance, portability, and AI-powered efficiency. Powered by the new A18 Pro chip, it delivers fast performance for everyday tasks, multitasking, and creative workflows.\n\nThe 13-inch Liquid Retina display offers sharp visuals, vibrant colors, and up to 500 nits brightness, making it ideal for work, streaming, and content creation. With up to 16 hours of battery life, it easily lasts a full day without needing a charge.\n\nBuilt with a premium aluminum design, the MacBook Neo is lightweight and durable. It features a 1080p FaceTime HD camera, dual microphones, and immersive speakers with Spatial Audio, making it perfect for video calls and entertainment.\n\nWith macOS and Apple Intelligence integration, the device is optimized for AI-driven tasks, privacy, and seamless ecosystem connectivity. Overall, it is a premium choice for students, professionals, and creators looking for a reliable and stylish laptop.",
+
+      "highlights": [
+        "A18 Pro chip with AI capabilities",
+        "13-inch Liquid Retina Display (2408x1506)",
+        "Up to 16 hours battery life",
+        "Lightweight premium aluminum design",
+        "1080p FaceTime HD camera",
+        "macOS with Apple Intelligence"
+      ],
+
+      "specifications": {
+        "processor": "Apple A18 Pro",
+        "ram": "8 GB Unified Memory",
+        "storage": "256 GB SSD",
+        "display": "13-inch Liquid Retina",
+        "resolution": "2408 x 1506",
+        "battery": "Up to 16 hours",
+        "operating_system": "macOS",
+        "weight": "1.22 kg",
+        "special_features": [
+          "AI-powered performance",
+          "Spatial Audio",
+          "FaceTime HD Camera",
+          "Aluminum body",
+          "Fast charging support"
+        ]
+      },
+
+      "pros": [
+        "Excellent build quality and premium design",
+        "Powerful A18 Pro performance",
+        "Great battery life",
+        "Smooth macOS experience",
+        "Lightweight and portable"
+      ],
+
+      "cons": [
+        "Base variant has only 8GB RAM",
+        "Limited storage for heavy users",
+        "Slightly expensive for entry-level users"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Excellent performance and smooth usage",
+          "Premium design and lightweight",
+          "Great display and battery life"
+        ],
+        "negative": [
+          "Price is slightly high",
+          "Base configuration could be better"
+        ]
+      },
+
+      "offers": [
+        "Up to ₹4,000 bank discount",
+        "No Cost EMI available",
+        "Cashback on select credit cards"
+      ],
+
+      "warranty": {
+        "product": "1 Year",
+        "pcb": "1 Year",
+        "compressor": "Not Applicable"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4mE5Xl6",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Apple MacBook Neo 13-inch (A18 Pro) Review 2026 | Price & Features",
+        "meta_description": "Buy Apple MacBook Neo 13-inch A18 Pro laptop with latest price, specs, pros & cons. Best lightweight premium laptop in India.",
+        "keywords": [
+          "macbook neo 13 price india",
+          "apple a18 pro laptop",
+          "macbook neo review 2026",
+          "best apple laptop india",
+          "lightweight premium laptop india"
+        ]
+      }
+    }
+  ]
+}
