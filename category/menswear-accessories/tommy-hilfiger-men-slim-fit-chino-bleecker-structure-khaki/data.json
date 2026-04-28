@@ -1,0 +1,125 @@
+{
+  "products": [
+    {
+      "id": "tommy-hilfiger-men-casual-pants-f24hmnd053",
+      "slug": "tommy-hilfiger-men-slim-fit-chino-bleecker-structure-khaki",
+      "url": "/categories/clothing-accessories/men/trousers/tommy-hilfiger-men-slim-fit-chino-bleecker-structure-khaki.html",
+
+      "title": "Tommy Hilfiger Men Casual Slim Fit Chino Pants",
+      "brand": "Tommy Hilfiger",
+      "model": "F24HMND053",
+
+      "category": "clothing-accessories",
+      "subcategory": "men-trousers",
+
+      "price": {
+        "current": 3569,
+        "original": 6999,
+        "currency": "INR",
+        "discount_percent": 49
+      },
+
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Thursday, 30 April",
+        "seller": "Cocoblu Retail",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-5.jpg"
+      ],
+
+      "short_description": "Premium Tommy Hilfiger Men's Chino Bleecker Structure trousers featuring a slim fit, solid pattern, and comfortable cotton blend fabric.",
+
+      "long_description": "The Tommy Hilfiger Men's Casual Pants (F24HMND053) are crafted for a modern, sophisticated look. Featuring the 'Bleecker' slim-fit silhouette, these chinos are made from a high-quality cotton blend that provides both structure and comfort. Designed with a classic zipper closure and a solid textured pattern, they are perfect for casual outings or smart-casual office wear. Imported from Turkey and distributed by PVH Arvind Fashion, these trousers offer the iconic Tommy Hilfiger style with durable craftsmanship.",
+
+      "highlights": [
+        "Premium Cotton Blend fabric for breathability",
+        "Modern Slim Fit (Bleecker silhouette)",
+        "Structured solid pattern for a refined look",
+        "Classic Chino styling with zipper closure",
+        "Durable construction imported from Turkey",
+        "Machine washable for easy maintenance"
+      ],
+
+      "specifications": {
+        "capacity": "N/A",
+        "energy_rating": "N/A",
+        "type": "Casual Chino Trousers",
+        "material": "Cotton Blend",
+        "fit_type": "Slim Fit",
+        "closure_type": "Zipper",
+        "special_features": [
+          "Bleecker Structure",
+          "Solid Pattern",
+          "Lightweight 400g",
+          "Casual Occasion Wear"
+        ]
+      },
+
+      "pros": [
+        "Significant 49% discount off M.R.P.",
+        "Reputable premium global brand",
+        "Versatile khaki/beige color for easy styling",
+        "High-quality structured fabric"
+      ],
+
+      "cons": [
+        "Limited stock available (Only 1 left)",
+        "Slim fit may not suit all body types",
+        "Currently no customer reviews for this specific model"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Brand known for 82% positive customer satisfaction",
+          "Trusted seller with long history on platform"
+        ],
+        "negative": [
+          "Limited sizing options currently visible",
+          "Restricted 10-day exchange/replacement policy"
+        ]
+      },
+
+      "offers": [
+        "Upto ₹2,500 bank discount on select credit cards",
+        "Upto ₹107 cashback via Amazon Pay ICICI Credit Card",
+        "No Cost EMI options available starting at ₹125"
+      ],
+
+      "warranty": {
+        "product": "N/A",
+        "return_policy": "10 days Exchange & Replacement only",
+        "authenticity": "Top Brand - Secure Transaction"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4ef748Q",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Tommy Hilfiger Men's Slim Fit Chino Pants (F24HMND053) - Price & Specs",
+        "meta_description": "Shop Tommy Hilfiger Men's Casual Chino Trousers in Khaki. Features Slim Fit Bleecker structure, cotton blend fabric, and zipper closure. Best price online.",
+        "keywords": [
+          "tommy hilfiger men trousers india",
+          "tommy hilfiger bleecker chinos",
+          "men's slim fit casual pants",
+          "khaki chinos for men",
+          "tommy hilfiger f24hmnd053 price"
+        ]
+      }
+    }
+  ]
+}
