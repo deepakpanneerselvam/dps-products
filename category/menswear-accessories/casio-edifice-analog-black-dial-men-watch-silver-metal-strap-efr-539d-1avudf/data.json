@@ -1,0 +1,127 @@
+{
+  "products": [
+    {
+      "id": "casio-edifice-efr-539d-1avudf",
+      "slug": "casio-edifice-analog-black-dial-men-watch-silver-metal-strap-efr-539d-1avudf",
+      "url": "/categories/watches/men/casio-edifice-analog-black-dial-men-watch-efr-539d-1avudf.html",
+
+      "title": "Casio Edifice EFR-539D-1AVUDF Analog Black Dial Men Watch",
+      "brand": "Casio",
+      "model": "EFR-539D-1AVUDF",
+
+      "category": "watches",
+      "subcategory": "men-wrist-watches",
+
+      "price": {
+        "current": 10995,
+        "original": 10995,
+        "currency": "INR",
+        "discount_percent": 0
+      },
+
+      "rating": {
+        "average": 4.2,
+        "count": 2718
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Thursday, 30 April",
+        "seller": "VRP Telematics Business",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-5.jpg"
+      ],
+
+      "short_description": "A powerful Casio Edifice chronograph featuring a multi-dimensional layered face design, 100-meter water resistance, and a sturdy stainless steel build.",
+
+      "long_description": "The Casio Edifice EFR-539D-1AVUDF (EX191) is a high-performance analog watch inspired by the world of motor racing. It features a sophisticated multidimensional watch face with layered sub-dials and hour markers that provide a deep, aesthetic look. The watch is constructed with a durable stainless steel case and band, housing a precise quartz movement with a 1/10-second stopwatch. With 100-meter water resistance, it is built to handle both professional environments and outdoor adventures like snorkeling or swimming.",
+
+      "highlights": [
+        "1/10-second chronograph/stopwatch functionality",
+        "Multi-dimensional layered face design",
+        "100-meter water resistance for aquatic activities",
+        "Durable stainless steel case and silver metal strap",
+        "Large dial for easy readability at a glance",
+        "Authentic Edifice series craftsmanship"
+      ],
+
+      "specifications": {
+        "capacity": "N/A",
+        "energy_rating": "N/A",
+        "type": "Analog Chronograph",
+        "movement": "Quartz",
+        "case_material": "Stainless Steel",
+        "water_resistance": "100 Meters",
+        "special_features": [
+          "Split Time",
+          "1/10-sec Stopwatch",
+          "Date Display",
+          "Luminous Hands"
+        ]
+      },
+
+      "pros": [
+        "Premium weight and solid build quality",
+        "Sporty yet elegant racing-inspired design",
+        "Highly reliable quartz movement",
+        "Great value for money in the chronograph segment"
+      ],
+
+      "cons": [
+        "Relatively heavy (approx. 165g-185g)",
+        "Large case diameter may be too big for slim wrists",
+        "Stainless steel strap prone to minor scratches over time"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Stunning appearance and premium feel",
+          "Accurate timekeeping and stopwatch features",
+          "Excellent water resistance performance"
+        ],
+        "negative": [
+          "Some users find it bulky/heavy",
+          "Mixed feedback on the longevity of the strap finish",
+          "Box conditions can vary by seller"
+        ]
+      },
+
+      "offers": [
+        "Upto ₹2,500 bank discount on select credit cards",
+        "Upto ₹329 cashback via Amazon Pay ICICI Credit Card",
+        "No Cost EMI available starting at ₹387"
+      ],
+
+      "warranty": {
+        "product": "2 Years",
+        "return_policy": "10 days Returnable",
+        "authenticity": "Top Brand - Secure Transaction"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4vTwNtE",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Casio Edifice EFR-539D-1AVUDF Men's Watch - Price, Reviews & Features",
+        "meta_description": "Explore the Casio Edifice EFR-539D-1AVUDF. Featuring a black chronograph dial, stainless steel strap, and 100m water resistance. Perfect sporty luxury watch for men.",
+        "keywords": [
+          "casio edifice efr-539d-1avudf price",
+          "casio silver metal strap watch",
+          "men's chronograph watch india",
+          "edifice black dial watch",
+          "casio edifice 100m water resistant watch"
+        ]
+      }
+    }
+  ]
+}
