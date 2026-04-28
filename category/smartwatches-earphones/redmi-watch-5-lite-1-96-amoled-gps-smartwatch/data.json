@@ -1,0 +1,87 @@
+{
+  "products": [
+    {
+      "id": "redmi-watch-5-lite",
+      "slug": "redmi-watch-5-lite-1-96-amoled-gps-smartwatch",
+      "url": "/categories/smartwatches/redmi-watch-5-lite-1-96-amoled-gps-smartwatch.html",
+      "title": "Redmi Watch 5 Lite | 1.96\" AMOLED | Advanced In-Built GPS",
+      "brand": "Redmi",
+      "model": "Watch 5 Lite",
+      "category": "electronics",
+      "subcategory": "smartwatches",
+      "price": {
+        "current": 3499,
+        "original": 4999,
+        "currency": "INR",
+        "discount_percent": 30
+      },
+      "rating": {
+        "average": 4.2,
+        "count": 520
+      },
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Thursday, 30 April",
+        "seller": "Dawntech",
+        "fulfilled_by": "Amazon"
+      },
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-5.jpg"
+      ],
+      "short_description": "1.96 inch AMOLED display with built-in GPS and Alexa support.",
+      "long_description": "Redmi Watch 5 Lite brings high-end features like a large AMOLED display and built-in GPS to a budget price point. It supports 150+ sports modes.",
+      "highlights": [
+        "1.96\" AMOLED",
+        "Built-in GPS",
+        "Alexa Built-in",
+        "18-Day Battery"
+      ],
+      "specifications": {
+        "display": "AMOLED",
+        "battery": "18 Days",
+        "gps": "Built-in",
+        "modes": "150+"
+      },
+      "pros": [
+        "Great battery life",
+        "Bright AMOLED screen"
+      ],
+      "cons": [
+        "Bulky design",
+        "No auto-brightness"
+      ],
+      "reviews_summary": {
+        "positive": [
+          "GPS is accurate",
+          "Good display"
+        ],
+        "negative": [
+          "App sync is slow"
+        ]
+      },
+      "offers": [
+        "Bank discounts"
+      ],
+      "warranty": {
+        "product": "1 Year"
+      },
+      "affiliate": {
+        "buy_link": "https://amzn.to/3X7Y9uL",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+      "seo": {
+        "meta_title": "Redmi Watch 5 Lite Review",
+        "meta_description": "Budget GPS smartwatch review.",
+        "keywords": [
+          "redmi watch",
+          "gps smartwatch india"
+        ]
+      }
+    }
+  ]
+}

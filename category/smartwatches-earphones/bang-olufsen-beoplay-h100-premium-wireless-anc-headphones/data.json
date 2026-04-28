@@ -1,0 +1,87 @@
+{
+  "products": [
+    {
+      "id": "bo-beoplay-h100",
+      "slug": "bang-olufsen-beoplay-h100-premium-wireless-anc-headphones",
+      "url": "/categories/earphones/bang-olufsen-beoplay-h100-premium-wireless-anc-headphones.html",
+      "title": "Bang & Olufsen Beoplay H100 Premium Wireless Active Noise Cancelling Headphones",
+      "brand": "Bang & Olufsen",
+      "model": "Beoplay H100",
+      "category": "electronics",
+      "subcategory": "earphones",
+      "price": {
+        "current": 145000,
+        "original": 145000,
+        "currency": "INR",
+        "discount_percent": 0
+      },
+      "rating": {
+        "average": 4.8,
+        "count": 15
+      },
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Thursday, 30 April",
+        "seller": "LuxAudio",
+        "fulfilled_by": "Amazon"
+      },
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-5.jpg"
+      ],
+      "short_description": "The pinnacle of wireless audio with high-end materials and spatial sound.",
+      "long_description": "Crafted from fine leather and aluminum, the Beoplay H100 offers unparalleled sound quality and noise cancellation.",
+      "highlights": [
+        "Titanium Drivers",
+        "Spatial Audio",
+        "Modular Design",
+        "EarSense Tech"
+      ],
+      "specifications": {
+        "type": "Over-ear",
+        "drivers": "40mm Titanium",
+        "battery": "34 Hours",
+        "anc": "Advanced"
+      },
+      "pros": [
+        "Exquisite sound",
+        "Luxury materials",
+        "Easy repairs"
+      ],
+      "cons": [
+        "Extremely expensive"
+      ],
+      "reviews_summary": {
+        "positive": [
+          "Sound perfection",
+          "Very comfortable"
+        ],
+        "negative": [
+          "Heavy in weight"
+        ]
+      },
+      "offers": [
+        "No Cost EMI"
+      ],
+      "warranty": {
+        "product": "5 Years"
+      },
+      "affiliate": {
+        "buy_link": "https://amzn.to/3R3SmYt",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+      "seo": {
+        "meta_title": "B&O Beoplay H100 Review",
+        "meta_description": "Luxury headphone review.",
+        "keywords": [
+          "b&o h100",
+          "luxury headphones"
+        ]
+      }
+    }
+  ]
+}

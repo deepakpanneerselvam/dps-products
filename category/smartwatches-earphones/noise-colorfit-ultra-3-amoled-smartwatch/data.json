@@ -1,0 +1,86 @@
+{
+  "products": [
+    {
+      "id": "noise-colorfit-ultra-3",
+      "slug": "noise-colorfit-ultra-3-amoled-smartwatch",
+      "url": "/categories/smartwatches/noise-colorfit-ultra-3-amoled-smartwatch.html",
+      "title": "Noise ColorFit Ultra 3 AMOLED Smartwatch",
+      "brand": "Noise",
+      "model": "ColorFit Ultra 3",
+      "category": "electronics",
+      "subcategory": "smartwatches",
+      "price": {
+        "current": 2999,
+        "original": 7999,
+        "currency": "INR",
+        "discount_percent": 63
+      },
+      "rating": {
+        "average": 4.1,
+        "count": 12400
+      },
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Thursday, 30 April",
+        "seller": "VRP Telematics",
+        "fulfilled_by": "Amazon"
+      },
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-5.jpg"
+      ],
+      "short_description": "Massive 1.96 inch AMOLED display with functional crown.",
+      "long_description": "Noise ColorFit Ultra 3 offers a premium feel with a functional crown and metallic finish.",
+      "highlights": [
+        "1.96\" AMOLED",
+        "Functional Crown",
+        "Gesture Control",
+        "AOD Support"
+      ],
+      "specifications": {
+        "display": "AMOLED",
+        "size": "1.96 inch",
+        "battery": "7 Days",
+        "crown": "Functional"
+      },
+      "pros": [
+        "Premium metal build",
+        "Huge display"
+      ],
+      "cons": [
+        "Heart rate sensor can be inconsistent"
+      ],
+      "reviews_summary": {
+        "positive": [
+          "Looks expensive",
+          "Good haptics"
+        ],
+        "negative": [
+          "App UI could be better"
+        ]
+      },
+      "offers": [
+        "Bank discounts"
+      ],
+      "warranty": {
+        "product": "1 Year"
+      },
+      "affiliate": {
+        "buy_link": "https://amzn.to/3R3SmYt",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+      "seo": {
+        "meta_title": "Noise ColorFit Ultra 3 Review",
+        "meta_description": "Best AMOLED watch under 3k.",
+        "keywords": [
+          "noise watch",
+          "amoled smartwatch"
+        ]
+      }
+    }
+  ]
+}

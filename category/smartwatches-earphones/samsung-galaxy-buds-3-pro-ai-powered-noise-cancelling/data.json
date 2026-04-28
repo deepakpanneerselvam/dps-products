@@ -1,0 +1,86 @@
+{
+  "products": [
+    {
+      "id": "samsung-galaxy-buds-3-pro",
+      "slug": "samsung-galaxy-buds-3-pro-ai-powered-noise-cancelling",
+      "url": "/categories/earphones/samsung-galaxy-buds-3-pro-ai-powered-noise-cancelling.html",
+      "title": "Samsung Galaxy Buds 3 Pro AI-Powered Noise Cancelling Earbuds",
+      "brand": "Samsung",
+      "model": "Galaxy Buds 3 Pro",
+      "category": "electronics",
+      "subcategory": "earphones",
+      "price": {
+        "current": 19999,
+        "original": 19999,
+        "currency": "INR",
+        "discount_percent": 0
+      },
+      "rating": {
+        "average": 4.3,
+        "count": 1450
+      },
+      "availability": {
+        "status": "available",
+        "delivery": "FREE delivery Thursday, 30 April",
+        "seller": "RetailNet",
+        "fulfilled_by": "Amazon"
+      },
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-5.jpg"
+      ],
+      "short_description": "AI-optimized audio with blade design and light effects.",
+      "long_description": "The Galaxy Buds 3 Pro utilize Galaxy AI to adjust noise cancellation based on your environment.",
+      "highlights": [
+        "Galaxy AI",
+        "Blade Lights",
+        "Adaptive Noise Control",
+        "Hi-Res Audio"
+      ],
+      "specifications": {
+        "type": "TWS",
+        "lights": "Blade lights",
+        "ai": "Supported",
+        "battery": "30 Hours total"
+      },
+      "pros": [
+        "Futuristic design",
+        "Excellent transparent mode"
+      ],
+      "cons": [
+        "Fits differently than previous buds"
+      ],
+      "reviews_summary": {
+        "positive": [
+          "Great call quality",
+          "AI works well"
+        ],
+        "negative": [
+          "Design is polarizing"
+        ]
+      },
+      "offers": [
+        "Bank Cashback"
+      ],
+      "warranty": {
+        "product": "1 Year"
+      },
+      "affiliate": {
+        "buy_link": "https://amzn.to/3R3SmYt",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+      "seo": {
+        "meta_title": "Galaxy Buds 3 Pro Review",
+        "meta_description": "Samsung's AI earbuds review.",
+        "keywords": [
+          "galaxy buds 3 pro",
+          "samsung earbuds"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "products": [
+    {
+      "id": "oneplus-buds-4-tws",
+      "slug": "oneplus-buds-4-tws-earbuds-with-55db-anc",
+      "url": "/categories/earphones/oneplus-buds-4-tws-earbuds-with-55db-anc.html",
+      "title": "OnePlus Buds 4 TWS Earbuds with upto 55dB Real-time ANC",
+      "brand": "OnePlus",
+      "model": "Buds 4",
+      "category": "electronics",
+      "subcategory": "earphones",
+      "price": {
+        "current": 4999,
+        "original": 7999,
+        "currency": "INR",
+        "discount_percent": 38
+      },
+      "rating": {
+        "average": 4.4,
+        "count": 2500
+      },
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Thursday, 30 April",
+        "seller": "Dawntech",
+        "fulfilled_by": "Amazon"
+      },
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-5.jpg"
+      ],
+      "short_description": "Adaptive ANC and high-resolution audio with 40-hour battery life.",
+      "long_description": "OnePlus Buds 4 feature industry-leading 55dB active noise cancellation and dual drivers for high-resolution audio.",
+      "highlights": [
+        "55dB ANC",
+        "Dual Drivers",
+        "LHDC 5.0",
+        "40hr Battery"
+      ],
+      "specifications": {
+        "type": "TWS",
+        "latency": "94ms",
+        "battery": "40 Hours",
+        "charging": "Fast Charge"
+      },
+      "pros": [
+        "Excellent ANC",
+        "Clear vocals",
+        "Good fit"
+      ],
+      "cons": [
+        "LHDC needs specific phones"
+      ],
+      "reviews_summary": {
+        "positive": [
+          "Powerful bass",
+          "Great for calls"
+        ],
+        "negative": [
+          "Case feels thin"
+        ]
+      },
+      "offers": [
+        "Bank discounts"
+      ],
+      "warranty": {
+        "product": "1 Year"
+      },
+      "affiliate": {
+        "buy_link": "https://amzn.to/3R3SmYt",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+      "seo": {
+        "meta_title": "OnePlus Buds 4 Review",
+        "meta_description": "Best ANC earbuds under 5k.",
+        "keywords": [
+          "oneplus buds 4",
+          "tws earbuds"
+        ]
+      }
+    }
+  ]
+}

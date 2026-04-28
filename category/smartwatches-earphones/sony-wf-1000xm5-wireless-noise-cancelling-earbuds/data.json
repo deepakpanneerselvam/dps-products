@@ -1,0 +1,87 @@
+{
+  "products": [
+    {
+      "id": "sony-wf-1000xm5",
+      "slug": "sony-wf-1000xm5-wireless-noise-cancelling-earbuds",
+      "url": "/categories/earphones/sony-wf-1000xm5-wireless-noise-cancelling-earbuds.html",
+      "title": "Sony WF-1000XM5 Wireless Noise Cancelling Earbuds",
+      "brand": "Sony",
+      "model": "WF-1000XM5",
+      "category": "electronics",
+      "subcategory": "earphones",
+      "price": {
+        "current": 21990,
+        "original": 29990,
+        "currency": "INR",
+        "discount_percent": 27
+      },
+      "rating": {
+        "average": 4.5,
+        "count": 4200
+      },
+      "availability": {
+        "status": "available",
+        "delivery": "FREE delivery Thursday, 30 April",
+        "seller": "Dawntech",
+        "fulfilled_by": "Amazon"
+      },
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-5.jpg"
+      ],
+      "short_description": "The best noise cancelling earbuds with high-precision audio.",
+      "long_description": "Sony WF-1000XM5 features the Integrated Processor V2 for top-tier noise cancellation and rich audio quality.",
+      "highlights": [
+        "Integrated Processor V2",
+        "Bone Conduction",
+        "Multipoint Connect",
+        "LDAC Support"
+      ],
+      "specifications": {
+        "type": "TWS",
+        "battery": "24 Hours total",
+        "waterproof": "IPX4",
+        "drivers": "8.4mm"
+      },
+      "pros": [
+        "Compact size",
+        "Amazing soundstage",
+        "Best ANC"
+      ],
+      "cons": [
+        "Foam tips aren't for everyone"
+      ],
+      "reviews_summary": {
+        "positive": [
+          "Silence is golden",
+          "Rich audio"
+        ],
+        "negative": [
+          "Touch controls are sensitive"
+        ]
+      },
+      "offers": [
+        "Bank discounts"
+      ],
+      "warranty": {
+        "product": "1 Year"
+      },
+      "affiliate": {
+        "buy_link": "https://amzn.to/3R3SmYt",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+      "seo": {
+        "meta_title": "Sony WF-1000XM5 Review",
+        "meta_description": "Sony's flagship earbuds.",
+        "keywords": [
+          "sony xm5 earbuds",
+          "noise cancelling"
+        ]
+      }
+    }
+  ]
+}

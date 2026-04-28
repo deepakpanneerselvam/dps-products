@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": "google-pixel-watch-3-45mm",
+      "slug": "google-pixel-watch-3-45-mm-android-smartwatch-matte-black",
+      "url": "/categories/smartwatches/google-pixel-watch-3-45-mm-android-smartwatch-matte-black.html",
+      "title": "Google Pixel Watch 3 45 mm Android Smartwatch - Matte Black",
+      "brand": "Google",
+      "model": "Pixel Watch 3",
+      "category": "electronics",
+      "subcategory": "smartwatches",
+      "price": {
+        "current": 39900,
+        "original": 39900,
+        "currency": "INR",
+        "discount_percent": 0
+      },
+      "rating": {
+        "average": 4.1,
+        "count": 215
+      },
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Thursday, 30 April",
+        "seller": "RetailNet",
+        "fulfilled_by": "Amazon"
+      },
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-5.jpg"
+      ],
+      "short_description": "The ultimate Android smartwatch with advanced fitness tracking and deep Google integration.",
+      "long_description": "Pixel Watch 3 features a bigger 45mm display with Actua technology. It offers deep integration with Fitbit for heart health tracking and Google services like Maps.",
+      "highlights": [
+        "Actua Display",
+        "Fitbit Integration",
+        "Google AI",
+        "Fast Charging"
+      ],
+      "specifications": {
+        "display": "AMOLED",
+        "size": "45mm",
+        "os": "WearOS",
+        "water_resistance": "5ATM"
+      },
+      "pros": [
+        "Premium design",
+        "Best-in-class haptics",
+        "Smooth UI"
+      ],
+      "cons": [
+        "Battery life is average",
+        "High price"
+      ],
+      "reviews_summary": {
+        "positive": [
+          "Beautiful screen",
+          "Accurate GPS"
+        ],
+        "negative": [
+          "Expensive accessories"
+        ]
+      },
+      "offers": [
+        "Exchange Bonus"
+      ],
+      "warranty": {
+        "product": "1 Year"
+      },
+      "affiliate": {
+        "buy_link": "https://amzn.to/3P1R8kE",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+      "seo": {
+        "meta_title": "Google Pixel Watch 3 Review",
+        "meta_description": "Full review of the Pixel Watch 3 45mm.",
+        "keywords": [
+          "pixel watch 3",
+          "google smartwatch"
+        ]
+      }
+    }
+  ]
+}

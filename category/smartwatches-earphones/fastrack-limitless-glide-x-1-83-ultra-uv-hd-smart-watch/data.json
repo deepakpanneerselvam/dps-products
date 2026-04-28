@@ -1,0 +1,89 @@
+{
+  "products": [
+    {
+      "id": "fastrack-limitless-glide-x-1-83-smart-watch",
+      "slug": "fastrack-limitless-glide-x-1-83-ultra-uv-hd-smart-watch",
+      "url": "/categories/smartwatches/fastrack-limitless-glide-x-1-83-ultra-uv-hd-smart-watch.html",
+      "title": "Fastrack Limitless Glide X|1.83\" UltraVU HD Display|Advanced ATS Chipset Smart Watch",
+      "brand": "Fastrack",
+      "model": "Limitless Glide X",
+      "category": "electronics",
+      "subcategory": "smartwatches",
+      "price": {
+        "current": 1299,
+        "original": 2995,
+        "currency": "INR",
+        "discount_percent": 57
+      },
+      "rating": {
+        "average": 4.0,
+        "count": 17822
+      },
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Thursday, 30 April",
+        "seller": "VRP Telematics",
+        "fulfilled_by": "Amazon"
+      },
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/smartwatches-earphones/image-5.jpg"
+      ],
+      "short_description": "1.83\" UltraVU HD Display with Advanced ATS Chipset and 100+ Sports Modes.",
+      "long_description": "The Fastrack Limitless Glide X offers a vibrant 1.83\" UltraVU HD Display, ensuring clarity even in sunlight. Powered by an Advanced ATS Chipset, it provides seamless performance for health tracking and 100+ sports modes.",
+      "highlights": [
+        "1.83\" UltraVU HD Display",
+        "Advanced ATS Chipset",
+        "100+ Sports Modes",
+        "AI Voice Assistant"
+      ],
+      "specifications": {
+        "display": "1.83 inch HD",
+        "battery": "Up to 7 Days",
+        "protection": "IP68",
+        "chipset": "ATS"
+      },
+      "pros": [
+        "Bright display",
+        "Accurate health tracking",
+        "Budget friendly"
+      ],
+      "cons": [
+        "No AMOLED",
+        "Plastic build"
+      ],
+      "reviews_summary": {
+        "positive": [
+          "Value for money",
+          "Good battery life"
+        ],
+        "negative": [
+          "App connectivity issues"
+        ]
+      },
+      "offers": [
+        "Bank discounts",
+        "No Cost EMI"
+      ],
+      "warranty": {
+        "product": "1 Year"
+      },
+      "affiliate": {
+        "buy_link": "https://amzn.to/3OPsm2j",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+      "seo": {
+        "meta_title": "Fastrack Limitless Glide X Review",
+        "meta_description": "Detailed look at Fastrack's budget smartwatch.",
+        "keywords": [
+          "fastrack watch",
+          "smartwatch under 1500"
+        ]
+      }
+    }
+  ]
+}
