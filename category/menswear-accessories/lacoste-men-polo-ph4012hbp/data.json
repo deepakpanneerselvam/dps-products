@@ -1,0 +1,127 @@
+{
+  "products": [
+    {
+      "id": "lacoste-men-polo-ph4012hbp",
+      "slug": "lacoste-men-slim-fit-cotton-polo-shirt-ph4012hbp",
+      "url": "/categories/clothing-accessories/men/lacoste-men-slim-fit-cotton-polo-shirt-ph4012hbp.html",
+
+      "title": "Lacoste Men Slim Fit Cotton Polo Shirt (PH4012HBP)",
+      "brand": "Lacoste",
+      "model": "PH4012HBP",
+
+      "category": "clothing-accessories",
+      "subcategory": "men-tshirts",
+
+      "price": {
+        "current": 7475,
+        "original": 7475,
+        "currency": "INR",
+        "discount_percent": 0
+      },
+
+      "rating": {
+        "average": 3.6,
+        "count": 64
+      },
+
+      "availability": {
+        "status": "in_stock",
+        "delivery": "FREE delivery Sunday, 3 May",
+        "seller": "Cocoblu Retail",
+        "fulfilled_by": "Amazon"
+      },
+
+      "images": [
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-1.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-2.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-3.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-4.jpg",
+        "https://raw.githubusercontent.com/deepakpanneerselvam/dps-products/main/images/menswear-accessories/image-5.jpg"
+      ],
+
+      "short_description": "Premium Lacoste Men's Slim Fit Polo shirt crafted from signature 2-ply cotton petit piqué with an embroidered crocodile logo.",
+
+      "long_description": "The Lacoste Men's Slim Fit Polo (PH4012HBP) offers a modern, close-fitting cut for a sharp silhouette. Made from 100% 2-ply cotton petit piqué, it features a classic ribbed collar and armbands, side splits for ease of movement, and the iconic green embroidered crocodile on the chest. Designed and manufactured by Sports and Leisure Apparel Ltd., this polo combines timeless sporty elegance with high-quality comfort, making it a staple for any sophisticated casual wardrobe.",
+
+      "highlights": [
+        "100% 2-ply cotton petit piqué material",
+        "Modern Slim Fit cut",
+        "Iconic green embroidered crocodile logo",
+        "Ribbed collar and cuffs",
+        "Side splits for added comfort",
+        "Machine washable durable fabric"
+      ],
+
+      "specifications": {
+        "capacity": "N/A",
+        "energy_rating": "N/A",
+        "type": "Slim Fit Polo Shirt",
+        "material": "100% Cotton",
+        "sleeve_type": "Short Sleeve",
+        "collar_style": "Polo Collar",
+        "special_features": [
+          "2-ply Petit Piqué",
+          "Embroidered Logo",
+          "Side Splits",
+          "Ribbed Finish"
+        ]
+      },
+
+      "pros": [
+        "High-quality premium cotton fabric",
+        "Timeless and stylish branding",
+        "Comfortable slim fit silhouette",
+        "Authentic Lacoste craftsmanship"
+      ],
+
+      "cons": [
+        "Premium price point",
+        "Limited 10-day exchange/replacement policy",
+        "Slim fit may be tight for some body types"
+      ],
+
+      "reviews_summary": {
+        "positive": [
+          "Excellent fabric quality",
+          "Great fit for slim builds",
+          "Classic look that stays in style"
+        ],
+        "negative": [
+          "Sizing can run small",
+          "Occasional reports of delivery/packaging issues",
+          "High price compared to standard polos"
+        ]
+      },
+
+      "offers": [
+        "Upto ₹2,500 bank discount on select cards",
+        "Upto ₹224 cashback via Amazon Pay ICICI Credit Card",
+        "No Cost EMI available starting at ₹263"
+      ],
+
+      "warranty": {
+        "product": "N/A",
+        "return_policy": "10 days Exchange & Replacement only",
+        "authenticity": "Top Brand - Secure Transaction"
+      },
+
+      "affiliate": {
+        "buy_link": "https://amzn.to/4cMe4aJ",
+        "platform": "Amazon",
+        "cta_text": "Buy on Amazon"
+      },
+
+      "seo": {
+        "meta_title": "Lacoste Men's Slim Fit Polo (PH4012HBP) - Price, Features & Review",
+        "meta_description": "Shop the Lacoste Men Slim Fit Cotton Polo Shirt. Features 2-ply petit piqué, iconic crocodile logo, and classic slim styling. Free delivery available.",
+        "keywords": [
+          "lacoste men polo india",
+          "lacoste slim fit polo ph4012hbp",
+          "buy lacoste polo online",
+          "premium cotton polo shirts for men",
+          "lacoste crocodile logo t-shirt"
+        ]
+      }
+    }
+  ]
+}
