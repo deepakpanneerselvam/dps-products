@@ -7,7 +7,7 @@ interface ComparisonContextType {
   products: Product[];
   addProduct: (product: Product) => void;
   removeProduct: (productId: string) => void;
-  clearAll: () void;
+  clearAll: () => void;
   canAddMore: () => boolean;
 }
 

@@ -4,6 +4,7 @@ import { useState } from 'react';
 import Link from 'next/link';
 import { Product, getCategoryName } from '@/lib/data-loader';
 import ProductCard from '@/components/product-card';
+import AdSense from '@/components/adsense';
 import { motion } from 'framer-motion';
 
 interface CategoryPageProps {
@@ -86,10 +87,20 @@ export default function CategoryPage({
 
       {/* Products Grid */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        {/* Top Ad */}
+        <div className="mb-12">
+          <AdSense slot="1234567890" format="horizontal" />
+        </div>
+
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-6 mb-12">
           {sortedProducts.map((product, index) => (
             <ProductCard key={product.productId} product={product} index={index} />
           ))}
+        </div>
+
+        {/* Middle Ad */}
+        <div className="my-12">
+          <AdSense slot="0987654321" format="horizontal" />
         </div>
 
         {/* Pagination */}

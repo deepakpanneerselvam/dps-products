@@ -164,3 +164,20 @@ export function getRelatedProducts(categorySlug: string, currentProductId: strin
     .filter(p => p.productId !== currentProductId)
     .slice(0, limit);
 }
+
+export function getAllProducts(): Product[] {
+  try {
+    const categories = getAllCategories();
+    const allProducts: Product[] = [];
+
+    for (const category of categories) {
+      const { products } = getProductsByCategory(category.slug, 1, 1000);
+      allProducts.push(...products);
+    }
+
+    return allProducts;
+  } catch (error) {
+    console.error('Error loading all products:', error);
+    return [];
+  }
+}
