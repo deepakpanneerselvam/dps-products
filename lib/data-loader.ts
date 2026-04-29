@@ -54,8 +54,8 @@ export function getProductsByCategory(categorySlug: string, page: number = 1, li
     const productDirs = fs.readdirSync(categoryPath, { withFileTypes: true })
       .filter(dirent => dirent.isDirectory());
 
-    const products: Product[] = productDirs
-      .map(dirent => {
+    const products = productDirs
+      .map((dirent): Product | null => {
         try {
           const dataPath = path.join(categoryPath, dirent.name, 'data.json');
           const data = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
@@ -78,7 +78,7 @@ export function getProductsByCategory(categorySlug: string, page: number = 1, li
           return null;
         }
       })
-      .filter((p): p is Product => p !== null);
+      .filter((p): p is Product => p !== null) as Product[];
 
     productsCache.set(categorySlug, products);
 
