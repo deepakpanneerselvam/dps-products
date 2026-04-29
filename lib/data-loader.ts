@@ -1,51 +1,14 @@
+'use server';
+
 import fs from 'fs';
 import path from 'path';
-
-export interface ProductSpec {
-  name: string;
-  value: string;
-}
-
-export interface Product {
-  name: string;
-  productId: string;
-  price: number;
-  rating: number;
-  ratingCount: number;
-  features: string[];
-  pros: string[];
-  cons: string[];
-  specs: ProductSpec[];
-  image: string;
-  url: string;
-  category?: string;
-}
-
-export interface Category {
-  slug: string;
-  name: string;
-  productCount: number;
-}
+import { Product, Category, getCategoryName } from './shared-types';
 
 const CATEGORY_DIR = path.join(process.cwd(), 'category');
 
 // Cache for loaded data
 let categoriesCache: Category[] | null = null;
 let productsCache: Map<string, Product[]> = new Map();
-
-export function getCategoryName(slug: string): string {
-  const nameMap: Record<string, string> = {
-    'air-conditioner': 'Air Conditioners',
-    'fitness-gym': 'Fitness & Gym',
-    'kitchen-home-appliances': 'Kitchen & Home Appliances',
-    'laptop': 'Laptops',
-    'menswear-accessories': 'Menswear & Accessories',
-    'mobiles': 'Mobiles',
-    'smartwatches-earphones': 'Smartwatches & Earphones',
-    'television': 'Television',
-  };
-  return nameMap[slug] || slug.replace(/-/g, ' ');
-}
 
 export function getAllCategories(): Category[] {
   if (categoriesCache) return categoriesCache;

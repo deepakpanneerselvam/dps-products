@@ -1,6 +1,6 @@
 'use client';
 
-import { Product } from '@/lib/data-loader';
+import { Product } from '@/lib/shared-types';
 import Link from 'next/link';
 import { motion } from 'framer-motion';
 import { useState } from 'react';

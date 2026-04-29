@@ -1,7 +1,7 @@
 'use client';
 
 import { createContext, useContext, useState, ReactNode } from 'react';
-import { Product } from '@/lib/data-loader';
+import { Product } from '@/lib/shared-types';
 
 interface ComparisonContextType {
   products: Product[];

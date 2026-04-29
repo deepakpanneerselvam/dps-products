@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { Product } from '@/lib/data-loader';
+import { Product } from '@/lib/shared-types';
 import { motion } from 'framer-motion';
 
 interface ProductCardProps {

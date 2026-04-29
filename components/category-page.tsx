@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
-import { Product, getCategoryName } from '@/lib/data-loader';
+import { Product, getCategoryName } from '@/lib/shared-types';
 import ProductCard from '@/components/product-card';
 import AdSense from '@/components/adsense';
 import { motion } from 'framer-motion';
