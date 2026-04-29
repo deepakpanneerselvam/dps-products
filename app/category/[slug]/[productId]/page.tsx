@@ -24,7 +24,7 @@ export async function generateMetadata({ params }: ProductRouteProps): Promise<M
     openGraph: {
       title: `${product.name} - SmartIndianBazaar`,
       description: `${product.name} - ₹${product.price.toLocaleString()}. Best deals and reviews.`,
-      type: 'product',
+      type: 'website',
     },
   };
 }
