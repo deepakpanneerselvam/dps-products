@@ -1,6 +1,3 @@
-'use client';
-
-import { useMemo } from 'react';
 import { getAllProducts, getAllCategories, getCategoryName } from '@/lib/data-loader';
 import SEOLandingPage from '@/components/seo-landing-page';
 import Header from '@/components/header';
@@ -18,11 +15,9 @@ export default async function PriceRangePage({
 }: PriceRangePageProps) {
   const { slug, range } = await params;
   
-  // Decode price range (e.g., "under-50000" -> { min: 0, max: 50000 })
   const priceRange = decodeURIComponent(range);
   const categoryName = getCategoryName(slug);
   
-  // Map price range strings to actual ranges
   const rangeMap: { [key: string]: { min: number; max: number; label: string } } = {
     'under-20000': { min: 0, max: 20000, label: 'Under ₹20,000' },
     'under-50000': { min: 0, max: 50000, label: 'Under ₹50,000' },
